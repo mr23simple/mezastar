@@ -1,0 +1,23 @@
+name : Haxorus
+jname : オノノクス
+tmname : Ononokus
+star : Star
+type1 : Dragon
+setno : 2-3
+tagno : 022
+energy : 132
+grade : 5
+zcrystal : Dragonium
+type1 : Dragon
+move : Outrage
+movetype : Dragon
+zmove : Devastating Drake
+zmovetype : Dragon
+hp : 143
+atk : 160
+def : 100
+spatk : 68
+spdef : 79
+spd : 107
+dex : While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.
+jdex : おんこうな せいしつだが おこると こわい。 てっこつをも きりさく じまんの キバを おみまい するぞ。

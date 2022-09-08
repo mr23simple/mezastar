@@ -10,3 +10,5 @@ while read var; do
     echo "$url"
     ./extract.sh "$url" "$filename"
 done < ./tmp/master-data-ex.txt
+
+rm -f ./tmp/master-data.html ./tmp/master-data-ex.txt

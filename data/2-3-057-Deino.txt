@@ -1,0 +1,22 @@
+name : Deino
+jname : モノズ
+tmname : Monozu
+type1 : Dark
+type2 : Dragon
+setno : 2-3
+tagno : 057
+energy : 44
+grade : 2
+ : 
+type1 : Dark
+type2 : Dragon
+move : Tackle
+movetype : Normal
+hp : 63
+atk : 38
+def : 31
+spatk : 28
+spdef : 31
+spd : 24
+dex : When it encounters something, its first urge is usually to bite it. If it likes what it tastes, it will commit the associated scent to memory.
+jdex : とりあえず まず かみついてみる しゅうせい。 おいしかった ものは においを ちゃんと おぼえるという。

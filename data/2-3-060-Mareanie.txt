@@ -1,0 +1,22 @@
+name : Mareanie
+jname : ヒドイデ
+tmname : Hidoide
+type1 : Poison
+type2 : Water
+setno : 2-3
+tagno : 060
+energy : 60
+grade : 3
+ : 
+type1 : Poison
+type2 : Water
+move : Venoshock
+movetype : Poison
+hp : 84
+atk : 44
+def : 50
+spatk : 36
+spdef : 43
+spd : 38
+dex : It can be found crawling on beaches and seafloors. It catches prey with its 10 tentacles and weakens them with its poison spike.
+jdex : うみの そこや かいがんを はいまわっている。 どくを もった トゲで あいてを よわらせ １０ぽんの しょくしゅで とらえる。

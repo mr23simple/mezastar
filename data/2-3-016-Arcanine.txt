@@ -1,0 +1,23 @@
+name : Arcanine
+jname : ウインディ
+tmname : Windie
+star : Star
+type1 : Fire
+setno : 2-3
+tagno : 016
+energy : 134
+grade : 5
+ : 
+type1 : Fire
+move : Fire Blast
+movetype : Fire
+hp : 158
+atk : 121
+def : 89
+spatk : 111
+spdef : 89
+spd : 105
+tag : Flareon
+tagms : 136
+tagmove : Flamethrower
+tagmovetype : Fire

@@ -1,0 +1,19 @@
+name : Electivire
+jname : エレキブル
+tmname : Elekible
+type1 : Electric
+setno : 2-3
+tagno : 048
+energy : 108
+grade : 4
+type1 : Electric
+move : Thunder Punch
+movetype : Electric
+hp : 117
+atk : 110
+def : 62
+spatk : 86
+spdef : 78
+spd : 86
+dex : It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.
+jdex : ２ほんの シッポの さきを あいてに おしつけ ２まんボルトいじょうの こうあつでんりゅうを ながして こうげきする。

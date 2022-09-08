@@ -1,0 +1,23 @@
+name : Alcremie
+jname : マホイップ
+tmname : Mawhip
+star : Star
+type1 : Fairy
+setno : 2-3
+tagno : 023
+energy : 122
+grade : 5
+max : Dynamax
+type1 : Fairy
+move : Dazzling Gleam
+movetype : Fairy
+maxmove : Max Starfall
+maxmovetype : Fairy
+hp : 131
+atk : 68
+def : 84
+spatk : 121
+spdef : 133
+spd : 72
+dex : When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
+jdex : てから うみだす クリームは マホイップが しあわせなとき あまみと コクが ふかまる。

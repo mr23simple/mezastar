@@ -1,0 +1,22 @@
+name : Zweilous
+jname : ジヘッド
+tmname : Dihead
+type1 : Dark
+type2 : Dragon
+setno : 2-3
+tagno : 058
+energy : 76
+grade : 3
+ : 
+type1 : Dark
+type2 : Dragon
+move : Assurance
+movetype : Dark
+hp : 100
+atk : 67
+def : 56
+spatk : 53
+spdef : 56
+spd : 47
+dex : Their two heads will fight each other over a single piece of food. Zweilous are covered in scars even without battling others.
+jdex : １つの エサを ２つの あたまで うばいあう。 だれとも たたかって いないのに いつも キズだらけだ。

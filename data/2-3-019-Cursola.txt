@@ -1,0 +1,21 @@
+name : Cursola
+jname : サニゴーン
+tmname : Sunigoon
+star : Star
+type1 : Ghost
+setno : 2-3
+tagno : 019
+energy : 126
+grade : 5
+ : 
+type1 : Ghost
+move : Shadow Ball
+movetype : Ghost
+hp : 126
+atk : 105
+def : 58
+spatk : 158
+spdef : 142
+spd : 36
+dex : Be cautious of the ectoplasmic body surrounding its soul. You'll become stiff as stone if you touch it.
+jdex : たましいを おおう れいたいの からだには ちゅうい。 ふれると いしのように うごけなく なるぞ。

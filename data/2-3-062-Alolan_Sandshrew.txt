@@ -1,0 +1,22 @@
+name : Alolan Sandshrew
+jname : アローラサンド
+tmname : Alolan Sand
+link : Sandshrew
+type1 : Ice
+type2 : Steel
+setno : 2-3
+tagno : 062
+energy : 58
+grade : 2
+type1 : Ice
+type2 : Steel
+move : Icicle Spear
+movetype : Ice
+hp : 84
+atk : 60
+def : 71
+spatk : 12
+spdef : 30
+spd : 34
+dex : It developed a very hard shell. Conversely, it can't roll its body up into a ball anymore.
+jdex : こうらが とても かたく はったつした。 そのかわり からだを まるめることが できなくなってしまった。

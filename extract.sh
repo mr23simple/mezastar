@@ -44,6 +44,8 @@ while read var; do
     declare "$key"="$value"
 done < ./tmp/data-ex.txt
 
+rm -f ./tmp/data-ex.txt
+
 echo "\"$name\",\"$jname\",\"$tmname\",\"$star\",\"$symbol\",\"$type1\",\"$type2\",\"$setno\",\"$tagno\",\"$energy\",\"$grade\",\"$item\",\"$max\",\"$zcrystal\",\"$move\",\"$movetype\",\"$maxmove\",\"$maxmovetype\",\"$zmove\",\"$zmovetype\",\"$hp\",\"$atk\",\"$def\",\"$spatk\",\"$spdef\",\"$spd\",\"$dex\",\"$jdex\",\"$tag\",\"$tagms\",\"$tagmove\",\"$tagmovetype\""
 
 echo "\"$name\",\"$jname\",\"$tmname\",\"$star\",\"$symbol\",\"$type1\",\"$type2\",\"$setno\",\"$tagno\",\"$energy\",\"$grade\",\"$item\",\"$max\",\"$zcrystal\",\"$move\",\"$movetype\",\"$maxmove\",\"$maxmovetype\",\"$zmove\",\"$zmovetype\",\"$hp\",\"$atk\",\"$def\",\"$spatk\",\"$spdef\",\"$spd\",\"$dex\",\"$jdex\",\"$tag\",\"$tagms\",\"$tagmove\",\"$tagmovetype\"" >> data.csv

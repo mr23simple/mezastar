@@ -1,0 +1,26 @@
+name : Gengar
+jname : ゲンガー
+tmname : Gangar
+star : Superstar
+type1 : Ghost
+type2 : Poison
+setno : 2-3
+tagno : 009
+energy : 136
+grade : 6
+max : Gigantamax
+ : 
+type1 : Ghost
+type2 : Poison
+move : Shadow Ball
+movetype : Ghost
+gmaxmove : G-Max Terror
+gmaxmovetype : Ghost
+hp : 139
+atk : 81
+def : 75
+spatk : 158
+spdef : 93
+spd : 134
+dex : It steals heat from its surroundings. If the temperature suddenly drops, it is surely the work of a Gengar.
+jdex : まわりの ねつを うばう。 とつぜん おんどが さがったら ゲンガーの しわざに ちがいない。

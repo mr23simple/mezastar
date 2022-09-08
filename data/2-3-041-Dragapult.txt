@@ -1,0 +1,22 @@
+name : Dragapult
+jname : ドラパルト
+tmname : Dorapult
+type1 : Dragon
+type2 : Ghost
+setno : 2-3
+tagno : 041
+energy : 118
+grade : 4
+ : 
+type1 : Dragon
+type2 : Ghost
+move : Dragon Claw
+movetype : Dragon
+hp : 128
+atk : 108
+def : 69
+spatk : 91
+spdef : 69
+spd : 127
+dex : When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.
+jdex : ツノの あなに ドラメシヤを いれて くらす。 たたかいになると マッハの スピードで ドラメシヤを とばす。
