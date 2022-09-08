@@ -39,7 +39,7 @@ tagmovetype=""
 echo -n "" > ./data/$2.txt
 
 while read var; do
-    var=`echo $var | sed 's/,/;/g' | sed "s/\"/'/g"`
+    var=`echo $var | sed 's/,/;/g' | sed "s/\"/’/g"`
     key=`echo $var | grep -oP '(?<=\|).*?(?=\=)'`
     value=`echo $var | grep -o -P '(?<=\=).*'`
     echo "$key : $value" >> ./data/$2.txt
