@@ -21,7 +21,7 @@
             });
 
             function parse() {
-                $.get('https://raw.githubusercontent.com/mr23simple/mezastar/main/data.csv', function(file) {
+                $.get("https://raw.githubusercontent.com/mr23simple/mezastar/main/data.csv", function(file) {
                     const data = $.csv.toObjects(file);
                     $('#result').html(JSON.stringify(data, null, 2));
                 });
