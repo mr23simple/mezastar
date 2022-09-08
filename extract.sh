@@ -1,6 +1,6 @@
-curl $1 -o ./html/$2.html
+curl $1 -o ./html/$2.html -s
 
-sed -n '/{{Mezastar/,/}}/p' ./html/$2.html | sed -n '/|/,/=/p' > ./tmp/data-ex.txt
+sed -n '/{{Mezastar/,/}}/p' ./html/$2.html | grep "|" | sed 's/}//g' > ./tmp/data-ex.txt
 
 name=""
 jname=""
@@ -16,6 +16,7 @@ grade=""
 item=""
 max=""
 zcrystal=""
+mega=""
 move=""
 movetype=""
 maxmove=""
@@ -39,13 +40,13 @@ echo -n "" > ./data/$2.txt
 
 while read var; do
     key=`echo $var | grep -oP '(?<=\|).*?(?=\=)'`
-    value=`echo $var | grep -o -P '(?<=\=).*' | sed 's/}}//'`
+    value=`echo $var | grep -o -P '(?<=\=).*'`
     echo "$key : $value" >> ./data/$2.txt
     declare "$key"="$value"
 done < ./tmp/data-ex.txt
 
 rm -f ./tmp/data-ex.txt
 
-echo "\"$name\",\"$jname\",\"$tmname\",\"$star\",\"$symbol\",\"$type1\",\"$type2\",\"$setno\",\"$tagno\",\"$energy\",\"$grade\",\"$item\",\"$max\",\"$zcrystal\",\"$move\",\"$movetype\",\"$maxmove\",\"$maxmovetype\",\"$zmove\",\"$zmovetype\",\"$hp\",\"$atk\",\"$def\",\"$spatk\",\"$spdef\",\"$spd\",\"$dex\",\"$jdex\",\"$tag\",\"$tagms\",\"$tagmove\",\"$tagmovetype\""
+echo "\"$name\",\"$jname\",\"$tmname\",\"$star\",\"$symbol\",\"$type1\",\"$type2\",\"$setno\",\"$tagno\",\"$energy\",\"$grade\",\"$item\",\"$max\",\"$zcrystal\",\"$mega\",\"$move\",\"$movetype\",\"$maxmove\",\"$maxmovetype\",\"$zmove\",\"$zmovetype\",\"$hp\",\"$atk\",\"$def\",\"$spatk\",\"$spdef\",\"$spd\",\"$dex\",\"$jdex\",\"$tag\",\"$tagms\",\"$tagmove\",\"$tagmovetype\""
 
-echo "\"$name\",\"$jname\",\"$tmname\",\"$star\",\"$symbol\",\"$type1\",\"$type2\",\"$setno\",\"$tagno\",\"$energy\",\"$grade\",\"$item\",\"$max\",\"$zcrystal\",\"$move\",\"$movetype\",\"$maxmove\",\"$maxmovetype\",\"$zmove\",\"$zmovetype\",\"$hp\",\"$atk\",\"$def\",\"$spatk\",\"$spdef\",\"$spd\",\"$dex\",\"$jdex\",\"$tag\",\"$tagms\",\"$tagmove\",\"$tagmovetype\"" >> data.csv
+echo "\"$name\",\"$jname\",\"$tmname\",\"$star\",\"$symbol\",\"$type1\",\"$type2\",\"$setno\",\"$tagno\",\"$energy\",\"$grade\",\"$item\",\"$max\",\"$zcrystal\",\"$mega\",\"$move\",\"$movetype\",\"$maxmove\",\"$maxmovetype\",\"$zmove\",\"$zmovetype\",\"$hp\",\"$atk\",\"$def\",\"$spatk\",\"$spdef\",\"$spd\",\"$dex\",\"$jdex\",\"$tag\",\"$tagms\",\"$tagmove\",\"$tagmovetype\"" >> data.csv
