@@ -4,27 +4,49 @@
     </head>
 
     <body>
-        Welcome, Nakama!<br>
-        <input id="run" type="button" value="Run"><br>
-        <textarea id="result" style="height: 250px;"></textarea>
+        <input type="text" id="enemy1" onkeyup="filterjson(this);" value="" />
+        <input type="text" id="enemy2" onkeyup="filterjson(this);" value="" />
+        <input type="text" id="enemy3" onkeyup="filterjson(this);" value="" /><br>
+        <textarea id="pokemon1"></textarea>
+        <textarea id="pokemon2"></textarea>
+        <textarea id="pokemon3"></textarea>
+
+        <div id="res">
+
+        </div>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
         <script>
             // var file = 'https://raw.githubusercontent.com/mr23simple/mezastar/main/data.csv';
+            var jdata = ""
             $(document).ready(() => {
                 parse();
-            });
-
-            $('#run').bind('click', function () {
-                parse();
+                filterjson();
             });
 
             function parse() {
                 $.get("https://raw.githubusercontent.com/mr23simple/mezastar/main/data.csv", function(file) {
-                    const data = $.csv.toObjects(file);
-                    $('#result').html(JSON.stringify(data, null, 2));
+                    jdata = $.csv.toObjects(file);
                 });
+            }
+
+            function filterjson(currentElement) {
+                var res = $.grep(jdata, function (n, i) {
+                    if (n.grade >= 5) {
+                        return n.name.toLowerCase().indexOf($(currentElement).val().toLowerCase()) > -1;
+                    }
+                });
+                var outputstr = "<table style='border:solid 1px #000; border-collapse:collapse;' border='1' cellpadding='5'><thead><th>Tag #</th><th>Name</th></thead>";
+                var counter = 0
+                $.each(res, function (i, n) {
+                    if (counter < 10) {
+                        outputstr += "<tr><td>" + n.setno + "-" + n.tagno + "</td><td>" + n.name + "</td></tr>";
+                    }
+                    counter ++
+                });
+                outputstr += "</table>";
+                $("#res").html(outputstr);
             }
         </script>
     </body>
