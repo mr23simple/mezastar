@@ -17,5 +17,5 @@ def : 22
 spatk : 32
 spdef : 22
 spd : 25
-dex : It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.
+dex : It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak; but it can cause a tingling paralysis.
 jdex : どくそを かがくへんか させて でんきを だす。 でんりょくは よわいが ビリビリと しびれる。

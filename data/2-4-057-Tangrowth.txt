@@ -15,5 +15,5 @@ def : 115
 spatk : 101
 spdef : 49
 spd : 49
-dex : Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long, Tangrowth shortens them by tearing parts of them off.
+dex : Vine growth is accelerated for Tangrowth living in warm climates. If the vines grow long; Tangrowth shortens them by tearing parts of them off.
 jdex : あたたかい とちで くらす ものほど ツルの のびが はやい。 のびると みずから ちぎって みじかくする。

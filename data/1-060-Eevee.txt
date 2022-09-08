@@ -15,5 +15,5 @@ def : 41
 spatk : 37
 spdef : 51
 spd : 44
-dex : Thanks to its unstable genetic makeup, it can evolve into a variety of different forms.
+dex : Thanks to its unstable genetic makeup; it can evolve into a variety of different forms.
 jdex : ふあんていな いでんしの おかげで いろいろな すがたかたちに しんかする。

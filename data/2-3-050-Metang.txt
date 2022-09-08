@@ -17,5 +17,5 @@ def : 79
 spatk : 45
 spdef : 64
 spd : 42
-dex : Using magnetic forces to stay aloft, this Pokémon flies at high speeds, weaving through harsh mountain terrain in pursuit of prey.
+dex : Using magnetic forces to stay aloft; this Pokémon flies at high speeds; weaving through harsh mountain terrain in pursuit of prey.
 jdex : じりょくで そらを とぶ。 けわしい さんがくを ぬうように こうそうで ひこうして えものを おいつめる。

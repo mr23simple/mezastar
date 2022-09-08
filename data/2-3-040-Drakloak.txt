@@ -17,5 +17,5 @@ def : 42
 spatk : 49
 spdef : 42
 spd : 80
-dex : Without a Dreepy to place on its head and care for, it gets so uneasy it'll try to substitute any Pokémon it finds for the missing Dreepy.
+dex : Without a Dreepy to place on its head and care for; it gets so uneasy it'll try to substitute any Pokémon it finds for the missing Dreepy.
 jdex : せわをする ドラメシヤを あたまに のせていないと おちつかないので ほかの ポケモンを のせようとする。

@@ -15,5 +15,5 @@ def : 44
 spatk : 69
 spdef : 62
 spd : 84
-dex : If its electric pouches run empty, it raises its tail to gather electricity from the atmosphere.
+dex : If its electric pouches run empty; it raises its tail to gather electricity from the atmosphere.
 jdex : でんきぶくろが からっぽに なると しっぽを まっすぐ たてて くうきちゅうの でんきを あつめる。

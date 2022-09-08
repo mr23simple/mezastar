@@ -15,5 +15,5 @@ def : 30
 spatk : 24
 spdef : 24
 spd : 27
-dex : It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.
+dex : It starts off battles by attacking with its rock-hard horn; but as soon as the opponent flinches; this Pokémon bites down and never lets go.
 jdex : あたまの ツノは いわの かたさ。 ツノで たたかい ひるんだ すきに パクリと かみつき はなさない。

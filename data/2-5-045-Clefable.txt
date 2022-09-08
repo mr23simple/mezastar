@@ -15,5 +15,5 @@ def : 70
 spatk : 90
 spdef : 86
 spd : 59
-dex : Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.
+dex : Their ears are sensitive enough to hear a pin drop from over a mile away; so they're usually found in quiet places.
 jdex : １キロさきに おちた はりの おとも きこえるほど みみが いいので ふだんは しずかな ところに いる。

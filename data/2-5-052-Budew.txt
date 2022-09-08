@@ -17,5 +17,5 @@ def : 23
 spatk : 31
 spdef : 41
 spd : 33
-dex : The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison's toxicity is increased.
+dex : The pollen it releases contains poison. If this Pokémon is raised on clean water; the poison's toxicity is increased.
 jdex : どくを ふくんだ かふんを まく。 きれいな みずで そだてるほど どくの せいぶんは たかまる。

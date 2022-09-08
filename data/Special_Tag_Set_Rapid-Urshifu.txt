@@ -19,5 +19,5 @@ def : 91
 spatk : 58
 spdef : 56
 spd : 88
-dex : It's believed that this Pokémon modeled its fighting style on the flow of a river — sometimes rapid, sometimes calm.
+dex : It's believed that this Pokémon modeled its fighting style on the flow of a river — sometimes rapid; sometimes calm.
 jdex : ときに はげしく ときに おだやかな かわの ながれから かくとうわざの かたを あみだしたと いわれている。

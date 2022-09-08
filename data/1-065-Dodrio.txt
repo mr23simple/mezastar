@@ -17,5 +17,5 @@ def : 55
 spatk : 48
 spdef : 48
 spd : 84
-dex : It uses its three brains to collect data and plan three times as wisely, but it may think too much and become immobilized.
+dex : It uses its three brains to collect data and plan three times as wisely; but it may think too much and become immobilized.
 jdex : 3つの あたまで 3ばいの じょうほうを あつめて こうどな さくせんを あやつるが たまに かんがえすぎて うごけなくなる。

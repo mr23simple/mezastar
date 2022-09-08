@@ -17,5 +17,5 @@ def : 70
 spatk : 84
 spdef : 70
 spd : 105
-dex : Hidden in darkness, it attacks prey. The ultrasonic waves it emits from its ears can break large boulders into pieces.
+dex : Hidden in darkness; it attacks prey. The ultrasonic waves it emits from its ears can break large boulders into pieces.
 jdex : やみに かくれて えものを おそう。 みみから はなたれる ちょうおんぱは おおきな いわも こなごなに くだく。

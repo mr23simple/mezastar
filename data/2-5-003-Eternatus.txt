@@ -19,5 +19,5 @@ def : 120
 spatk : 181
 spdef : 120
 spd : 163
-dex : It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon.
+dex : It was inside a meteorite that fell 20;000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon.
 jdex : ２まんねんまえに おちた いんせきの なかに いた。 ダイマックスの なぞに かんけいしている らしい。

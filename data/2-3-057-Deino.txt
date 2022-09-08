@@ -17,5 +17,5 @@ def : 31
 spatk : 28
 spdef : 31
 spd : 24
-dex : When it encounters something, its first urge is usually to bite it. If it likes what it tastes, it will commit the associated scent to memory.
+dex : When it encounters something; its first urge is usually to bite it. If it likes what it tastes; it will commit the associated scent to memory.
 jdex : とりあえず まず かみついてみる しゅうせい。 おいしかった ものは においを ちゃんと おぼえるという。

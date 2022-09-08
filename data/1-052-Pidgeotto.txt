@@ -17,5 +17,5 @@ def : 38
 spatk : 35
 spdef : 35
 spd : 47
-dex : It flies over its wide territory in search of prey. However high it flies, its vision enables it to distinguish the movements of its prey.
+dex : It flies over its wide territory in search of prey. However high it flies; its vision enables it to distinguish the movements of its prey.
 jdex : ひろい なわばりを とびまわり えものを さがす。 どんなに たかい ところからでも えものの うごきを みわける しりょくの もちぬし。

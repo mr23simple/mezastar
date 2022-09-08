@@ -20,5 +20,5 @@ def : 109
 spatk : 121
 spdef : 150
 spd : 109
-dex : Its sinister aura, which blazes like molten fire, will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves.
+dex : Its sinister aura; which blazes like molten fire; will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves.
 jdex : ほのおのように もえあがる じゃあくな オーラに あてられると せいこんが つきはて まっしろに もえつきて しまう。

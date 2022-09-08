@@ -15,5 +15,5 @@ def : 49
 spatk : 53
 spdef : 49
 spd : 30
-dex : The circular patterns on its body emit electricity. It wraps itself around its prey, paralyzes it with electricity, and then chomps.
+dex : The circular patterns on its body emit electricity. It wraps itself around its prey; paralyzes it with electricity; and then chomps.
 jdex : からだの まるい もようから でんきを はなつ。 えものに まきつき でんきで しびれさせてから まるかじりする。

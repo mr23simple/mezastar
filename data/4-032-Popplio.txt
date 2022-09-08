@@ -15,5 +15,5 @@ def : 32
 spatk : 38
 spdef : 33
 spd : 24
-dex : In battle, it uses inflated balloons made from bodily fluids in a variety of ways.
+dex : In battle; it uses inflated balloons made from bodily fluids in a variety of ways.
 jdex : たいえきを はなで ふくらませた バルーンを つかって たたかう。 その つかいかたは さまざま。

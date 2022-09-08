@@ -17,5 +17,5 @@ def : 37
 spatk : 24
 spdef : 24
 spd : 9
-dex : Very slow and stupid. If its tail is bitten, it won't even notice for a whole day.
+dex : Very slow and stupid. If its tail is bitten; it won't even notice for a whole day.
 jdex : のろまで とても にぶい。 しっぽに かみつかれても いちにちじゅう きが つかない。

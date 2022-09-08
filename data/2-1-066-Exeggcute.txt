@@ -17,5 +17,5 @@ def : 61
 spatk : 47
 spdef : 36
 spd : 33
-dex : The six eggs converse using telepathy, so even if they are separated, they will rejoin instantly.
+dex : The six eggs converse using telepathy; so even if they are separated; they will rejoin instantly.
 jdex : テレパシーで たがいに よびあっているので ひきはなそうと しても すぐに ６ぴき あつまってしまう。

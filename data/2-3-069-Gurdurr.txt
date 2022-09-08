@@ -15,5 +15,5 @@ def : 67
 spatk : 34
 spdef : 42
 spd : 34
-dex : Gurdurr excels at demolition—construction is not its forte. In any case, there's skill in the way this Pokémon wields its metal beam.
+dex : Gurdurr excels at demolition—construction is not its forte. In any case; there's skill in the way this Pokémon wields its metal beam.
 jdex : てっこつを たくみに あやつる。 かいたいは とくいだが なにかを くみたてるのは にがてなのだ。

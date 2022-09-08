@@ -15,5 +15,5 @@ def : 72
 spatk : 86
 spdef : 72
 spd : 65
-dex : When its eyes gleam gold, it becomes able to see through objects. It will spot prey on the other side of walls.
+dex : When its eyes gleam gold; it becomes able to see through objects. It will spot prey on the other side of walls.
 jdex : ひとみを きんいろに ひからせて とうしのうりょくを はっきする。 カべの むこうにいる えものも おみとおし。

@@ -15,5 +15,5 @@ def : 33
 spatk : 23
 spdef : 23
 spd : 18
-dex : It eats berries nonstop—a habit that has made it more resilient than it looks. It'll show up on farms, searching for yet more berries.
+dex : It eats berries nonstop—a habit that has made it more resilient than it looks. It'll show up on farms; searching for yet more berries.
 jdex : つねに きのみを くっているので みかけいじょうに タフ。 きのみを ねらって はたけに あらわれる。

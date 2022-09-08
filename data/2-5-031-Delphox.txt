@@ -17,5 +17,5 @@ def : 69
 spatk : 107
 spdef : 95
 spd : 98
-dex : It stares into the flame on its stick to focus its mind, allowing it see that which is to come.
+dex : It stares into the flame on its stick to focus its mind; allowing it see that which is to come.
 jdex : つえの ほのおを じっと みて きもちを しゅうちゅうすると このさき おこる ことが よちできる。

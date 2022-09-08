@@ -17,5 +17,5 @@ def : 48
 spatk : 66
 spdef : 48
 spd : 44
-dex : It unleashes 10 kicks per second, each of which have outstanding destructive power. It keeps on fighting until its opponent gives up.
+dex : It unleashes 10 kicks per second; each of which have outstanding destructive power. It keeps on fighting until its opponent gives up.
 jdex : １びょうかんに １０ぱつ くりだす キックは はかいりょく ばつぐん。 あいてが ギブアップ するまで たたかいつづける。

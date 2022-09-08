@@ -18,5 +18,5 @@ def : 70
 spatk : 112
 spdef : 70
 spd : 75
-dex : Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.
+dex : Capable of generating 15;000 volts of electricity; this Pokémon looks down on all that would challenge it.
 jdex : 15000ボルトもの でんきを はっせいさせることが できる。 どんな あいても なめている。

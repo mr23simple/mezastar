@@ -15,5 +15,5 @@ def : 37
 spatk : 106
 spdef : 75
 spd : 93
-dex : Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5,000.
+dex : Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5;000.
 jdex : うまれてから たいけんした すべてを おぼえているほどの きおくりょく。 ちのうしすうは 5000を こえる。

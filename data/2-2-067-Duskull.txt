@@ -15,5 +15,5 @@ def : 51
 spatk : 20
 spdef : 51
 spd : 18
-dex : It has the ability to slip through thick walls. It doggedly pursues prey, but will abandon the chase at sunrise.
+dex : It has the ability to slip through thick walls. It doggedly pursues prey; but will abandon the chase at sunrise.
 jdex : ぶあつい カベも とおりぬける ことが できる。 どこまでも えものを おいつづけるが あさひが のぼると あきらめる。

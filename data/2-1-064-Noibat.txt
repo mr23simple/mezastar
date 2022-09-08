@@ -17,5 +17,5 @@ def : 23
 spatk : 28
 spdef : 25
 spd : 33
-dex : Its large ears can emit 200,000 hertz ultrasonic waves that can make people dizzy.
+dex : Its large ears can emit 200;000 hertz ultrasonic waves that can make people dizzy.
 jdex : おおきな みみから はなたれる ２０まんヘルツもの ちょうおんぱは めを まわすほど きょうりょくだ。

@@ -18,5 +18,5 @@ def : 138
 spatk : 49
 spdef : 101
 spd : 29
-dex : Never touch its shadowlike body, or you'll be shown the horrific memories behind the picture carved into it.
+dex : Never touch its shadowlike body; or you'll be shown the horrific memories behind the picture carved into it.
 jdex : かげの ような からだに ふれては いけない。 えに きざまれた おそろしい きおくを みせられるぞ。

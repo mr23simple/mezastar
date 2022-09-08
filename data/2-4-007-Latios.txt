@@ -19,5 +19,5 @@ def : 101
 spatk : 161
 spdef : 137
 spd : 137
-dex : It is highly intelligent and understands human speech. By folding its arms, it can fly faster than a jet.
+dex : It is highly intelligent and understands human speech. By folding its arms; it can fly faster than a jet.
 jdex : にんげんの ことばが わかるほど たかい ちのうを もっている。 うでを おりたたむと ジェットきより はやく とべる。

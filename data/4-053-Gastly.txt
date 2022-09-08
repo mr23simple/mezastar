@@ -17,5 +17,5 @@ def : 20
 spatk : 60
 spdef : 22
 spd : 48
-dex : 95% of its body is made of poisonous gas. Its body is thin however, and can be blown away by wind.
+dex : 95% of its body is made of poisonous gas. Its body is thin however; and can be blown away by wind.
 jdex : からだの 95パーセントが どくガスで できている 。 うすい かぜが ふくと からだが ふきとばされてしまう。

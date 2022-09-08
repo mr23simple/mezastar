@@ -15,5 +15,5 @@ def : 22
 spatk : 21
 spdef : 22
 spd : 33
-dex : Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.
+dex : Jumping nimbly about; this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.
 jdex : ちいさい からだで きびんに とんで すきを つく せんぽうで からだの おおきな あいてを てだまにとる。

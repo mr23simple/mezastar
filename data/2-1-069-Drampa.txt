@@ -17,5 +17,5 @@ def : 64
 spatk : 99
 spdef : 68
 spd : 30
-dex : The mountains it calls home are nearly two miles in height. On rare occasions, it descends to play with the children living in the towns below.
+dex : The mountains it calls home are nearly two miles in height. On rare occasions; it descends to play with the children living in the towns below.
 jdex : ひょうこう３０００メートルを こえる やまで くらす。 まれに まちへ やってきて こどもたちと あそぶ。

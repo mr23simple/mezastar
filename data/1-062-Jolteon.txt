@@ -15,5 +15,5 @@ def : 48
 spatk : 84
 spdef : 73
 spd : 99
-dex : If agitated, it uses stored electricity to erect its fur and fire it in bunches.
+dex : If agitated; it uses stored electricity to erect its fur and fire it in bunches.
 jdex : かんじょうが たかぶると でんきを ためて さかだてた たいもうを なんぼんも とばす。

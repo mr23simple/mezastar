@@ -17,5 +17,5 @@ def : 70
 spatk : 87
 spdef : 79
 spd : 49
-dex : In a flock of Empoleon, the size of the horns that extend from each of their beaks represent their strength.
+dex : In a flock of Empoleon; the size of the horns that extend from each of their beaks represent their strength.
 jdex : エンペルトの むれでは クチバシから のびる ツノの おおきさが つよさを あらわす。

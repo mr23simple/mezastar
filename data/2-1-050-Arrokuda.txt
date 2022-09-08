@@ -15,5 +15,5 @@ def : 25
 spatk : 25
 spdef : 20
 spd : 39
-dex : If it sees any movement around it, this Pokémon charges for it straightaway, leading with its sharply pointed jaw. It's very proud of that jaw.
+dex : If it sees any movement around it; this Pokémon charges for it straightaway; leading with its sharply pointed jaw. It's very proud of that jaw.
 jdex : するどく とがった あごが じまん。 すこしでも うごくものを みつけると いっちょくせんに とつげきする。

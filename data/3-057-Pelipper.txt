@@ -17,5 +17,5 @@ def : 69
 spatk : 65
 spdef : 49
 spd : 46
-dex : It can carry small Pokémon and Eggs inside its large bill. If it gets tired, it rests on the sea.
+dex : It can carry small Pokémon and Eggs inside its large bill. If it gets tired; it rests on the sea.
 jdex : おおきな くちばしに ちいさな ポケモンや タマゴを いれて はこぶ 。 つかれたら うみに うかんで ひとやすみ。

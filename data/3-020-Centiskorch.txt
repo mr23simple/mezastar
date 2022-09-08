@@ -18,5 +18,5 @@ def : 66
 spatk : 89
 spdef : 89
 spd : 66
-dex : When it heats up, its body temperature reaches about 1,500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.
+dex : When it heats up; its body temperature reaches about 1;500 degrees Fahrenheit. It lashes its body like a whip and launches itself at enemies.
 jdex : はつねつじの たいおんは およそ 800ど。 からだを ムチのように しならせて とびかかってくるぞ。

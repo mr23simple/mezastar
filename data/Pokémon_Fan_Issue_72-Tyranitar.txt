@@ -20,5 +20,5 @@ def : 75
 spatk : 65
 spdef : 69
 spd : 44
-dex : Its tremendous power can knock down mountains and bury rivers, changing the surrounding terrain.
+dex : Its tremendous power can knock down mountains and bury rivers; changing the surrounding terrain.
 jdex : やまを くずし かわを うずめ あたりの ちけいを かえてしまう ほどの ものすごい パワーを ひめている。

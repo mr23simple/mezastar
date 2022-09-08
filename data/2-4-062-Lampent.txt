@@ -17,5 +17,5 @@ def : 50
 spatk : 77
 spdef : 50
 spd : 46
-dex : This Pokémon appears just before someone passes away, so it's feared as an emissary of death.
+dex : This Pokémon appears just before someone passes away; so it's feared as an emissary of death.
 jdex : だれかが しぬ ちょくぜんに あらわれる ことから しにがみの つかい として おそれられている。

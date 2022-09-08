@@ -15,5 +15,5 @@ def : 31
 spatk : 38
 spdef : 36
 spd : 27
-dex : Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.
+dex : Unable to survive in hot areas; it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.
 jdex : あつい とちでは くらせない。 れいきを はいて ゆきを ふらせ つもった なかに もぐって ねむる。

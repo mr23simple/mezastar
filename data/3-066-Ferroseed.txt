@@ -17,5 +17,5 @@ def : 50
 spatk : 17
 spdef : 48
 spd : 10
-dex : It sticks its spikes into cave walls. When danger approaches, it attacks by launching spikes.
+dex : It sticks its spikes into cave walls. When danger approaches; it attacks by launching spikes.
 jdex : どうくつの かべに トゲを つきさして はりつく。 きけんが せまると トゲを うちだして はんげきする。

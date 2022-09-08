@@ -19,5 +19,5 @@ def : 89
 spatk : 113
 spdef : 80
 spd : 99
-dex : The energy that comes pouring from its tail increases the nutrition in the soil. As such, it is hailed as "The Guardian of the Fields."
+dex : The energy that comes pouring from its tail increases the nutrition in the soil. As such; it is hailed as 'The Guardian of the Fields.'
 jdex : しっぽから ふりそそぐ エネルギーは つちの えいようを ふやす あるので はたけの かみさまと いわれている。

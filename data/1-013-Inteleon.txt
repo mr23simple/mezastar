@@ -16,5 +16,5 @@ def : 62
 spatk : 115
 spdef : 62
 spd : 110
-dex : It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.
+dex : It has many hidden capabilities; such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.
 jdex : たさいな きのうを かくしもつ。 ゆびから みずを ふんしゃして せなかの ひまくで かぜに のる。

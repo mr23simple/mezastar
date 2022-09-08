@@ -18,5 +18,5 @@ def : 117
 spatk : 80
 spdef : 89
 spd : 33
-dex : It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.
+dex : It's usually peaceful; but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2;700 degrees Fahrenheit.
 jdex : ふだんは おだやかだが にんげんが こうざんを あらすと いかりくるい １５００どの ほのおで やきつくす。

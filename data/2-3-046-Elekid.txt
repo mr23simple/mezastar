@@ -15,5 +15,5 @@ def : 24
 spatk : 38
 spdef : 33
 spd : 54
-dex : When a storm approaches, this Pokémon gets restless. Once Elekid hears the sound of thunder, it gets full-on rowdy.
+dex : When a storm approaches; this Pokémon gets restless. Once Elekid hears the sound of thunder; it gets full-on rowdy.
 jdex : あらしが ちかづくと おちつきが なくなる。 かみなりの おとが きこえると たまらず さわぎだす。

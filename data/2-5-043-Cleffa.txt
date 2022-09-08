@@ -15,5 +15,5 @@ def : 19
 spatk : 28
 spdef : 33
 spd : 12
-dex : According to local rumors, Cleffa are often seen in places where shooting stars have fallen.
+dex : According to local rumors; Cleffa are often seen in places where shooting stars have fallen.
 jdex : ピィを よく みかける ばしょは ながれぼしが おちた ばしょと じもとでは うわさ されている。

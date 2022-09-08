@@ -17,5 +17,5 @@ def : 40
 spatk : 83
 spdef : 67
 spd : 55
-dex : It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.
+dex : It uses the different poisons in each hand separately when it attacks. The stronger its aroma; the healthier it is.
 jdex : みぎてと ひだりてで ２しゅるいの どくを つかいわけて こうげきする。 かおりが つよいほど げんきだ。

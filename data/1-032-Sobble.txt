@@ -15,5 +15,5 @@ def : 24
 spatk : 39
 spdef : 24
 spd : 39
-dex : When it gets wet, its skin changes color, and it becomes invisible as if it were camouflaged.
+dex : When it gets wet; its skin changes color; and it becomes invisible as if it were camouflaged.
 jdex : ひふの ぬれると いろが かわり カムフラージュ されたかの ように すがたが みえなく なる。

@@ -21,5 +21,5 @@ def : 126
 spatk : 132
 spdef : 58
 spd : 95
-dex : Its body resembles polished metal, and it's both lightweight and strong. The only drawback is that it rusts easily.
+dex : Its body resembles polished metal; and it's both lightweight and strong. The only drawback is that it rusts easily.
 jdex : みがきあげた きんぞくの ような からだは かるいうえに かたいが さびやすいのが けってんなのだ。

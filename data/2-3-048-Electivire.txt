@@ -15,5 +15,5 @@ def : 62
 spatk : 86
 spdef : 78
 spd : 86
-dex : It pushes the tips of its two tails against the foe, then lets loose with over 20,000 volts of power.
+dex : It pushes the tips of its two tails against the foe; then lets loose with over 20;000 volts of power.
 jdex : ２ほんの シッポの さきを あいてに おしつけ ２まんボルトいじょうの こうあつでんりゅうを ながして こうげきする。

@@ -15,5 +15,5 @@ def : 29
 spatk : 24
 spdef : 29
 spd : 16
-dex : This gluttonous Pokémon only assists people with their work because it wants treats. As it runs around, it crackles with electricity.
+dex : This gluttonous Pokémon only assists people with their work because it wants treats. As it runs around; it crackles with electricity.
 jdex : おやつに つられて ひとの しごとを てつだう くいしんぼう。 パチパチと でんきを まとって はしりまわる。

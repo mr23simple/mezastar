@@ -15,5 +15,5 @@ def : 15
 spatk : 10
 spdef : 33
 spd : 46
-dex : Although unattractive and unpopular, this Pokémon's marvelous vitality has made it a subject of research.
+dex : Although unattractive and unpopular; this Pokémon's marvelous vitality has made it a subject of research.
 jdex : みためが わるいので にんきは ないが きょういの せいめいりょくが あり けんきゅうたいしょうには なっている。

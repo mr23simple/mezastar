@@ -15,5 +15,5 @@ def : 67
 spatk : 48
 spdef : 42
 spd : 51
-dex : Five of them are troopers, and one is the brass. The brass's orders are absolute.
+dex : Five of them are troopers; and one is the brass. The brass's orders are absolute.
 jdex : ヘイチョーと よばれる 1ぴきと ヘイと よばれる 5ひきで ひとつ。ヘイチョーの めいれいは ぜったい。

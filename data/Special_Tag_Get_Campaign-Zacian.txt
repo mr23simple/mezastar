@@ -20,5 +20,5 @@ def : 80
 spatk : 57
 spdef : 80
 spd : 102
-dex : Able to cut down anything with a single strike, it became known as the Fairy King's Sword, and it inspired awe in friend and foe alike.
+dex : Able to cut down anything with a single strike; it became known as the Fairy King's Sword; and it inspired awe in friend and foe alike.
 jdex : あらゆるものを きりすてるさまから ようせいおうのつるぎ と よばれ てきみかたに おそれあがめられた。

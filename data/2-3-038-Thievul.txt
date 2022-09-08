@@ -15,5 +15,5 @@ def : 54
 spatk : 79
 spdef : 84
 spd : 82
-dex : It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.
+dex : It secretly marks potential targets with a scent. By following the scent; it stalks its targets and steals from them when they least expect it.
 jdex : ねらった エモノは こっそり マーキング。 においを たどって ゆだん したころ ぬすみに くるぞ。

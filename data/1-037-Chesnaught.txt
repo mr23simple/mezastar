@@ -17,5 +17,5 @@ def : 94
 spatk : 58
 spdef : 59
 spd : 51
-dex : When in a defensive posture with its fists guarding its face, it can withstand even a bomb blast.
+dex : When in a defensive posture with its fists guarding its face; it can withstand even a bomb blast.
 jdex : めの まえで こぶしを あわせ ぼうぎょしせいを とると ばくだんが ちょくげきしても たえる。

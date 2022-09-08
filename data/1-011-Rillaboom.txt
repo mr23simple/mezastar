@@ -16,5 +16,5 @@ def : 84
 spatk : 57
 spdef : 66
 spd : 79
-dex : By drumming, it taps into the power of its special tree stump. The Rillaboom with the best drumming techniques becomes the boss of the troop.
+dex : By drumming; it taps into the power of its special tree stump. The Rillaboom with the best drumming techniques becomes the boss of the troop.
 jdex : とくべつな きりかぶの パワーを ドラミングで コントロール。 ドラムテクニックに すぐれた ゴリランダーが なかまたちの ボスになる。

@@ -17,5 +17,5 @@ def : 115
 spatk : 62
 spdef : 119
 spd : 35
-dex : Although it can control its units known as Mini-Noses, they sometimes get lost and don't come back.
+dex : Although it can control its units known as Mini-Noses; they sometimes get lost and don't come back.
 jdex : チビノーズと よばれる ユニットを あやつるが たまに まいごに なって かえってこないことも あるらしい。

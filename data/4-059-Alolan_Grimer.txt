@@ -18,5 +18,5 @@ def : 38
 spatk : 31
 spdef : 38
 spd : 19
-dex : It loves feeding on garbage and sludge, so is unable to live in a sterile environment. The crystals on its body are lumps of toxins.
+dex : It loves feeding on garbage and sludge; so is unable to live in a sterile environment. The crystals on its body are lumps of toxins.
 jdex : ゴミや ヘドロが だいこうぶつで せいけつな ばしょでは いきていけない。 からだの けっしょうは どくその かたまりだ。

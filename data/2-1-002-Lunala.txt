@@ -19,5 +19,5 @@ def : 106
 spatk : 161
 spdef : 126
 spd : 115
-dex : It is said that when its third eye appears on its forehead, it will fly to another world.
+dex : It is said that when its third eye appears on its forehead; it will fly to another world.
 jdex : だい3の めが ひたいに うかびあがると べつせかいへ とびさって いくと いわれる。

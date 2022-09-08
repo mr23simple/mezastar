@@ -19,5 +19,5 @@ def : 81
 spatk : 91
 spdef : 91
 spd : 125
-dex : It never appears in front of people. It conceals itself in the shadows of others, copying their movements and powers.
+dex : It never appears in front of people. It conceals itself in the shadows of others; copying their movements and powers.
 jdex : ひとまえには すがたを みせず あいての かげの なかに ひそんで うごきや ちからを コピーする。

@@ -18,5 +18,5 @@ def : 103
 spatk : 54
 spdef : 84
 spd : 67
-dex : With their great intellect and flying skills, these Pokémon very successfully act as the Galar region's airborne taxi service.
+dex : With their great intellect and flying skills; these Pokémon very successfully act as the Galar region's airborne taxi service.
 jdex : ひこう のうりょくに すぐれていて とても かしこいため ガラルちほうで そらの タクシーとして かつやく。

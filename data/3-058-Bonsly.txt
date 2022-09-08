@@ -15,5 +15,5 @@ def : 52
 spatk : 6
 spdef : 27
 spd : 6
-dex : It looks as if it is always crying, but it is just expelling excess water from its body.
+dex : It looks as if it is always crying; but it is just expelling excess water from its body.
 jdex : いつも ないているように みえるが からだの よけいな すいぶんを めから そとに だしている だけなのだ。

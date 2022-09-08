@@ -19,5 +19,5 @@ def : 69
 spatk : 78
 spdef : 78
 spd : 101
-dex : Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.
+dex : Brave and prideful; this Pokémon dashes airily through the forest; its steps aided by the psychic power stored in the fur on its fetlocks.
 jdex : ゆうもうかかんで ほこり たかい。 あしさきの けに サイコパワーを ためて かろやかに もりを かける。

@@ -19,5 +19,5 @@ def : 103
 spatk : 109
 spdef : 77
 spd : 36
-dex : A Shellder bite set off a reaction with the spices inside its body, causing it to become a Poison-type.
+dex : A Shellder bite set off a reaction with the spices inside its body; causing it to become a Poison-type.
 jdex : シェルダーに かみつかれた しげきと たいないの スパイスが はんのうしたため どくタイプに なった。

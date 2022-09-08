@@ -21,5 +21,5 @@ def : 69
 spatk : 137
 spdef : 85
 spd : 125
-dex : Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike.
+dex : Legend says that by using its power to see all events from past to future; this Pokémon saved the creatures of a forest from a meteorite strike.
 jdex : かこ みらい すべての できごとを みとおす ちからで いんせきから もりの いきものを すくったらしい。

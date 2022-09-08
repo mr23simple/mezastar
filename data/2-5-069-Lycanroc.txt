@@ -15,5 +15,5 @@ def : 63
 spatk : 54
 spdef : 63
 spd : 105
-dex : It fights with quick movements. When properly raised from a young age, it will absolutely never betray its Trainer.
+dex : It fights with quick movements. When properly raised from a young age; it will absolutely never betray its Trainer.
 jdex : すばやい うごきで たたかう。 ちいさい ころから しっかり そだてれば けっして トレーナーを うらぎらなくなる。

@@ -15,5 +15,5 @@ def : 55
 spatk : 67
 spdef : 63
 spd : 51
-dex : It blasts enemies with cold air reaching -148 degrees Fahrenheit, freezing them solid. But it spares their lives afterward—it's a kind Pokémon.
+dex : It blasts enemies with cold air reaching -148 degrees Fahrenheit; freezing them solid. But it spares their lives afterward—it's a kind Pokémon.
 jdex : マイナス１００どの れいきで てきを こおらせるが いのちまでは うばわない やさしい きしつ。

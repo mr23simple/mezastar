@@ -15,5 +15,5 @@ def : 62
 spatk : 50
 spdef : 62
 spd : 68
-dex : When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.
+dex : When it gets dirty; its leaves can't be used in photosynthesis; so it always keeps itself clean.
 jdex : からだが よごれると はっぱで こうごうせいが できなくなるので いつも せいけつに している。

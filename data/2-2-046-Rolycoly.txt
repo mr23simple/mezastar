@@ -15,5 +15,5 @@ def : 31
 spatk : 25
 spdef : 31
 spd : 20
-dex : Most of its body has the same composition as coal. It can race around like a unicycle, even on rough, rocky terrain.
+dex : Most of its body has the same composition as coal. It can race around like a unicycle; even on rough; rocky terrain.
 jdex : からだの ほとんどが せきたんと おなじ せいぶん。 いわだらけの あくろでも いちりんしゃのように はしりまわる。

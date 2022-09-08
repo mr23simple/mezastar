@@ -15,5 +15,5 @@ def : 25
 spatk : 27
 spdef : 25
 spd : 36
-dex : It can only produce a trickle of electricity, but when a group of them gather, they can discharge electricity as powerful as lightning.
+dex : It can only produce a trickle of electricity; but when a group of them gather; they can discharge electricity as powerful as lightning.
 jdex : よわい でんきしか つくれないが むれになって ちからを あわせることで カミナリと おなじ いりょくの でんきを はなつ。

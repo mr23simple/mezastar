@@ -17,5 +17,5 @@ def : 63
 spatk : 117
 spdef : 99
 spd : 86
-dex : After captivating opponents with its sweet scent, it lashes them with its thorny whips.
+dex : After captivating opponents with its sweet scent; it lashes them with its thorny whips.
 jdex : かぐわしい はなの かおりで あいてを まどわせ いばらの ムチで はげしく うちつける。

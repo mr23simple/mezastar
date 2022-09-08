@@ -15,5 +15,5 @@ def : 38
 spatk : 28
 spdef : 33
 spd : 21
-dex : The shell on its back is made of soil. If the shell is reasonably moist, it's proof of good health.
+dex : The shell on its back is made of soil. If the shell is reasonably moist; it's proof of good health.
 jdex : せなかの こうらは つちで できている。 こうらが ほどよく しめって いれば げんきな しょうこだ。

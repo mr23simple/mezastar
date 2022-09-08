@@ -18,5 +18,5 @@ def : 103
 spatk : 129
 spdef : 124
 spd : 88
-dex : It is said that it visits peaceful regions, bringing them gifts of kindness and sweet blessings.
+dex : It is said that it visits peaceful regions; bringing them gifts of kindness and sweet blessings.
 jdex : あらそいの ない へいわな とちを おとずれて さまざまな めぐみを わけあたえると いう。

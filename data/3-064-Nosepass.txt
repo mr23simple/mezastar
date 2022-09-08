@@ -15,5 +15,5 @@ def : 91
 spatk : 33
 spdef : 62
 spd : 22
-dex : As its nose is a magnet, it always faces north. It uses powerful magnetism to drag its prey toward it.
+dex : As its nose is a magnet; it always faces north. It uses powerful magnetism to drag its prey toward it.
 jdex : はなが じしゃくに なっているので いつも きたを むいている。 きょうりょくな じりょくで えものを ひきよせる。

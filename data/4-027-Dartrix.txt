@@ -17,5 +17,5 @@ def : 54
 spatk : 51
 spdef : 51
 spd : 39
-dex : It loves preening its wings; however, its preoccupation with any dirt on its plumage can hinder it in battle.
+dex : It loves preening its wings; however; its preoccupation with any dirt on its plumage can hinder it in battle.
 jdex : つばさの ていれが だいすきだが うもうの よごれが きになって たたかいに さしつかえる ことも ある。

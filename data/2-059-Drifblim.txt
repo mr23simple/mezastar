@@ -17,5 +17,5 @@ def : 37
 spatk : 71
 spdef : 44
 spd : 64
-dex : At dusk, swarms of Drifblim are carried aloft on winds somewhere. When noticed, they suddenly vanish.
+dex : At dusk; swarms of Drifblim are carried aloft on winds somewhere. When noticed; they suddenly vanish.
 jdex : ゆうぐれに なると フワライドの むれが かぜに ながされて どこかへ とんでいく。 ふと きづくと いつのまにか きえている。

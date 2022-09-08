@@ -19,5 +19,5 @@ def : 94
 spatk : 159
 spdef : 94
 spd : 152
-dex : One kind of Ultra Beast. It stores hundreds of liters of a sticky, glowing, venomous liquid inside its body.
+dex : One kind of Ultra Beast. It stores hundreds of liters of a sticky; glowing; venomous liquid inside its body.
 jdex : ウルトラビーストの いっしゅ。 ねばねばして ひかる どくえきを からだのなかに すうひゃくリットルも ためている。

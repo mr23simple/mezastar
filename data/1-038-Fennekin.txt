@@ -15,5 +15,5 @@ def : 24
 spatk : 34
 spdef : 33
 spd : 33
-dex : It carries a twig as its favourite food. Munching the twig fills it with energy, and it vents hot air from its ears.
+dex : It carries a twig as its favourite food. Munching the twig fills it with energy; and it vents hot air from its ears.
 jdex : こうぶつの こえだを もちあるく。 ポリポリ たべると げんきに なって みみから ねっきを ふきだすよ。

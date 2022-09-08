@@ -19,5 +19,5 @@ def : 84
 spatk : 121
 spdef : 133
 spd : 72
-dex : When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
+dex : When Alcremie is content; the cream it secretes from its hands becomes sweeter and richer.
 jdex : てから うみだす クリームは マホイップが しあわせなとき あまみと コクが ふかまる。

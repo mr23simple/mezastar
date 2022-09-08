@@ -17,5 +17,5 @@ def : 33
 spatk : 33
 spdef : 33
 spd : 52
-dex : Its eyes are protected by a thin membrane that can sense heat, so it can see its surroundings even in the dead of night. They live in groups of a few individuals.
+dex : Its eyes are protected by a thin membrane that can sense heat; so it can see its surroundings even in the dead of night. They live in groups of a few individuals.
 jdex : めを まもる うすい まくが ねつを かんじとり まよなかでも まわりが みえる。 すうひきの むれを つくって こうどうする。

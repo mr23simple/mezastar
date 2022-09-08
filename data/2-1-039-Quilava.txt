@@ -15,5 +15,5 @@ def : 45
 spatk : 61
 spdef : 50
 spd : 61
-dex : Before battle, it turns its back on its opponent to demonstrate how strong its flames are. It is fully covered by nonflammable fur.
+dex : Before battle; it turns its back on its opponent to demonstrate how strong its flames are. It is fully covered by nonflammable fur.
 jdex : たたかいの まえに せなかを むけて ほのおの つよさに あいてに みせつける。 ぜんしんの けがわは けっして もえない。

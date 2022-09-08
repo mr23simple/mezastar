@@ -23,5 +23,5 @@ def : 185
 spatk : 107
 spdef : 161
 spd : 65
-dex : According to lore, this Pokémon showed no mercy to those who got in its way, yet it would heal its opponents' wounds after battle.
+dex : According to lore; this Pokémon showed no mercy to those who got in its way; yet it would heal its opponents' wounds after battle.
 jdex : みちを はばむものには ようしゃ しないが たたかいの あとは てきの きずでも かまわず いやしたという。

@@ -17,5 +17,5 @@ def : 65
 spatk : 50
 spdef : 50
 spd : 43
-dex : Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.
+dex : Although its legs are short; its rugged hooves prevent it from slipping; even on icy ground.
 jdex : ４ほんの あしは みじかいが ヒヅメは ひろく ギザギザ なので ゆきのうえでも すべらず あるける。

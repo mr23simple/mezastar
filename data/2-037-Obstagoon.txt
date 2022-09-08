@@ -17,5 +17,5 @@ def : 79
 spatk : 49
 spdef : 64
 spd : 75
-dex : It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.
+dex : It evolved after experiencing numerous fights. While crossing its arms; it lets out a shout that would make any opponent flinch.
 jdex : ケンカを くりかえし しんか。 うでをクロスし さけぶ おたけびは どんな あいても ひるませるぞ。

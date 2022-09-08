@@ -15,5 +15,5 @@ def : 25
 spatk : 25
 spdef : 25
 spd : 51
-dex : For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.
+dex : For Poliwag; swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.
 jdex : あるくよりも およぐほうが とくい。 おなかの うずまきもようは すけて みえる ないぞうの いちぶだ。

@@ -16,5 +16,5 @@ def : 39
 spatk : 45
 spdef : 45
 spd : 60
-dex : This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.
+dex : This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there; it promptly hides away.
 jdex : ひとみを のぞいて こころを よむ。 よこしまな きもちを みつけると たちまち すがたを けしてしまう。

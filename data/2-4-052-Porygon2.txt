@@ -15,5 +15,5 @@ def : 73
 spatk : 84
 spdef : 77
 spd : 50
-dex : After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand.
+dex : After artificial intelligence was implemented in Porygon2; the Pokémon began using a strange language that only other Porygon2 understand.
 jdex : ＡＩきのうを とうさいした けっか ポリゴン２ どうしにしか わからない なぞの げんごを はなし はじめた。

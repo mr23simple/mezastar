@@ -15,5 +15,5 @@ def : 72
 spatk : 59
 spdef : 76
 spd : 51
-dex : It uses its four powerful arms to pin the limbs of its foe, then throws the victim over the horizon.
+dex : It uses its four powerful arms to pin the limbs of its foe; then throws the victim over the horizon.
 jdex : ４ほんの うでで あいての てあしを おさえこみ じゆうを うばうと ちへいせんの むこうまで なげとばす。

@@ -15,5 +15,5 @@ def : 92
 spatk : 81
 spdef : 35
 spd : 50
-dex : Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.
+dex : Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off; this Pokémon's true appearance remains a mystery.
 jdex : ちぎれても むげんに のびる ツルの おくの しょうたいは いまだ かいめいされていない。

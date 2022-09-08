@@ -16,5 +16,5 @@ def : 33
 spatk : 25
 spdef : 25
 spd : 25
-dex : These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.
+dex : These daring Pokémon have coins on their foreheads. Darker coins are harder; and harder coins garner more respect among Meowth.
 jdex : ひたいの こばんは より くろいほど かたく なかまから そんけいされる。 ゆうもうで おそれを しらない。

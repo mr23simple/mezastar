@@ -11,7 +11,7 @@ zcrystal : Pikashunium
 type1 : Electric
 move : Thunderbolt
 movetype : Electric
-zmove : 10,000,000 Volt Thunderbolt
+zmove : 10;000;000 Volt Thunderbolt
 zmovetype : Electric
 hp : 106
 atk : 67

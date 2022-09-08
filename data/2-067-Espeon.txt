@@ -15,5 +15,5 @@ def : 49
 spatk : 101
 spdef : 75
 spd : 86
-dex : Its fur is so sensitive, it can feel the flow of air to predict its enemy's movements.
+dex : Its fur is so sensitive; it can feel the flow of air to predict its enemy's movements.
 jdex : ぜんしんの たいもうで くうきの ながれを よみとり あいての うごきを よそくする。

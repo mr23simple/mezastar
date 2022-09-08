@@ -15,5 +15,5 @@ def : 86
 spatk : 52
 spdef : 60
 spd : 43
-dex : Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.
+dex : Concrete mixed by Conkeldurr is much more durable than normal concrete; even when the compositions of the two materials are the same.
 jdex : おなじ せいぶんでも ローブシンが まぜた コンクリートの ほうが ずっと かたく じょうぶだ。

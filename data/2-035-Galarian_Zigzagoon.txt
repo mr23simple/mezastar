@@ -18,5 +18,5 @@ def : 25
 spatk : 20
 spdef : 25
 spd : 35
-dex : Its restlessness has it constantly running around. If it sees another Pokémon, it will purposely run into them in order to start a fight.
+dex : Its restlessness has it constantly running around. If it sees another Pokémon; it will purposely run into them in order to start a fight.
 jdex : おちつきなく はしりまわっている。 ほかの ポケモンを みつけると わざと ぶつかって ケンカを うる。

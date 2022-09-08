@@ -15,5 +15,5 @@ def : 47
 spatk : 38
 spdef : 41
 spd : 53
-dex : The faster a Thwackey can beat out a rhythm with its two sticks, the more respected it is among its peers.
+dex : The faster a Thwackey can beat out a rhythm with its two sticks; the more respected it is among its peers.
 jdex : 2ほんの スティックで はげしい ビートを きざめる バチンキーほど なかまから そんけいされる。

@@ -17,5 +17,5 @@ def : 75
 spatk : 66
 spdef : 57
 spd : 75
-dex : It looks strong, and that's exactly what it is. As the weather grows colder, its ice tusks grow longer, thicker, and more impressive.
+dex : It looks strong; and that's exactly what it is. As the weather grows colder; its ice tusks grow longer; thicker; and more impressive.
 jdex : みためどおりの ちからもち。 こおりのキバは さむくなるほど ふとく ながく りっぱに なる。

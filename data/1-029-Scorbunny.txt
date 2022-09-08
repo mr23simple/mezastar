@@ -15,5 +15,5 @@ def : 24
 spatk : 24
 spdef : 24
 spd : 38
-dex : A warm-up of running around gets fire energy coursing through its body. Once that happens, it's ready to fight at full power.
+dex : A warm-up of running around gets fire energy coursing through its body. Once that happens; it's ready to fight at full power.
 jdex : はしりまわって たいおんが あがると ほのおエネルギーが からだを めぐり ほんらいの ちからを だせるのだ。

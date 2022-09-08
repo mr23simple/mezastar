@@ -15,5 +15,5 @@ def : 33
 spatk : 18
 spdef : 23
 spd : 23
-dex : It loves helping out with construction projects. It loves it so much that if rain causes work to halt, it swings its log around and throws a tantrum.
+dex : It loves helping out with construction projects. It loves it so much that if rain causes work to halt; it swings its log around and throws a tantrum.
 jdex : けんちくの てつだいが すき。 あめで こうじが やすみの ひは かくざいを ふりまわし あばれる。

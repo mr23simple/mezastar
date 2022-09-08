@@ -17,5 +17,5 @@ def : 134
 spatk : 86
 spdef : 145
 spd : 96
-dex : It is said to represent the crescent moon. When it flies, it releases shiny particles from its veil-like wings.
+dex : It is said to represent the crescent moon. When it flies; it releases shiny particles from its veil-like wings.
 jdex : みかづきの けしんと よばれる。 ベールの ような はねから ひかる りゅうしを だすて そらを とぶ。

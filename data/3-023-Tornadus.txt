@@ -17,5 +17,5 @@ def : 70
 spatk : 122
 spdef : 80
 spd : 109
-dex : As it flies around, it causes fierce storms. Its power is enough to blow houses away.
+dex : As it flies around; it causes fierce storms. Its power is enough to blow houses away.
 jdex : そらを とびまわりながら はげしい あらしを まきおこす。 いえを ふきとばすほどの パワーだ。

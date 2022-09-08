@@ -15,5 +15,5 @@ def : 44
 spatk : 23
 spdef : 31
 spd : 28
-dex : It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.
+dex : It spews sand from its nostrils. While the enemy is blinded; it burrows into the ground to hide.
 jdex : はなの あなから すなを ふんしゃ。 てきの めを くらました すきに ちちゅうに もぐって みを かくす。

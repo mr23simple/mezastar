@@ -17,5 +17,5 @@ def : 28
 spatk : 18
 spdef : 18
 spd : 12
-dex : It lives in cold water. When it emerges onto land, it covers its body with a poisonous film.
+dex : It lives in cold water. When it emerges onto land; it covers its body with a poisonous film.
 jdex : つめたい みずの なかで くらす。 ちじょうに でてくる ときは どくの ねんまくで からだを おおう。

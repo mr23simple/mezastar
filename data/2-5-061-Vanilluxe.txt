@@ -15,5 +15,5 @@ def : 81
 spatk : 104
 spdef : 90
 spd : 76
-dex : When its anger reaches a breaking point, this Pokémon unleashes a fierce blizzard that freezes every creature around it, be they friend or foe.
+dex : When its anger reaches a breaking point; this Pokémon unleashes a fierce blizzard that freezes every creature around it; be they friend or foe.
 jdex : いかりが ちょうてんに たっすると ふぶきを ふきだして てきも みかたも こおりづけに する。

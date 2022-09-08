@@ -19,5 +19,5 @@ def : 70
 spatk : 122
 spdef : 80
 spd : 109
-dex : As it flies around, it fires off lightning all over the place. The land of places it has passed through is left scorched.
+dex : As it flies around; it fires off lightning all over the place. The land of places it has passed through is left scorched.
 jdex : そらを とびまわりながら あちこちに カミナリを おとす。 とおりすぎた とちは あちこちが やけこげている。

@@ -18,5 +18,5 @@ def : 108
 spatk : 78
 spdef : 65
 spd : 56
-dex : This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.
+dex : This Pokémon consumes particles that contaminate the air. Instead of leaving droppings; it expels clean air.
 jdex : たいきの きたない せいぶんを きゅうしゅうし きれいな くうきを フンの かわりに はきだしている。

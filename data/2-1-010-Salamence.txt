@@ -19,5 +19,5 @@ def : 96
 spatk : 130
 spdef : 96
 spd : 119
-dex : Its cellular structure changed, and its long-sought wings grew out. It flies around the sky while spouting flames.
+dex : Its cellular structure changed; and its long-sought wings grew out. It flies around the sky while spouting flames.
 jdex : からだの さいぼうが へんかして ねんがんの つばさが はえてきた。 ほのおを はきながら そらを とびまわるぞ。

@@ -17,5 +17,5 @@ def : 32
 spatk : 44
 spdef : 38
 spd : 55
-dex : It uses its tail to absorb electricity from things such as house outlets, and releases it from its whiskers.
+dex : It uses its tail to absorb electricity from things such as house outlets; and releases it from its whiskers.
 jdex : しっぽで いえの コンセントなどから でんきを きゅうしゅうして ヒゲから ほうしゅつする。

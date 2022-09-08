@@ -19,5 +19,5 @@ def : 107
 spatk : 89
 spdef : 107
 spd : 86
-dex : In battle, its petals give off a soothting scent that blunt an opponent's fighting spirit.
+dex : In battle; its petals give off a soothting scent that blunt an opponent's fighting spirit.
 jdex : きもちを しずめる かおりを はなびらから はっさんして てきの たたかう きもちを にぶらせる。

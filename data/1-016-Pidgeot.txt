@@ -20,4 +20,4 @@ spatk : 66
 spdef : 66
 spd : 93
 dex : マッハ2で そらを とぶことが できる。 ちからいっぱい はばたくと たいぼくが しなるほどの きょうふうを まきおこす。
-jdex : It races through the skies at Mach-2 speed. By flapping its wings with all its might, it can make a gust of wind capable of bending tall trees.
+jdex : It races through the skies at Mach-2 speed. By flapping its wings with all its might; it can make a gust of wind capable of bending tall trees.

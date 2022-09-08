@@ -17,5 +17,5 @@ def : 24
 spatk : 74
 spdef : 62
 spd : 62
-dex : It emits cries like human speech, but their meaning is not understood.
+dex : It emits cries like human speech; but their meaning is not understood.
 jdex : にんげんの ことばの ような なきごえを はっしているが いみは まるで わからない。

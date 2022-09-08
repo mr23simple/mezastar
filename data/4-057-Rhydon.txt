@@ -17,5 +17,5 @@ def : 84
 spatk : 32
 spdef : 32
 spd : 29
-dex : Its horn, which serves as a drill, can shatter uncut diamonds. Its thick hide protects it even in magma.
+dex : Its horn; which serves as a drill; can shatter uncut diamonds. Its thick hide protects it even in magma.
 jdex : ドリルになる ツノで ダイヤの げんせきも コナゴナに できる。 ぶあつい ひふは マグマの なかでも へいき。

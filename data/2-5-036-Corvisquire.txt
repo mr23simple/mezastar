@@ -15,5 +15,5 @@ def : 47
 spatk : 38
 spdef : 47
 spd : 65
-dex : Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.
+dex : Smart enough to use tools in battle; these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.
 jdex : あしで こいしを つかんで なげたり ロープを てきに まきつけるなど どうぐを あつかう ちえを もつ。

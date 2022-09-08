@@ -15,5 +15,5 @@ def : 39
 spatk : 59
 spdef : 47
 spd : 48
-dex : It has a twig stuck in its tail. When in battle, it pulls the twig out and friction causes it to catch fire.
+dex : It has a twig stuck in its tail. When in battle; it pulls the twig out and friction causes it to catch fire.
 jdex : しっぽに きのえだを さしている。 たたかう ときは この えだを ひきぬいて まさつで ひを おこす。

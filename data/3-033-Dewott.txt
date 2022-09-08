@@ -15,5 +15,5 @@ def : 43
 spatk : 58
 spdef : 43
 spd : 43
-dex : As a result of strict training, it learns techniques using its two scalchops. These techniques differ from one Dewott to another.
+dex : As a result of strict training; it learns techniques using its two scalchops. These techniques differ from one Dewott to another.
 jdex : きびしい しゅぎょうの すえ 2まいの ホタチを つかった わざを みにつける。 わざの しゅるいは フタチマルごとに ことなる。

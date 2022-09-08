@@ -18,5 +18,5 @@ def : 96
 spatk : 86
 spdef : 76
 spd : 81
-dex : In ancient times, it was unbeatable thanks to its powerful lower body, but it went extinct anyway after it depleted all its plant-based food sources.
+dex : In ancient times; it was unbeatable thanks to its powerful lower body; but it went extinct anyway after it depleted all its plant-based food sources.
 jdex : こだいでは たくましい かはんしんで むてきだったが エサの しょくぶつを たべつくしてしまい ぜつめつした。

@@ -15,5 +15,5 @@ def : 115
 spatk : 62
 spdef : 66
 spd : 67
-dex : When it contracts its body, over 220 pounds of sand sprays from its nose. If it ever runs out of sand, it becomes disheartened.
+dex : When it contracts its body; over 220 pounds of sand sprays from its nose. If it ever runs out of sand; it becomes disheartened.
 jdex : ぜんしんを ちぢめ １００キロの すなを はなの あなから ふんしゃ。 すなが ないと よわきに なるぞ。

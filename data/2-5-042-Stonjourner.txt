@@ -15,5 +15,5 @@ def : 126
 spatk : 23
 spdef : 23
 spd : 68
-dex : Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.
+dex : Once a year; on a specific date and at a specific time; they gather out of nowhere and form up in a circle.
 jdex : １ねんに いちど きまった にちじに どこから ともなく あつまり わに なって ならぶ しゅうせいが ある。

@@ -18,5 +18,5 @@ def : 68
 spatk : 73
 spdef : 89
 spd : 96
-dex : In ancient times, it was revered as a deity incarnate. It creates drops of ice in its coat and showers them over its enemies.
+dex : In ancient times; it was revered as a deity incarnate. It creates drops of ice in its coat and showers them over its enemies.
 jdex : むかしは かみの けしんと いわれていた。 たいもうから うみだした こおりの つぶを てきに あびせかける。

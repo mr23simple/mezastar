@@ -15,5 +15,5 @@ def : 54
 spatk : 33
 spdef : 40
 spd : 51
-dex : A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.
+dex : A broken tusk will not grow back; so it diligently sharpens its tusks on river rocks after the end of a battle.
 jdex : キバは にどと はえかわらないので たたかいが おわると かわらの いわで たんねんに みがきあげる。

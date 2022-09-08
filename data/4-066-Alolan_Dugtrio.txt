@@ -18,5 +18,5 @@ def : 44
 spatk : 38
 spdef : 51
 spd : 77
-dex : In the Alola region, it said to be the feminine deity of the land incarnate. Its shining gold hair provides it with protection.
+dex : In the Alola region; it said to be the feminine deity of the land incarnate. Its shining gold hair provides it with protection.
 jdex : アローラちほうでは だいちの めがみの けしんと いわれる。 きんいろの ヒゲで みを まもる。

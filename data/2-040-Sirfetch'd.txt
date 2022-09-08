@@ -15,5 +15,5 @@ def : 75
 spatk : 55
 spdef : 65
 spd : 53
-dex : After deflecting attacks with its hard leaf shield, it strikes opponents back with its sharp leek stalk. The leek stalk is both weapon and food.
+dex : After deflecting attacks with its hard leaf shield; it strikes opponents back with its sharp leek stalk. The leek stalk is both weapon and food.
 jdex : かたいねぎの はで あいての こうげきを いなし するどい くきで はんげき。 ネギは ぶぐであり しょくざい。

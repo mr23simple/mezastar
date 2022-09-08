@@ -15,5 +15,5 @@ def : 24
 spatk : 41
 spdef : 33
 spd : 48
-dex : Its body temperature is over 1,100 degrees Fahrenheit. If it spouts yellow flames from its mouth, it is in good health. If it is fatigued, black smoke will be mixed in with the flames.
+dex : Its body temperature is over 1;100 degrees Fahrenheit. If it spouts yellow flames from its mouth; it is in good health. If it is fatigued; black smoke will be mixed in with the flames.
 jdex : たいおんが ６００ども ある。 くちから ふく ほのおが きいろい ときは げんきだが つかれると くろい けむりが まざる。

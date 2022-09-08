@@ -17,5 +17,5 @@ def : 73
 spatk : 54
 spdef : 58
 spd : 54
-dex : Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.
+dex : Before attacking its enemies; it clashes its scales together and roars. Its sharp claws shred the opposition.
 jdex : ウロコを うちならし おたけびを あげてから あいてに いどみかかり するどい ツメで ずたずたに する。

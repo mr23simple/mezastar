@@ -19,5 +19,5 @@ def : 105
 spatk : 89
 spdef : 95
 spd : 113
-dex : When Garchomp runs at high speed, it creates blades of air.
+dex : When Garchomp runs at high speed; it creates blades of air.
 jdex : ガブリアスが かけぬけると その あまりの はやさに くうきの やいばが つくりだされる。

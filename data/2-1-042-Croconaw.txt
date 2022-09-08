@@ -15,5 +15,5 @@ def : 61
 spatk : 46
 spdef : 49
 spd : 45
-dex : The tips of its fangs are slanted backward, so there is no escape once it bites. If it loses a fang, a new one quickly grows back in its place.
+dex : The tips of its fangs are slanted backward; so there is no escape once it bites. If it loses a fang; a new one quickly grows back in its place.
 jdex : いちど かみついたら はなれないように キバの さきが そりかえっている。 キバは ぬけても どんどん はえてくるぞ。

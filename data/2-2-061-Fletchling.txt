@@ -17,5 +17,5 @@ def : 27
 spatk : 25
 spdef : 24
 spd : 37
-dex : While it's an amiable Pokémon with a beautiful voice, it's merciless to intruders that enter its territory.
+dex : While it's an amiable Pokémon with a beautiful voice; it's merciless to intruders that enter its territory.
 jdex : きれいな こえを もち ひとに なつきやすい ポケモンだが なわばりを あらすものは ゆるさない。

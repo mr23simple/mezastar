@@ -17,5 +17,5 @@ def : 54
 spatk : 39
 spdef : 54
 spd : 39
-dex : It faithfully follows its orders to protect Pokémon; however, if the seal on its chest is removed, it rampages indiscriminately.
+dex : It faithfully follows its orders to protect Pokémon; however; if the seal on its chest is removed; it rampages indiscriminately.
 jdex : めいれいを ちゅうじつだ まもる ポケモンだが むねの ふういんが はがれると みさかいなく あばれまわってしまう。

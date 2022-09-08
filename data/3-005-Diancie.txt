@@ -20,5 +20,5 @@ def : 164
 spatk : 111
 spdef : 164
 spd : 58
-dex : Its pink, glimmering body is said to be the loveliest sight in the whole world. It can make diamonds from the air.
+dex : Its pink; glimmering body is said to be the loveliest sight in the whole world. It can make diamonds from the air.
 jdex : ピンクいろに かがやく すがたは せかいいち うつくしいとも いわれる。 くうきから ダイヤを つくりだす ことが できる。

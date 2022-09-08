@@ -18,5 +18,5 @@ def : 111
 spatk : 89
 spdef : 100
 spd : 63
-dex : Though it's able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.
+dex : Though it's able to capture prey by freezing its surroundings; it has trouble eating the prey afterward because its mouth is on top of its head.
 jdex : しゅういを こおりつかせて えものを つかまえるが くちが あたまの うえに あるので たべづらい。

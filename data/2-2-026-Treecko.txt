@@ -15,5 +15,5 @@ def : 23
 spatk : 38
 spdef : 33
 spd : 41
-dex : Small hooks on the bottom of its feet catch on walls and ceilings, enabling it to walk on them. It makes its nest in a giant tree in the forest.
+dex : Small hooks on the bottom of its feet catch on walls and ceilings; enabling it to walk on them. It makes its nest in a giant tree in the forest.
 jdex : あしの うらの ちいさな トゲを ひっかけて カベや てんじょうを ひっかかるので あるく。 もりの たいぼくに すを つくって くらす。

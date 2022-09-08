@@ -17,5 +17,5 @@ def : 65
 spatk : 56
 spdef : 59
 spd : 28
-dex : The tangled seaweed on its anchor is part of its body. For some reason, it only goes after big prey.
+dex : The tangled seaweed on its anchor is part of its body. For some reason; it only goes after big prey.
 jdex : イカリに からんだ モズクの ぶぶんが ほんたいだ。 なぜか おおきな えものを このんで ねらう。

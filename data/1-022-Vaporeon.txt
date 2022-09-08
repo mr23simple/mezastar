@@ -16,5 +16,5 @@ def : 57
 spatk : 101
 spdef : 88
 spd : 62
-dex : With cells similar to water molecules, it can invisibly melt away into water.
+dex : With cells similar to water molecules; it can invisibly melt away into water.
 jdex : からだの さいぼうが みずの ぶんしに にているため みずに とけると まぎれてしまう。

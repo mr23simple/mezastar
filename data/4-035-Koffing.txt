@@ -15,5 +15,5 @@ def : 52
 spatk : 35
 spdef : 27
 spd : 21
-dex : Its thin, membrane-like body is inflated by poison gas. It explodes with the slightest stimulus.
+dex : Its thin; membrane-like body is inflated by poison gas. It explodes with the slightest stimulus.
 jdex : うすい まくの ような からだが どくガスで ふくらんでいる。 かるい しげきで だいばくはつする。

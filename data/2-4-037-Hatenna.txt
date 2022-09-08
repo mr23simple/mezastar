@@ -15,5 +15,5 @@ def : 28
 spatk : 34
 spdef : 32
 spd : 25
-dex : Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.
+dex : Via the protrusion on its head; it senses other creatures' emotions. If you don't have a calm disposition; it will never warm up to you.
 jdex : あたまの とっきで せいぶつの きもちを かんじとる。 おだやかな ものにしか こころを ひらかない。

@@ -15,5 +15,5 @@ def : 40
 spatk : 37
 spdef : 37
 spd : 27
-dex : If spotted, it escapes backward by digging into the ground with its tail.
+dex : If spotted; it escapes backward by digging into the ground with its tail.
 jdex : だれかに すがたを みられると シッポの ドリルで あなをほり うしろむきに にげだす。

@@ -18,5 +18,5 @@ def : 63
 spatk : 55
 spdef : 83
 spd : 43
-dex : The garbage it eats causes chemical changes in its body, which produce its vivid appearance.
+dex : The garbage it eats causes chemical changes in its body; which produce its vivid appearance.
 jdex : たベた ゴミが からだの なかで かがくへんかを おこして あざやかな いるを つくりだして いるのだ。

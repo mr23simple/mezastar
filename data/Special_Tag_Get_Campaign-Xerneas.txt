@@ -18,5 +18,5 @@ def : 94
 spatk : 128
 spdef : 97
 spd : 98
-dex : It is said that when its branched horns sparkle in seven colors, it is bestowing infinite life to other creatures.
+dex : It is said that when its branched horns sparkle in seven colors; it is bestowing infinite life to other creatures.
 jdex : えだわかれした ツノを なないろに きらめかせるとき ほかの いきものに むげんの いのちを あたえると いう。

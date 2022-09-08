@@ -17,5 +17,5 @@ def : 49
 spatk : 61
 spdef : 61
 spd : 47
-dex : When the bud on its back starts swelling, a sweet smell indicates the large flower will soon bloom.
+dex : When the bud on its back starts swelling; a sweet smell indicates the large flower will soon bloom.
 jdex : せなかの つぼみが ふくらんで あまい においが してくると おおきな はなが さく まえぶれ。

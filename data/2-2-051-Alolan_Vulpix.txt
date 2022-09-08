@@ -16,5 +16,5 @@ def : 33
 spatk : 41
 spdef : 51
 spd : 51
-dex : It exhales air colder than -58 degrees Fahrenheit. As it grows, its tails split to form more tails.
+dex : It exhales air colder than -58 degrees Fahrenheit. As it grows; its tails split to form more tails.
 jdex : くちから マイナス５０どの れいきを はく。 せいちょうすると シッポが わかれて ふえていく。

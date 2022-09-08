@@ -17,5 +17,5 @@ def : 63
 spatk : 62
 spdef : 54
 spd : 97
-dex : Making use of its small body and wings, it can contend for a battle in the air against large opponent Pokémon.
+dex : Making use of its small body and wings; it can contend for a battle in the air against large opponent Pokémon.
 jdex : ちいさな からだと つばさを いかし おおきな ポケモン あいてに くうちゅうから たたかいを いどむ。

@@ -16,5 +16,5 @@ def : 96
 spatk : 66
 spdef : 76
 spd : 103
-dex : While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.
+dex : While usually kindhearted; it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.
 jdex : おんこうな せいしつだが おこると こわい。 てっこつをも きりさく じまんの キバを おみまい するぞ。

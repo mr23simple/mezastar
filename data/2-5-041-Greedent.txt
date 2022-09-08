@@ -15,5 +15,5 @@ def : 90
 spatk : 54
 spdef : 72
 spd : 23
-dex : It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted, so it doesn't notice the loss.
+dex : It stashes berries in its tail—so many berries that they fall out constantly. But this Pokémon is a bit slow-witted; so it doesn't notice the loss.
 jdex : しっぽに きのみを ためこむ。 ためこみすぎて ポロポロ こぼすが にぶいので きがつかない。

@@ -18,5 +18,5 @@ def : 108
 spatk : 26
 spdef : 60
 spd : 60
-dex : Stabs from its spikes, which are sheathed in ice, not only cause deep wounds but severe frostbite as well.
+dex : Stabs from its spikes; which are sheathed in ice; not only cause deep wounds but severe frostbite as well.
 jdex : こおりに おおわれた ハリに さされると きずつくだけで なく とうしょうにも なってしまうのだ。

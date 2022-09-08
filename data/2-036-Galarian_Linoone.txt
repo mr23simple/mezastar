@@ -18,5 +18,5 @@ def : 42
 spatk : 36
 spdef : 42
 spd : 67
-dex : It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.
+dex : It uses its long tongue to taunt opponents. Once the opposition is enraged; this Pokémon hurls itself at the opponent; tackling them forcefully.
 jdex : ながいしたで えものを ちょうはつ。 おこった あいてに きょうれつな タックルを おみまい するぞ。

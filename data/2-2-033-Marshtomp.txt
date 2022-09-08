@@ -17,5 +17,5 @@ def : 55
 spatk : 48
 spdef : 55
 spd : 41
-dex : Its sturdy legs give it sure footing, even in mud. It weakens if its skin dries out.
+dex : Its sturdy legs give it sure footing; even in mud. It weakens if its skin dries out.
 jdex : じょうぶな あしこしで ドロドロの あしばでも しっかりと あるく。 ひふが かんそうすると よわってしまう。

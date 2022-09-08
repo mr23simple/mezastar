@@ -17,5 +17,5 @@ def : 51
 spatk : 106
 spdef : 63
 spd : 90
-dex : It steals heat from its surroundings. If the temperature suddenly drops, it is surely the work of a Gengar.
+dex : It steals heat from its surroundings. If the temperature suddenly drops; it is surely the work of a Gengar.
 jdex : まわりの ねつを うばう。 とつぜん おんどが さがったら ゲンガーの しわざに ちがいない。

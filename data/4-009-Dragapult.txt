@@ -18,5 +18,5 @@ def : 86
 spatk : 113
 spdef : 86
 spd : 158
-dex : When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.
+dex : When it isn't battling; it keeps Dreepy in the holes on its horns. Once a fight starts; it launches the Dreepy like supersonic missiles.
 jdex : ツノの あなに ドラメシヤを いれて くらす。 たたかいになると マッハの スピードで ドラメシヤを とばす。

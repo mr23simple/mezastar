@@ -17,5 +17,5 @@ def : 33
 spatk : 37
 spdef : 37
 spd : 33
-dex : It wraps prey up with its heated body, cooking them in its coils. Once they're well-done, it will voraciously nibble them down to the last morsel.
+dex : It wraps prey up with its heated body; cooking them in its coils. Once they're well-done; it will voraciously nibble them down to the last morsel.
 jdex : はつねつした からだで えものを しめあげる。 こんがり やけたら むしゃむしゃ いただくのだ。

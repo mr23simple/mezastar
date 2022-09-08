@@ -15,5 +15,5 @@ def : 28
 spatk : 43
 spdef : 33
 spd : 31
-dex : This Pokémon is said to have been born when a lonely spirit possessed a cold, leftover cup of tea.
+dex : This Pokémon is said to have been born when a lonely spirit possessed a cold; leftover cup of tea.
 jdex : のこされ ひえきった こうちゃに さみしがりやな たましいが やどり ポケモンに なったと いわれている。

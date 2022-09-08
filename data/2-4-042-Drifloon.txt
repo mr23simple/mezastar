@@ -17,5 +17,5 @@ def : 30
 spatk : 50
 spdef : 38
 spd : 58
-dex : Perhaps seeking company, it approaches children. However, it often quickly runs away again when the children play too roughly with it.
+dex : Perhaps seeking company; it approaches children. However; it often quickly runs away again when the children play too roughly with it.
 jdex : なかまが ほしいのか こどもに ちかづくが いいように あそばれ にげていくことも すくなくない。

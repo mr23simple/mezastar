@@ -17,5 +17,5 @@ def : 37
 spatk : 53
 spdef : 37
 spd : 55
-dex : In battle, it skilfully controls the intensity of the fire on its tail.
+dex : In battle; it skilfully controls the intensity of the fire on its tail.
 jdex : しっぽの ほのおの いきおいを うまく コントロールして たたかいに やくだてる。

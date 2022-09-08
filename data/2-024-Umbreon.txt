@@ -16,5 +16,5 @@ def : 106
 spatk : 60
 spdef : 124
 spd : 64
-dex : The rings on its body glow faintly when it is exposed to the moon's aura, and it gains a mysterious power.
+dex : The rings on its body glow faintly when it is exposed to the moon's aura; and it gains a mysterious power.
 jdex : つきの はどうを あびると からだの わっかもようが ほのかに かがやき ふしぎな ちからに めざめる。

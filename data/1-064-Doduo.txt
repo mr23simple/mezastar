@@ -17,5 +17,5 @@ def : 26
 spatk : 21
 spdef : 21
 spd : 41
-dex : Its two heads take turns sleeping and keeping watch. When threatened, it flees at over 100 km/h.
+dex : Its two heads take turns sleeping and keeping watch. When threatened; it flees at over 100 km/h.
 jdex : ねむっている ときも 2つの あたまは かわりばんこで みはりを しており きけんに なると じそく100キロで にげる。

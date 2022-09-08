@@ -15,5 +15,5 @@ def : 27
 spatk : 35
 spdef : 27
 spd : 36
-dex : The fire on its rear end doesn't go out even in the rain, but when it sleeps, it puts the fire out itself.
+dex : The fire on its rear end doesn't go out even in the rain; but when it sleeps; it puts the fire out itself.
 jdex : おしりの ほのおは あめに ぬれても きえないが ねむるときは じぶんで けす。

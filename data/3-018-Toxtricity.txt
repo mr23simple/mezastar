@@ -18,5 +18,5 @@ def : 70
 spatk : 112
 spdef : 70
 spd : 75
-dex : When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.
+dex : When this Pokémon sounds as if it's strumming a guitar; it's actually clawing at the protrusions on its chest to generate electricity.
 jdex : むねの とっきを かきむしり でんきを おこすとき あたりに ギターのような おとが ひびく。

@@ -17,5 +17,5 @@ def : 45
 spatk : 25
 spdef : 25
 spd : 14
-dex : As soon as it's born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.
+dex : As soon as it's born; it burrows into an apple. Not only does the apple serve as its food source; but the flavor of the fruit determines its evolution.
 jdex : うまれると りんごに もぐりこむ。 なかみを たべながら せいちょうし りんごの あじが しんかを きめる。

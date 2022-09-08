@@ -15,5 +15,5 @@ def : 59
 spatk : 107
 spdef : 82
 spd : 73
-dex : It lives in volcanic craters. It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms.
+dex : It lives in volcanic craters. It blasts fireballs of over 3;600 degrees Fahrenheit from the ends of its arms.
 jdex : かざんの かこうに すんでいる。 うでの さきから せっし２０００どの ひのたまを うちだす。

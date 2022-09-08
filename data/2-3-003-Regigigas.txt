@@ -17,5 +17,5 @@ def : 134
 spatk : 99
 spdef : 134
 spd : 123
-dex : It is said to have created Regirock, Regice, and Registeel in its own image.
+dex : It is said to have created Regirock; Regice; and Registeel in its own image.
 jdex : じぶんの すがたに にせて レジロック レジアイス レジスチルの ３ひきを つくったと いわれている。

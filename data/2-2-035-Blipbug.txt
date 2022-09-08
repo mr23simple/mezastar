@@ -15,5 +15,5 @@ def : 15
 spatk : 18
 spdef : 28
 spd : 28
-dex : Using the hairs on its body, it collects information to assess its surroundings. It is smart but not very powerful.
+dex : Using the hairs on its body; it collects information to assess its surroundings. It is smart but not very powerful.
 jdex : からだに はえた けで まわりの ようすを かんじとり じょうほうを あつめている 。 かしこいが ちからは いまとつ。

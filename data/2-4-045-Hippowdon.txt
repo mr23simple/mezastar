@@ -15,5 +15,5 @@ def : 108
 spatk : 64
 spdef : 68
 spd : 46
-dex : Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones, so Hippowdon look after these Pokémon.
+dex : Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones; so Hippowdon look after these Pokémon.
 jdex : からだの あなには たまに いしが つまる。 いしを とってくれるので イシズマイを たいせつに まもる。

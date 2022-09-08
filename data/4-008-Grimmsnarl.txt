@@ -21,5 +21,5 @@ def : 75
 spatk : 107
 spdef : 86
 spd : 69
-dex : With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.
+dex : With the hair wrapped around its body helping to enhance its muscles; this Pokémon can overwhelm even Machamp.
 jdex : かみのけを ぜんしんに まきつけると きんりょくが アップ。 カイリキーを ねじふせる パワーを はっきする。

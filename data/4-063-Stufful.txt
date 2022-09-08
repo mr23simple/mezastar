@@ -17,5 +17,5 @@ def : 38
 spatk : 34
 spdef : 38
 spd : 38
-dex : It is very dangerous when angry, as it will begin to act violently. Its powerful arms and legs can knock away a pro wrestler.
+dex : It is very dangerous when angry; as it will begin to act violently. Its powerful arms and legs can knock away a pro wrestler.
 jdex : おこって あばれだすと ひじょうに キケン。 きょうりょくな てあしで プロレスラーも ふっとばす。

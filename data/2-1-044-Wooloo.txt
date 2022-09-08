@@ -15,5 +15,5 @@ def : 33
 spatk : 25
 spdef : 28
 spd : 29
-dex : Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom, unharmed.
+dex : Its curly fleece is such an effective cushion that this Pokémon could fall off a cliff and stand right back up at the bottom; unharmed.
 jdex : パーマの かかった たいもうは たかい クッションせいが ある。 がけから おちても へっちゃら。

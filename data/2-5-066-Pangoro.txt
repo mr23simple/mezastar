@@ -17,5 +17,5 @@ def : 65
 spatk : 58
 spdef : 60
 spd : 50
-dex : It has enough power to snap telephone poles. Although it has a violent personality, it will not put up with bullying.
+dex : It has enough power to snap telephone poles. Although it has a violent personality; it will not put up with bullying.
 jdex : でんちゅうを へしおる パワーを もち けんかっぱやい せいかくだが よわいものいじめは みのがさない。

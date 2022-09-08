@@ -17,5 +17,5 @@ def : 67
 spatk : 83
 spdef : 67
 spd : 26
-dex : Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.
+dex : Its body is covered in sweet nectar; and the skin on its back is especially yummy. Children used to have it as a snack.
 jdex : あまい みつで からだが おおわれ せなかの かわは とくに あまく むかしは こどもの おやつだった。

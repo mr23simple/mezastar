@@ -17,5 +17,5 @@ def : 57
 spatk : 18
 spdef : 18
 spd : 15
-dex : It can remember only one thing at a time. Once it starts to charge and run, it forgets why it started.
+dex : It can remember only one thing at a time. Once it starts to charge and run; it forgets why it started.
 jdex : ひとつの ことしか おぼえられない。 いちど とっしんを はじめると はしっている りゆうを わすれてしまう。

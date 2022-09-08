@@ -17,5 +17,5 @@ def : 27
 spatk : 40
 spdef : 50
 spd : 35
-dex : It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.
+dex : It mimics everyone it sees; but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.
 jdex : みるもの すべての マネを する。 バリコオルの かれいな ステップを ひたすら マネして れんしゅうする。

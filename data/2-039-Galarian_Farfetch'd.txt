@@ -16,5 +16,5 @@ def : 32
 spatk : 34
 spdef : 36
 spd : 32
-dex : The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.
+dex : The Farfetch'd of the Galar region are brave warriors; and they wield thick; tough leeks in battle.
 jdex : ガラルに すむ カモネギの すがた。 ふとく たくましい ネギを ふるい ゆうかんに たたかう せんし。

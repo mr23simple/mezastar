@@ -17,5 +17,5 @@ def : 20
 spatk : 33
 spdef : 25
 spd : 31
-dex : It sneaks into people's homes, stealing things and feasting on the negative energy of the frustrated occupants.
+dex : It sneaks into people's homes; stealing things and feasting on the negative energy of the frustrated occupants.
 jdex : みんかに しのびこみ ぬすみを はたらき さらに くやしがる ひとの マイナスエネルギーも いただくのだ。

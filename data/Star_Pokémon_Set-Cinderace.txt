@@ -17,5 +17,5 @@ def : 65
 spatk : 57
 spdef : 65
 spd : 100
-dex : It juggles a pebble with its feet, turning it into a burning soccer ball, and strikes opponents hard with its shots.
+dex : It juggles a pebble with its feet; turning it into a burning soccer ball; and strikes opponents hard with its shots.
 jdex : こいしを リフティングして ほのおの サッカーボールを つくりだし するどい シュートで こうげきする。

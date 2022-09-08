@@ -18,5 +18,5 @@ def : 74
 spatk : 51
 spdef : 63
 spd : 27
-dex : Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
+dex : Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close; Stunfisk clamps its jagged steel fins down on them.
 jdex : どろに かくれて めだつ くちびるで えものを おびきよせる。 ギザギザの はがねの ヒレで がっちり はさむ。

@@ -15,5 +15,5 @@ def : 45
 spatk : 61
 spdef : 50
 spd : 61
-dex : It has a barbaric nature. If it encounters a strong foe, the flame on its tail flares with a bluish white color.
+dex : It has a barbaric nature. If it encounters a strong foe; the flame on its tail flares with a bluish white color.
 jdex : あらあらしい せいかく。 きょうてきに であうと しっぽの ほのおが あおじろく もえあがる。

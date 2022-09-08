@@ -17,5 +17,5 @@ def : 217
 spatk : 58
 spdef : 111
 spd : 58
-dex : Every bit of Regirock's body is made of stone. As parts of its body erode, this Pokémon sticks rocks to itself to repair what's been lost.
+dex : Every bit of Regirock's body is made of stone. As parts of its body erode; this Pokémon sticks rocks to itself to repair what's been lost.
 jdex : からだの あらゆる ぶぶんが いわで できている。 からだが けずれても じぶんで いわを つけて なおす。

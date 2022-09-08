@@ -15,5 +15,5 @@ def : 61
 spatk : 49
 spdef : 61
 spd : 47
-dex : If you smell the aroma from around its neck, it will somehow make you more energetic and want to fight.
+dex : If you smell the aroma from around its neck; it will somehow make you more energetic and want to fight.
 jdex : くびの まわりから でる かおりを かぐと ちからが みなぎって なぜか たたかいたく なるのだ。

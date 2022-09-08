@@ -17,5 +17,5 @@ def : 38
 spatk : 56
 spdef : 62
 spd : 56
-dex : This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.
+dex : This hungry Pokémon swallows Arrokuda whole. Occasionally; it makes a mistake and tries to swallow a Pokémon other than its preferred prey.
 jdex : くいしんぼうで エサの サシカマスを まるのみするが たまに まちがえて ほかの ポケモンに くらいつく。

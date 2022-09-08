@@ -20,5 +20,5 @@ def : 94
 spatk : 128
 spdef : 97
 spd : 98
-dex : It is said that once it sucks the life of other creatures, Yveltal takes the shape of a cocoon.
+dex : It is said that once it sucks the life of other creatures; Yveltal takes the shape of a cocoon.
 jdex : ほかの いきものの いのちを すいつくした イベルタルは マユのような かたちに なると いう。

@@ -15,5 +15,5 @@ def : 69
 spatk : 87
 spdef : 58
 spd : 58
-dex : In the time it takes a foe to blink, it can draw and sheathe the seamitars incorporated in its armor.
+dex : In the time it takes a foe to blink; it can draw and sheathe the seamitars incorporated in its armor.
 jdex : よろいに しこまれた アシガタナで てきを きりつけ もとに もどすまで まばたき するほどの じかんしか かからない。

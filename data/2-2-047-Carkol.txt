@@ -17,5 +17,5 @@ def : 69
 spatk : 48
 spdef : 55
 spd : 41
-dex : It forms coal inside its body and breathes flames in excess of 1,800 degrees Fahrenheit. It can travel at a speed of 18 mph.
+dex : It forms coal inside its body and breathes flames in excess of 1;800 degrees Fahrenheit. It can travel at a speed of 18 mph.
 jdex : たいないで せきたんを つくりだし せっし １０００どの ほのおを ふきだす。 はしる はやさは じそく ３０キロ。

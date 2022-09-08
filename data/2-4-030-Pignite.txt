@@ -17,5 +17,5 @@ def : 46
 spatk : 58
 spdef : 46
 spd : 46
-dex : Whatever it eats becomes fuel for the flame in its stomach. When the flame becomes stronger, it overflows with power.
+dex : Whatever it eats becomes fuel for the flame in its stomach. When the flame becomes stronger; it overflows with power.
 jdex : たべたものを ねんりょうに して いぶくろで ほのおを もやす。 ほのおが つよまると パワーが あふれる。

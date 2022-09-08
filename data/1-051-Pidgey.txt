@@ -17,5 +17,5 @@ def : 24
 spatk : 21
 spdef : 21
 spd : 31
-dex : It is very docile and does not like to fight. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.
+dex : It is very docile and does not like to fight. It can unerringly return home to its nest; however far it may be removed from its familiar surroundings.
 jdex : おとなしい せいかくで たたかいは すきではない。 じぶんの すから どれだけ はなれても まよわずに かえることが できる。

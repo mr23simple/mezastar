@@ -15,5 +15,5 @@ def : 19
 spatk : 29
 spdef : 32
 spd : 31
-dex : Aided by the soft pads on its feet, it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.
+dex : Aided by the soft pads on its feet; it silently raids the food stores of other Pokémon. It survives off its ill-gotten gains.
 jdex : ほかの ポケモンが みつけた エサを かすめて くらしている。 ふかふかの にくきゅうは あしおとを たてない。
