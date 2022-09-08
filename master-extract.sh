@@ -1,4 +1,5 @@
-curl $1 -o ./tmp/master-data.html
+curl $1 -o ./tmp/master-data.html -s
+echo "Downloading: $1"
 
 sed -n '/{{MezastarExpansionList\/entry/,/}}/p' ./tmp/master-data.html | sed -n '/|/,/=/p' > ./tmp/master-data-ex.txt
 
@@ -7,7 +8,7 @@ while read var; do
     key=`echo $var | grep -o -P '(?<=\|).*?(?=\|{{)'`
     url=`echo "https://bulbapedia.bulbagarden.net/w/index.php?title="$value"_($key)&action=edit" | sed 's/ /_/g'`
     filename=`echo "$key-$value" | sed 's/ /_/g'`
-    echo "$url"
+    echo "Downloading: $url"
     ./extract.sh "$url" "$filename"
 done < ./tmp/master-data-ex.txt
 
