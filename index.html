@@ -4,6 +4,19 @@
     </head>
 
     <body>
+        <input type="number" id="grade" value="0" placeholder="0" name="grade"/>
+        <select>
+            <option value="all">All</option>
+            <option value="1">Set 01</option>
+            <option value="2">Set 02</option>
+            <option value="3">Set 03</option>
+            <option value="4">Set 04</option>
+            <option value="2-1">Super Tag 01</option>
+            <option value="2-2">Super Tag 02</option>
+            <option value="2-3">Super Tag 03</option>
+            <option value="2-4">Super Tag 04</option>
+            <option value="2-5">Super Tag 05</option>
+        </select>
         <input type="text" id="enemy1" onkeyup="filterjson(this);" value="" />
         <input type="text" id="enemy2" onkeyup="filterjson(this);" value="" />
         <input type="text" id="enemy3" onkeyup="filterjson(this);" value="" /><br>
@@ -33,7 +46,12 @@
 
             function filterjson(currentElement) {
                 var res = $.grep(jdata, function (n, i) {
-                    if (n.grade >= 5) {
+                    var grade = 0;
+                    if($.isNumeric($('#grade').val())){ 
+                        grade = $("#grade").val();
+                    }
+                    
+                    if (n.grade >= grade) {
                         return n.name.toLowerCase().indexOf($(currentElement).val().toLowerCase()) > -1;
                     }
                 });
