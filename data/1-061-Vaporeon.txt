@@ -1,0 +1,19 @@
+name : Vaporeon
+jname : シャワーズ
+tmname : Showers
+type1 : Water
+setno : 1
+tagno : 061
+energy : 90
+grade : 4
+type1 : Water
+move : Muddy Water
+movetype : Water
+hp : 139
+atk : 51
+def : 48
+spatk : 84
+spdef : 73
+spd : 51
+dex : With cells similar to water molecules, it can invisibly melt away into water.
+jdex : からだの さいぼうが みずの ぶんしに にているため みずに とけると まぎれてしまう。

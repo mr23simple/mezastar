@@ -1,0 +1,24 @@
+name : Charizard
+jname : リザードン
+tmname : Lizardon
+star : Superstar
+type1 : Fire
+type2 : Flying
+setno : 1
+tagno : 007
+energy : 124
+grade : 6
+mega : Charizard X
+ : 
+type1 : Fire
+type2 : Flying
+move : Flamethrower
+movetype : Fire
+hp : 138
+atk : 89
+def : 83
+spatk : 114
+spdef : 90
+spd : 105
+dex : The temperature of Charizard's fire increases as it gains experience in battle.
+jdex : リザードンの ほのおは たたかいの けいけんを つむほど おんどが あがっていく。

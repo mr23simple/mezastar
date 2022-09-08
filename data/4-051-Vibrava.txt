@@ -1,0 +1,22 @@
+name : Vibrava
+jname : ビブラーバ
+tmname : Vibrava
+type1 : Ground
+type2 : Dragon
+setno : 4
+tagno : 051
+energy : 58
+grade : 3
+ : 
+type1 : Ground
+type2 : Dragon
+move : Dragon Tail
+movetype : Dragon
+hp : 76
+atk : 51
+def : 38
+spatk : 38
+spdef : 38
+spd : 51
+dex : The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.
+jdex : 2まいの ハネを こうそくで しんどうさせて だす ちょうおんぱは はげしい ずつうを ひきおこす。

@@ -1,0 +1,24 @@
+name : Eternatus
+jname : ムゲンダイナ
+tmname : Mugendina
+star : Superstar
+symbol : Legendary
+type1 : Poison
+type2 : Dragon
+setno : 4
+tagno : 001
+energy : 166
+grade : 6
+ : 
+type1 : Poison
+type2 : Dragon
+move : Dynamax Cannon
+movetype : Dragon
+hp : 215
+atk : 96
+def : 107
+spatk : 161
+spdef : 107
+spd : 145
+dex : It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon.
+jdex : ２まんねんまえに おちた いんせきの なかに いた。 ダイマックスの なぞに かんけいしている らしい。

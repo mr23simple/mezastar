@@ -1,0 +1,19 @@
+name : Drizzile
+jname : ジメレオン
+tmname : Jimereon
+type1 : Water
+setno : 1
+tagno : 033
+energy : 64
+grade : 3
+type1 : Water
+move : Water Pulse
+movetype : Water
+hp : 79
+atk : 41
+def : 38
+spatk : 62
+spdef : 38
+spd : 59
+dex : It battles using water balloons created with moisture secreted from its palms. It is highly intelligent but also very lazy.
+jdex : てのひらから でる すいぶんを まるめて みずの たまを つくって つかい たたかう。 あたまが よく めんどうくさがり。

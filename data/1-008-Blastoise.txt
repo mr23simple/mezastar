@@ -1,0 +1,21 @@
+name : Blastoise
+jname : カメックス
+tmname : Kamex
+star : Superstar
+type1 : Water
+setno : 1
+tagno : 008
+energy : 124
+grade : 6
+mega : Blastoise
+type1 : Water
+move : Hydro Pump
+movetype : Water
+hp : 139
+atk : 88
+def : 105
+spatk : 90
+spdef : 110
+spd : 83
+dex : The water fired from the rocket cannons on its shell can penetrate thick steel.
+jdex : こうらの ロケットほうから ぶあつい てっぱんも つらぬく すいりゅうを ふきだす。

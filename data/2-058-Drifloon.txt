@@ -1,0 +1,22 @@
+name : Drifloon
+jname : フワンテ
+tmname : Fuwante
+type1 : Ghost
+type2 : Flying
+setno : 2
+tagno : 058
+energy : 56
+grade : 3
+ : 
+type1 : Ghost
+type2 : Flying
+move : Astonish
+movetype : Ghost
+hp : 96
+atk : 36
+def : 25
+spatk : 42
+spdef : 32
+spd : 48
+dex : It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.
+jdex : ふうせんと まちがえて フワンテを もっていた ちいさな こどもが きえてしまう ことが あると いう。

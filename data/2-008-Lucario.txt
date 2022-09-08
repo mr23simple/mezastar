@@ -1,0 +1,26 @@
+name : Lucario
+jname : ルカリオ
+tmname : Lucario
+star : Superstar
+type1 : Fighting
+type2 : Steel
+setno : 2
+tagno : 008
+energy : 126
+grade : 6
+zcrystal : Fightinium
+ : 
+type1 : Fighting
+type2 : Steel
+move : Focus Blast
+movetype : Fighting
+zmove : All-Out Pummeling
+zmovetype : Fighting
+hp : 134
+atk : 119
+def : 77
+spatk : 124
+spdef : 77
+spd : 98
+dex : It can read the aura produced by all things. It can identify others over half a mile away.
+jdex : あらゆる ものが だす はどうを よみとることができる。 １キロ さきの あいてのことも わかる。

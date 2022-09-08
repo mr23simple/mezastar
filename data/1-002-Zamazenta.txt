@@ -1,0 +1,24 @@
+name : Zamazenta
+jname : ザマゼンタ
+tmname : Zamazenta
+star : Superstar
+symbol : Legendary
+type1 : Fighting
+type2 : Steel
+setno : 1
+tagno : 002
+energy : 162
+grade : 6
+item : Rusted Shield
+type1 : Fighting
+type2 : Steel
+move : Behemoth Bash
+movetype : Steel
+hp : 152
+atk : 135
+def : 150
+spatk : 85
+spdef : 150
+spd : 133
+dex : Its ability to deflect any attack led to it being known as the Fighting Master's Shield. It was feared and respected by all.
+jdex : いかなる こうげきも はじきかえす すがたは かくとうおうのたて と よばれ おそれあがめられた。

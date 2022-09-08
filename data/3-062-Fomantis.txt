@@ -1,0 +1,19 @@
+name : Fomantis
+jname : カリキリ
+tmname : Karikiri
+type1 : Grass
+setno : 3
+tagno : 062
+energy : 36
+grade : 2
+type1 : Grass
+move : Leafage
+movetype : Grass
+hp : 55
+atk : 32
+def : 22
+spatk : 30
+spdef : 22
+spd : 22
+dex : It looks for somewhere to sleep during the night and then sleeps and soaks up light during the day.
+jdex : よるの うちに ねどこを さがし ひるまは ひかりを あびながら ねむっている。

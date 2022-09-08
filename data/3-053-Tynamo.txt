@@ -1,0 +1,19 @@
+name : Tynamo
+jname : シビシラス
+tmname : Shibishirasu
+type1 : Electric
+setno : 3
+tagno : 053
+energy : 40
+grade : 2
+type1 : Electric
+move : Charge Beam
+movetype : Electric
+hp : 52
+atk : 33
+def : 25
+spatk : 27
+spdef : 25
+spd : 36
+dex : It can only produce a trickle of electricity, but when a group of them gather, they can discharge electricity as powerful as lightning.
+jdex : よわい でんきしか つくれないが むれになって ちからを あわせることで カミナリと おなじ いりょくの でんきを はなつ。

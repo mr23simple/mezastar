@@ -1,0 +1,22 @@
+name : Delphox
+jname : マフォクシー
+tmname : Mahoxy
+type1 : Fire
+type2 : Psychic
+setno : 1
+tagno : 040
+energy : 90
+grade : 4
+ : 
+type1 : Fire
+type2 : Psychic
+move : Mystical Fire
+movetype : Fire
+hp : 100
+atk : 54
+def : 56
+spatk : 87
+spdef : 77
+spd : 79
+dex : It stares into the flame on its stick to focus its mind, allowing it see that which is to come.
+jdex : つえの ほのおを じっと みて きもちを しゅうちゅうすると このさき おこる ことが よちできる。

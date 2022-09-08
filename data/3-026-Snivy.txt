@@ -1,0 +1,19 @@
+name : Snivy
+jname : ツタージャ
+tmname : Tsutarja
+type1 : Grass
+setno : 3
+tagno : 026
+energy : 42
+grade : 2
+type1 : Grass
+move : Vine Whip
+movetype : Grass
+hp : 57
+atk : 27
+def : 32
+spatk : 27
+spdef : 32
+spd : 36
+dex : Being exposed to sunlight makes its movements swifter. It is very intelligent and calm.
+jdex : たいようの ひかりを あびると うごきが すばやくなる。 あたまが よく れいせいな せいかく。

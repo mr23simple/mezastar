@@ -1,0 +1,19 @@
+name : Oshawott
+jname : ミジュマル
+tmname : Mijumaru
+type1 : Water
+setno : 3
+tagno : 032
+energy : 42
+grade : 2
+type1 : Water
+move : Water Gun
+movetype : Water
+hp : 62
+atk : 32
+def : 27
+spatk : 36
+spdef : 27
+spd : 27
+dex : In battle, it detaches the scalchop on its stomach and uses it as a blade. It can also be used to break open hard berries.
+jdex : たたかう ときには おなかの ホタチを はずして こがたなとして つかう。 かたい きのみを わるときにも やくだつのだ。

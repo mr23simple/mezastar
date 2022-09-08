@@ -1,0 +1,22 @@
+name : Gengar
+jname : ゲンガー
+tmname : Gangar
+star : Star
+type1 : Ghost
+type2 : Poison
+setno : 4
+tagno : 021
+energy : 112
+grade : 5
+type1 : Ghost
+type2 : Poison
+move : Sludge Wave
+movetype : Poison
+hp : 115
+atk : 67
+def : 62
+spatk : 129
+spdef : 77
+spd : 110
+dex : It steals heat from its surroundings. If the temperature suddenly drops, it is surely the work of a Gengar.
+jdex : まわりの ねつを うばう。 とつぜん おんどが さがったら ゲンガーの しわざに ちがいない。

@@ -1,0 +1,22 @@
+name : Emboar
+jname : エンブオー
+tmname : Enbuoh
+type1 : Fire
+type2 : Fighting
+setno : 3
+tagno : 031
+energy : 94
+grade : 4
+ : 
+type1 : Fire
+type2 : Fighting
+move : Fire Punch
+movetype : Fire
+hp : 131
+atk : 98
+def : 54
+spatk : 81
+spdef : 54
+spd : 54
+dex : It grows a beard of fire. It has mastered fast and powerful fighting moves.
+jdex : ほのおの あごひげを たくわえる。 パワーと スピードを かねそなえた かくとうの わざを みにつけている。

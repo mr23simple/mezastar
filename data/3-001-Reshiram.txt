@@ -1,0 +1,24 @@
+name : Reshiram
+jname : レシラム
+tmname : Reshiram
+star : Superstar
+symbol : Legendary
+type1 : Dragon
+type2 : Fire
+setno : 3
+tagno : 001
+energy : 162
+grade : 6
+ : 
+type1 : Dragon
+type2 : Fire
+move : Fusion Flare
+movetype : Fire
+hp : 169
+atk : 132
+def : 111
+spatk : 164
+spdef : 132
+spd : 100
+dex : The fire blown from its tail has the power to burn everything around it. It helps those who want to build a world of truth.
+jdex : しっぽから ほのおを ふきだし あらゆるものを やきつくす ちからを もつ。 しんじつの せかいを つずる ひとを たすける。

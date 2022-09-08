@@ -1,0 +1,19 @@
+name : Falinks
+jname : タイレーツ
+tmname : Tairetsu
+type1 : Fighting
+setno : 2
+tagno : 038
+energy : 72
+grade : 3
+type1 : Fighting
+move : Brick Break
+movetype : Fighting
+hp : 81
+atk : 67
+def : 67
+spatk : 48
+spdef : 42
+spd : 51
+dex : Five of them are troopers, and one is the brass. The brass's orders are absolute.
+jdex : ヘイチョーと よばれる 1ぴきと ヘイと よばれる 5ひきで ひとつ。ヘイチョーの めいれいは ぜったい。

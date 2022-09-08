@@ -1,0 +1,22 @@
+name : Galarian Rapidash
+jname : ガラルギャロップ
+tmname : Galarian Gallop
+link : Rapidash
+type1 : Psychic
+type2 : Fairy
+setno : 2
+tagno : 042
+energy : 88
+grade : 4
+type1 : Psychic
+type2 : Fairy
+move : Psybeam
+movetype : Psychic
+hp : 95
+atk : 79
+def : 56
+spatk : 64
+spdef : 64
+spd : 82
+dex : Brave and prideful, this Pokémon dashes airily through the forest, its steps aided by the psychic power stored in the fur on its fetlocks.
+jdex : ゆうもうかかんで ほこり たかい。 あしさきの けに サイコパワーを ためて かろやかに もりを かける。

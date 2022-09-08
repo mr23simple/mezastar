@@ -1,0 +1,19 @@
+name : Koffing
+jname : ドガース
+tmname : Dogars
+type1 : Poison
+setno : 4
+tagno : 035
+energy : 46
+grade : 2
+type1 : Poison
+move : Clear Smog
+movetype : Poison
+hp : 55
+atk : 37
+def : 52
+spatk : 35
+spdef : 27
+spd : 21
+dex : Its thin, membrane-like body is inflated by poison gas. It explodes with the slightest stimulus.
+jdex : うすい まくの ような からだが どくガスで ふくらんでいる。 かるい しげきで だいばくはつする。

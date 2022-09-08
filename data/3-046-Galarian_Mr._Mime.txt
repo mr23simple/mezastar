@@ -1,0 +1,22 @@
+name : Galarian Mr. Mime
+jname : ガラルバリヤード
+tmname : Galarian Barrierd
+link : Mr. Mime
+type1 : Ice
+type2 : Psychic
+setno : 3
+tagno : 046
+energy : 72
+grade : 3
+type1 : Ice
+type2 : Psychic
+move : Icy Wind
+movetype : Ice
+hp : 74
+atk : 46
+def : 46
+spatk : 62
+spdef : 62
+spd : 69
+dex : It can radiate chilliness from the bottoms of its feet. It'll spend the whole day tap-dancing on a frozen floor.
+jdex : あしの うらから れいきを だす。 こおらせた ゆかの うえで いちにち タップダンスに はげんでいる。

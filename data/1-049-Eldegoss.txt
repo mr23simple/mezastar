@@ -1,0 +1,19 @@
+name : Eldegoss
+jname : ワタシラガ
+tmname : Watashiraga
+type1 : Grass
+setno : 1
+tagno : 049
+energy : 80
+grade : 4
+type1 : Grass
+move : Leaf Tornado
+movetype : Grass
+hp : 89
+atk : 41
+def : 69
+spatk : 62
+spdef : 92
+spd : 48
+dex : The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokémon can benefit from them.
+jdex : わたげの タネは えいようまんてん。 かぜに のせて とばして くさきや ポケモンたちを げんきにさせる。

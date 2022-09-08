@@ -1,0 +1,22 @@
+name : Bronzong
+jname : ドータクン
+tmname : Dohtakun
+type1 : Steel
+type2 : Psychic
+setno : 2
+tagno : 061
+energy : 74
+grade : 3
+ : 
+type1 : Steel
+type2 : Psychic
+move : Iron Head
+movetype : Steel
+hp : 82
+atk : 60
+def : 76
+spatk : 53
+spdef : 76
+spd : 24
+dex : It can summon rain clouds. People long ago revered it as the bringer of plentiful harvests.
+jdex : あまぐもを よんで あめを ふらせる わざを もつ。 ほうさくの かみさまとして むかしの ひとびとに まつられていた。

@@ -1,0 +1,21 @@
+name : Sylveon
+jname : ニンフィア
+tmname : Nymphia
+star : Star
+type1 : Fairy
+setno : 4
+tagno : 023
+energy : 116
+grade : 5
+ : 
+type1 : Fairy
+move : Moonblast
+movetype : Fairy
+hp : 149
+atk : 67
+def : 67
+spatk : 110
+spdef : 129
+spd : 62
+dex : By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.
+jdex : リボンのような しょっかくから てきいを けす はどうを はっして あらそいを やめさせる。

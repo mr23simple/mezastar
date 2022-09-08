@@ -1,0 +1,22 @@
+name : Duraludon
+jname : ジュラルドン
+tmname : Duraludon
+star : Star
+type1 : Steel
+type2 : Dragon
+setno : 1
+tagno : 015
+energy : 110
+grade : 5
+type1 : Steel
+type2 : Dragon
+move : Flash Cannon
+movetype : Steel
+hp : 115
+atk : 88
+def : 106
+spatk : 110
+spdef : 49
+spd : 79
+dex : Its body resembles polished metal, and it's both lightweight and strong. The only drawback is that it rusts easily.
+jdex : みがきあげた きんぞくの ような からだは かるいうえに かたいが さびやすいのが けってんなのだ。

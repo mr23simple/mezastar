@@ -1,0 +1,22 @@
+name : Toxapex
+jname : ドヒドイデ
+tmname : Dohidoide
+type1 : Poison
+type2 : Water
+setno : 4
+tagno : 068
+energy : 92
+grade : 4
+ : 
+type1 : Poison
+type2 : Water
+move : Cross Poison
+movetype : Poison
+hp : 88
+atk : 54
+def : 124
+spatk : 46
+spdef : 116
+spd : 30
+dex : It moves along the seafloor on its 12 legs. Those attacked by Toxapex's poison will suffer for three days and three nights.
+jdex : １２ほんの あしで かいていを うごきまわる。 ドヒドイデの どくに やられると ３か３ばん くるしむことに なるぞ。

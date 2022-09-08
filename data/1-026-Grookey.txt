@@ -1,0 +1,19 @@
+name : Grookey
+jname : サルノリ
+tmname : Sarunori
+type1 : Grass
+setno : 1
+tagno : 026
+energy : 42
+grade : 2
+type1 : Grass
+move : Branch Poke
+movetype : Grass
+hp : 58
+atk : 36
+def : 29
+spatk : 24
+spdef : 24
+spd : 36
+dex : It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.
+jdex : スティックの れんだで こうげきする。 すごい スピードで たたくうちに テンションが どんどん あがっていく。

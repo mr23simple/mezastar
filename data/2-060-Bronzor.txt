@@ -1,0 +1,22 @@
+name : Bronzor
+jname : ドーミラー
+tmname : Dohmirror
+type1 : Steel
+type2 : Psychic
+setno : 2
+tagno : 060
+energy : 42
+grade : 2
+ : 
+type1 : Steel
+type2 : Psychic
+move : Confusion
+movetype : Psychic
+hp : 63
+atk : 17
+def : 48
+spatk : 17
+spdef : 48
+spd : 16
+dex : Ancient people believed that the pattern on its back was imbued with a mysterious power.
+jdex : せなかの もようには しんぴてきな ちからが やどっていると むかしの ひとびとに しんじられてきた。

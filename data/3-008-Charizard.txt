@@ -1,0 +1,26 @@
+name : Charizard
+jname : リザードン
+tmname : Lizardon
+star : Superstar
+type1 : Fire
+type2 : Flying
+setno : 3
+tagno : 008
+energy : 138
+grade : 6
+max : Gigantamax
+ : 
+type1 : Fire
+type2 : Flying
+move : Flamethrower
+movetype : Fire
+gmaxmove : G-Max Wildfire
+gmaxmovetype : Fire
+hp : 153
+atk : 99
+def : 92
+spatk : 127
+spdef : 100
+spd : 117
+dex : The temperature of Charizard's fire increases as it gains experience in battle.
+jdex : リザードンの ほのおは たたかいの けいけんを つむほど おんどが あがっていく。

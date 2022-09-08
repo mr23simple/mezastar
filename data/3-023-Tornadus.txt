@@ -1,0 +1,21 @@
+name : Tornadus
+jname : トルネロス
+tmname : Tornelos
+star : Star
+symbol : Legendary
+type1 : Flying
+setno : 3
+tagno : 023
+energy : 126
+grade : 5
+type1 : Flying
+move : Hurricane
+movetype : Flying
+hp : 131
+atk : 113
+def : 70
+spatk : 122
+spdef : 80
+spd : 109
+dex : As it flies around, it causes fierce storms. Its power is enough to blow houses away.
+jdex : そらを とびまわりながら はげしい あらしを まきおこす。 いえを ふきとばすほどの パワーだ。

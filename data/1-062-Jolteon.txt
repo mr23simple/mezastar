@@ -1,0 +1,19 @@
+name : Jolteon
+jname : サンダース
+tmname : Thunders
+type1 : Electric
+setno : 1
+tagno : 062
+energy : 90
+grade : 4
+type1 : Electric
+move : Thunder
+movetype : Electric
+hp : 92
+atk : 51
+def : 48
+spatk : 84
+spdef : 73
+spd : 99
+dex : If agitated, it uses stored electricity to erect its fur and fire it in bunches.
+jdex : かんじょうが たかぶると でんきを ためて さかだてた たいもうを なんぼんも とばす。

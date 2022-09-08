@@ -1,0 +1,19 @@
+name : Mudsdale
+jname : バンバドロ
+tmname : Banbadoro
+type1 : Ground
+setno : 3
+tagno : 061
+energy : 90
+grade : 4
+type1 : Ground
+move : Stomping Tantrum
+movetype : Ground
+hp : 124
+atk : 100
+def : 81
+spatk : 46
+spdef : 69
+spd : 31
+dex : The mud spat out by Mudsdale was often used to coat the walls of old houses.
+jdex : むかしの いえの かべには バンバドロが はきだした どろを よく ぬられている。

@@ -1,0 +1,22 @@
+name : Monferno
+jname : モウカザル
+tmname : Moukazaru
+type1 : Fire
+type2 : Fighting
+setno : 2
+tagno : 030
+energy : 64
+grade : 3
+ : 
+type1 : Fire
+type2 : Fighting
+move : Mach Punch
+movetype : Fighting
+hp : 80
+atk : 53
+def : 37
+spatk : 53
+spdef : 37
+spd : 55
+dex : In battle, it skilfully controls the intensity of the fire on its tail.
+jdex : しっぽの ほのおの いきおいを うまく コントロールして たたかいに やくだてる。

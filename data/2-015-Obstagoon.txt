@@ -1,0 +1,22 @@
+name : Obstagoon
+jname : タチフサグマ
+tmname : Tachifusaguma
+star : Star
+type1 : Dark
+type2 : Normal
+setno : 2
+tagno : 015
+energy : 112
+grade : 5
+type1 : Dark
+type2 : Normal
+move : Throat Chop
+movetype : Dark
+hp : 141
+atk : 87
+def : 97
+spatk : 60
+spdef : 79
+spd : 92
+dex : It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.
+jdex : ケンカを くりかえし しんか。 うでをクロスし さけぶ おたけびは どんな あいても ひるませるぞ。

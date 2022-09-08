@@ -1,0 +1,26 @@
+name : Hydreigon
+jname : サザンドラ
+tmname : Sazandora
+star : Superstar
+type1 : Dark
+type2 : Dragon
+setno : 2
+tagno : 007
+energy : 142
+grade : 6
+zcrystal : Darkinium
+ : 
+type1 : Dark
+type2 : Dragon
+move : Crunch
+movetype : Dark
+zmove : Black Hole Eclipse
+zmovetype : Dark
+hp : 157
+atk : 114
+def : 98
+spatk : 135
+spdef : 98
+spd : 106
+dex : It will attack anything that moves and devour them with its three heads. The heads on its arms do not have brains.
+jdex : うごく ものに おそいかかり ３つの あたまで くらいつくして しまう。 りょううでの あたまは のうみそを もたない。

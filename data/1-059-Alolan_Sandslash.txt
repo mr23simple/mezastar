@@ -1,0 +1,22 @@
+name : Alolan Sandslash
+jname : アローラサンドパン
+tmname : Alolan Sandpan
+link : Sandslash
+type1 : Ice
+type2 : Steel
+setno : 1
+tagno : 059
+energy : 78
+grade : 4
+type1 : Ice
+type2 : Steel
+move : Icicle Crash
+movetype : Ice
+hp : 100
+atk : 77
+def : 92
+spatk : 20
+spdef : 51
+spd : 51
+dex : Stabs from its spikes, which are sheathed in ice, not only cause deep wounds but severe frostbite as well.
+jdex : こおりに おおわれた ハリに さされると きずつくだけで なく とうしょうにも なってしまうのだ。

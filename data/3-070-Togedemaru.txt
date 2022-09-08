@@ -1,0 +1,22 @@
+name : Togedemaru
+jname : トゲデマル
+tmname : Togedemaru
+type1 : Electric
+type2 : Steel
+setno : 3
+tagno : 070
+energy : 68
+grade : 3
+ : 
+type1 : Electric
+type2 : Steel
+move : Spark
+movetype : Electric
+hp : 83
+atk : 67
+def : 45
+spatk : 30
+spdef : 51
+spd : 66
+dex : The spiny fur on its back stands on end in battle. It attracts bolts of lightning and stores them as energy in its electric sac.
+jdex : せなかの ハリを さかだてて たたかう。 かみなりを ひきよせて その でんきを でんきぶくろに ためこむ。

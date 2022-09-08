@@ -1,0 +1,24 @@
+name : Diancie
+jname : ディアンシー
+tmname : Diancie
+star : Superstar
+symbol : Mythical
+type1 : Rock
+type2 : Fairy
+setno : 3
+tagno : 005
+energy : 144
+grade : 6|
+mega : Diancie
+type1 : Rock
+type2 : Fairy
+move : Diamond Storm
+movetype : Rock
+hp : 116
+atk : 111
+def : 164
+spatk : 111
+spdef : 164
+spd : 58
+dex : Its pink, glimmering body is said to be the loveliest sight in the whole world. It can make diamonds from the air.
+jdex : ピンクいろに かがやく すがたは せかいいち うつくしいとも いわれる。 くうきから ダイヤを つくりだす ことが できる。

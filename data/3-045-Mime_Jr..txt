@@ -1,0 +1,22 @@
+name : Mime Jr.
+jname : マネネ
+tmname : Manene
+type1 : Psychic
+type2 : Fairy
+setno : 3
+tagno : 045
+energy : 42
+grade : 2
+ : 
+type1 : Psychic
+type2 : Fairy
+move : Confusion
+movetype : Psychic
+hp : 45
+atk : 16
+def : 27
+spatk : 40
+spdef : 50
+spd : 35
+dex : It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.
+jdex : みるもの すべての マネを する。 バリコオルの かれいな ステップを ひたすら マネして れんしゅうする。

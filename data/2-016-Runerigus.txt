@@ -1,0 +1,22 @@
+name : Runerigus
+jname : デスバーン
+tmname : Deathbarn
+star : Star
+type1 : Ground
+type2 : Ghost
+setno : 2
+tagno : 016
+energy : 104
+grade : 5
+type1 : Ground
+type2 : Ghost
+move : Shadow Claw
+movetype : Ghost
+hp : 109
+atk : 92
+def : 138
+spatk : 49
+spdef : 101
+spd : 29
+dex : Never touch its shadowlike body, or you'll be shown the horrific memories behind the picture carved into it.
+jdex : かげの ような からだに ふれては いけない。 えに きざまれた おそろしい きおくを みせられるぞ。

@@ -1,0 +1,24 @@
+name : Venusaur
+jname : フシギバナ
+tmname : Fushigibana
+star : Superstar
+type1 : Grass
+type2 : Poison
+setno : 1
+tagno : 006
+energy : 122
+grade : 6
+mega : Venusaur
+ : 
+type1 : Grass
+type2 : Poison
+move : Leaf Storm
+movetype : Grass
+hp : 140
+atk : 87
+def : 88
+spatk : 105
+spdef : 105
+spd : 85
+dex : The large plant on its back can convert sunlight into energy.
+jdex : せなかの おおきな はなで たいようの ひかりを エネルギーに かえることが できる。

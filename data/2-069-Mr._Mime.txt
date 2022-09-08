@@ -1,0 +1,22 @@
+name : Mr. Mime
+jname : バリヤード
+tmname : Barrierd
+type1 : Psychic
+type2 : Fairy
+setno : 2
+tagno : 069
+energy : 70
+grade : 3
+ : 
+type1 : Psychic
+type2 : Fairy
+move : Psybeam
+movetype : Psychic
+hp : 65
+atk : 32
+def : 45
+spatk : 67
+spdef : 79
+spd : 60
+dex : It's known for its top-notch pantomime skills. Emanations from its fingertips solidify the air into invisible walls.
+jdex : パントマイムが とくい。 ゆびさきから だす はどうが くうきを かためて みえない カべを つくりだす。

@@ -1,0 +1,22 @@
+name : Stufful
+jname : ヌイコグマ
+tmname : Nuikoguma
+type1 : Normal
+type2 : Fighting
+setno : 4
+tagno : 063
+energy : 58
+grade : 3
+ : 
+type1 : Normal
+type2 : Fighting
+move : Tackle
+movetype : Normal
+hp : 89
+atk : 54
+def : 38
+spatk : 34
+spdef : 38
+spd : 38
+dex : It is very dangerous when angry, as it will begin to act violently. Its powerful arms and legs can knock away a pro wrestler.
+jdex : おこって あばれだすと ひじょうに キケン。 きょうりょくな てあしで プロレスラーも ふっとばす。

@@ -1,0 +1,22 @@
+name : Slowbro
+jname : ヤドラン
+tmname : Yadoran
+type1 : Water
+type2 : Psychic
+setno : 1
+tagno : 055
+energy : 84
+grade : 4
+ : 
+type1 : Water
+type2 : Psychic
+move : Water Pulse
+movetype : Water
+hp : 114
+atk : 59
+def : 84
+spatk : 77
+spdef : 62
+spd : 24
+dex : A Shellder is stuck to it. It keeps biting and won't let go because of the flavor that oozes from its tail.
+jdex : くっついているのは シェルダー。 しっぽから うまみが にじみでるため かみついて ずっと はなれない。

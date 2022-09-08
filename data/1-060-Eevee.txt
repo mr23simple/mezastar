@@ -1,0 +1,19 @@
+name : Eevee
+jname : イーブイ
+tmname : Eievui
+type1 : Normal
+setno : 1
+tagno : 060
+energy : 60
+grade : 3
+type1 : Normal
+move : Swift
+movetype : Normal
+hp : 85
+atk : 44
+def : 41
+spatk : 37
+spdef : 51
+spd : 44
+dex : Thanks to its unstable genetic makeup, it can evolve into a variety of different forms.
+jdex : ふあんていな いでんしの おかげで いろいろな すがたかたちに しんかする。

@@ -1,0 +1,22 @@
+name : Galarian Linoone
+jname : ガラルマッスグマ
+tmname : Galarian Massuguma
+link : Linoone
+type1 : Dark
+type2 : Normal
+setno : 2
+tagno : 036
+energy : 64
+grade : 3
+type1 : Dark
+type2 : Normal
+move : Snarl
+movetype : Dark
+hp : 89
+atk : 48
+def : 42
+spatk : 36
+spdef : 42
+spd : 67
+dex : It uses its long tongue to taunt opponents. Once the opposition is enraged, this Pokémon hurls itself at the opponent, tackling them forcefully.
+jdex : ながいしたで えものを ちょうはつ。 おこった あいてに きょうれつな タックルを おみまい するぞ。

@@ -1,0 +1,19 @@
+name : Rookidee
+jname : ココガラ
+tmname : Kokogara
+type1 : Flying
+setno : 3
+tagno : 037
+energy : 36
+grade : 2
+type1 : Flying
+move : Peck
+movetype : Flying
+hp : 54
+atk : 28
+def : 22
+spatk : 21
+spdef : 22
+spd : 33
+dex : Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.
+jdex : ちいさい からだで きびんに とんで すきを つく せんぽうで からだの おおきな あいてを てだまにとる。

@@ -1,0 +1,19 @@
+name : Kadabra
+jname : ユンゲラー
+tmname : Yungerer
+type1 : Psychic
+setno : 2
+tagno : 052
+energy : 62
+grade : 3
+type1 : Psychic
+move : Psybeam
+movetype : Psychic
+hp : 65
+atk : 26
+def : 22
+spatk : 79
+spdef : 48
+spd : 70
+dex : Its body emits peculiar alpha waves. Its psychic powers are halved when it's not holding a silver spoon.
+jdex : からだから とくしゅな アルファはを だす。 ぎんの スプーンが ないと サイコパワーが はんぶんに なってしまう。

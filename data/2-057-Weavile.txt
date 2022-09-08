@@ -1,0 +1,22 @@
+name : Weavile
+jname : マニューラ
+tmname : Manyula
+type1 : Dark
+type2 : Ice
+setno : 2
+tagno : 057
+energy : 90
+grade : 4
+ : 
+type1 : Dark
+type2 : Ice
+move : Night Slash
+movetype : Dark
+hp : 98
+atk : 93
+def : 53
+spatk : 37
+spdef : 67
+spd : 97
+dex : It coordinates attacks with others by clawing signs on the surface of rocks.
+jdex : いわや きの ひょうめんに ツメで サインを のこし なかまと れんらくを とりあって たたかう。

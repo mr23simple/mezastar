@@ -1,0 +1,26 @@
+name : Tyranitar
+jname : バンギラス
+tmname : Bangiras
+star : Superstar
+type1 : Rock
+type2 : Dark
+setno : 3
+tagno : 007
+energy : 144
+grade : 6|
+max : Dynamax
+ : 
+type1 : Rock
+type2 : Dark
+move : Stone Edge
+movetype : Rock
+maxmove : Max Rockfall
+maxmovetype : Rock
+hp : 169
+atk : 147
+def : 121
+spatk : 105
+spdef : 111
+spd : 69
+dex : Its tremendous power can knock down mountains and bury rivers, changing the surrounding terrain.
+jdex : やまを くずし かわを うずめ あたりの ちけいを かえてしまう ほどの ものすごい パワーを ひめている。

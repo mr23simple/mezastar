@@ -1,0 +1,19 @@
+name : Gossifleur
+jname : ヒメンカ
+tmname : Himenka
+type1 : Grass
+setno : 1
+tagno : 048
+energy : 44
+grade : 2
+type1 : Grass
+move : Leafage
+movetype : Grass
+hp : 64
+atk : 28
+def : 41
+spatk : 28
+spdef : 41
+spd : 7
+dex : It whirls around in the wind while singing a joyous song. This delightful display has charmed many people into raising it.
+jdex : そよかぜで くるくる まわりながら たのしそうに うたう すがたが あいらしく そだてる ひとが おおい。

@@ -1,0 +1,22 @@
+name : Frosmoth
+jname : モスノウ
+tmname : Mothnow
+type1 : Ice
+type2 : Bug
+setno : 3
+tagno : 049
+energy : 86
+grade : 4
+ : 
+type1 : Ice
+type2 : Bug
+move : Aurora Beam
+movetype : Ice
+hp : 101
+atk : 54
+def : 50
+spatk : 100
+spdef : 73
+spd : 54
+dex : Icy scales fall from its wings like snow as it flies over fields and mountains. The temperature of its wings is less than -290 degrees Fahrenheit.
+jdex : はねの おんどは マイナス１８０ど。 れいきを こめた りんぷんを ゆきの ように ふりまき のやまを とぶ。

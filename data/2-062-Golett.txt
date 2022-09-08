@@ -1,0 +1,22 @@
+name : Golett
+jname : ゴビット
+tmname : Gobit
+type1 : Ground
+type2 : Ghost
+setno : 2
+tagno : 062
+energy : 42
+grade : 2
+ : 
+type1 : Ground
+type2 : Ghost
+move : Astonish
+movetype : Ghost
+hp : 64
+atk : 42
+def : 30
+spatk : 22
+spdef : 30
+spd : 22
+dex : It's been active for thousands of years. An unknown energy inside it enables it to move.
+jdex : すうせんねんも うごきつづけているが じんな エネルギーで うごいて いるかは ねからない。

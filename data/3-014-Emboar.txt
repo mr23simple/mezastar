@@ -1,0 +1,26 @@
+name : Emboar
+jname : エンブオー
+tmname : Enbuoh
+star : Star
+type1 : Fire
+type2 : Fighting
+setno : 3
+tagno : 014
+energy : 116
+grade : 5
+zcrystal : Firium
+ : 
+type1 : Fire
+type2 : Fighting
+move : Flare Blitz
+movetype : Fire
+zmove : Inferno Overdrive
+zmovetype : Fire
+hp : 160
+atk : 120
+def : 66
+spatk : 99
+spdef : 66
+spd : 66
+dex : It grows a beard of fire. It has mastered fast and powerful fighting moves.
+jdex : ほのおの あごひげを たくわえる。 パワーと スピードを かねそなえた かくとうの わざを みにつけている。

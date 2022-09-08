@@ -1,0 +1,19 @@
+name : Serperior
+jname : ジャローダ
+tmname : Jalorda
+type1 : Grass
+setno : 3
+tagno : 028
+energy : 94
+grade : 4
+type1 : Grass
+move : Leaf Tornado
+movetype : Grass
+hp : 105
+atk : 62
+def : 77
+spatk : 62
+spdef : 77
+spd : 90
+dex : It takes in solar energy and boosts it internally. It only gives its all against strong opponents.
+jdex : たいようエネルギーを からだの なかで ぞうふくさせる。 つよい あいてにだけ ほんきを だす。

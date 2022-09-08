@@ -1,0 +1,19 @@
+name : Sudowoodo
+jname : ウソッキー
+tmname : Usokkie
+type1 : Rock
+setno : 3
+tagno : 059
+energy : 66
+grade : 3
+type1 : Rock
+move : Rock Slide
+movetype : Rock
+hp : 86
+atk : 69
+def : 78
+spatk : 22
+spdef : 46
+spd : 22
+dex : It mimics a tree to avoid being attacked. Its body appears to be closer to a rock than a plant.
+jdex : きの まねをして てきに おそわれないようにする。 からだの つくりは しょくぶつより いしや いわに ちかい。

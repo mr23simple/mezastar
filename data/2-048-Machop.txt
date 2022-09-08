@@ -1,0 +1,19 @@
+name : Machop
+jname : ワンリキー
+tmname : Wanriky
+type1 : Fighting
+setno : 2
+tagno : 048
+energy : 42
+grade : 2
+type1 : Fighting
+move : Revenge
+movetype : Fighting
+hp : 70
+atk : 45
+def : 30
+spatk : 22
+spdef : 22
+spd : 22
+dex : Its muscles are special—they never get sore no matter how much they are used in exercise. It can hurl 100 grown-ups.
+jdex : どんなに うんどうを しても きんにくつうに ならない とくべつな きんにくを もって いる。おとな １００にんを なげとばせる。

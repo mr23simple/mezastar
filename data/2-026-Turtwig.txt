@@ -1,0 +1,19 @@
+name : Turtwig
+jname : ナエトル
+tmname : Naetle
+type1 : Grass
+setno : 2
+tagno : 026
+energy : 44
+grade : 2
+type1 : Grass
+move : Absorb
+movetype : Grass
+hp : 62
+atk : 39
+def : 37
+spatk : 27
+spdef : 32
+spd : 20
+dex : The shell on its back is made of soil. If the shell is reasonably moist, it's proof of good health.
+jdex : せなかの こうらは つちで できている。 こうらが ほどよく しめって いれば げんきな しょうこだ。

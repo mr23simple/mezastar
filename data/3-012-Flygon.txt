@@ -1,0 +1,26 @@
+name : Flygon
+jname : フライゴン
+tmname : Flygon
+star : Star
+type1 : Ground
+type2 : Dragon
+setno : 3
+tagno : 012
+energy : 114
+grade : 5
+max : Dynamax
+ : 
+type1 : Ground
+type2 : Dragon
+move : Earthquake
+movetype : Ground
+maxmove : Max Quake
+maxmovetype : Ground
+hp : 132
+atk : 99
+def : 80
+spatk : 80
+spdef : 80
+spd : 99
+dex : This Pokémon hides in the heart of sandstorms it creates and seldom appears where people can see it.
+jdex : みずからが まきおこす すなあらしの ちゅうしんに いるので めったに ひとまえに あらわれない ポケモン。

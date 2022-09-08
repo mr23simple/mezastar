@@ -1,0 +1,22 @@
+name : Toxtricity
+jname : ストリンダー
+tmname : Strinder
+type1 : Electric
+type2 : Poison
+setno : 3
+tagno : 042
+energy : 90
+grade : 4
+ : 
+type1 : Electric
+type2 : Poison
+move : Poison Jab
+movetype : Poison
+hp : 105
+atk : 79
+def : 58
+spatk : 91
+spdef : 58
+spd : 62
+dex : Capable of generating 15,000 volts of electricity, this Pokémon looks down on all that would challenge it.
+jdex : 15000ボルトもの でんきを はっせいさせることが できる。 どんな あいても なめている。

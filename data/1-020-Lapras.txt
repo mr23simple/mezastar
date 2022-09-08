@@ -1,0 +1,22 @@
+name : Lapras
+jname : ラプラス
+tmname : Laplace
+star : Star
+type1 : Water
+type2 : Ice
+setno : 1
+tagno : 020
+energy : 110
+grade : 5
+type1 : Water
+type2 : Ice
+move : Ice Beam
+movetype : Ice
+hp : 168
+atk : 79
+def : 75
+spatk : 79
+spdef : 88
+spd : 57
+dex : It fully understands human speech. It loves crossing the sea with people on its back.
+jdex : あたまか よく にんげんの ことばを わかる。 せなかに ひとを のせて うみを すすむのが すき。

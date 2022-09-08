@@ -1,0 +1,19 @@
+name : Prinplup
+jname : ポッタイシ
+tmname : Pottaishi
+type1 : Water
+setno : 2
+tagno : 033
+energy : 64
+grade : 3
+type1 : Water
+move : Bubble Beam
+movetype : Water
+hp : 80
+atk : 45
+def : 47
+spatk : 55
+spdef : 52
+spd : 36
+dex : Every Prinplup considers itself to be the most important. Its wings can deliver wicked blows.
+jdex : どの ポッタイシも じぶんが いちばん えらいと おもっている。 つばさの いちげきは きょうれつ。

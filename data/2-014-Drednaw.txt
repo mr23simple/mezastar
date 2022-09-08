@@ -1,0 +1,22 @@
+name : Drednaw
+jname : カジリガメ
+tmname : Kajirigame
+star : Star
+type1 : Water
+type2 : Rock
+setno : 2
+tagno : 014
+energy : 104
+grade : 5
+type1 : Water
+type2 : Rock
+move : Head Smash
+movetype : Rock
+hp : 138
+atk : 110
+def : 87
+spatk : 48
+spdef : 67
+spd : 73
+dex : This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.
+jdex : くびが のびちぢみする。 はなれた ところから くびを いっきに のばし するどい キバで てきを しとめる。

@@ -1,0 +1,22 @@
+name : Ferrothorn
+jname : ナットレイ
+tmname : Nutrey
+type1 : Grass
+type2 : Steel
+setno : 3
+tagno : 067
+energy : 88
+grade : 4
+ : 
+type1 : Grass
+type2 : Steel
+move : Iron Head
+movetype : Steel
+hp : 104
+atk : 76
+def : 104
+spatk : 46
+spdef : 93
+spd : 17
+dex : It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.
+jdex : 3ほんの トゲつき しょくしゅを ふりまわして たたかう。 はがねよの トゲは おおいわを ふんさいする はかいりょくだ。

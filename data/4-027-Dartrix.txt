@@ -1,0 +1,22 @@
+name : Dartrix
+jname : フクスロー
+tmname : Fukuthrow
+type1 : Grass
+type2 : Flying
+setno : 4
+tagno : 027
+energy : 68
+grade : 3
+ : 
+type1 : Grass
+type2 : Flying
+move : Razor Leaf
+movetype : Grass
+hp : 94
+atk : 54
+def : 54
+spatk : 51
+spdef : 51
+spd : 39
+dex : It loves preening its wings; however, its preoccupation with any dirt on its plumage can hinder it in battle.
+jdex : つばさの ていれが だいすきだが うもうの よごれが きになって たたかいに さしつかえる ことも ある。

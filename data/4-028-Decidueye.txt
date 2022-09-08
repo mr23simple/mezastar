@@ -1,0 +1,22 @@
+name : Decidueye
+jname : ジュナイパー
+tmname : Junaiper
+type1 : Grass
+type2 : Ghost
+setno : 4
+tagno : 028
+energy : 98
+grade : 4
+ : 
+type1 : Grass
+type2 : Ghost
+move : Grassy Glide
+movetype : Grass
+hp : 109
+atk : 88
+def : 63
+spatk : 83
+spdef : 83
+spd : 59
+dex : It fires arrow quills from its wings and is able to pierce a pebble from more than a hundred yards away.
+jdex : つばさの なかに ある やばねを はなつと 100メートル さきの こいしも つらぬくことが できる。

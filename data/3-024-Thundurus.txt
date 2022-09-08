@@ -1,0 +1,24 @@
+name : Thundurus
+jname : ボルトロス
+tmname : Voltolos
+star : Star
+symbol : Legendary
+type1 : Electric
+type2 : Flying
+setno : 3
+tagno : 024
+energy : 126
+grade : 5
+ : 
+type1 : Electric
+type2 : Flying
+move : Thunder
+movetype : Electric
+hp : 131
+atk : 113
+def : 70
+spatk : 122
+spdef : 80
+spd : 109
+dex : As it flies around, it fires off lightning all over the place. The land of places it has passed through is left scorched.
+jdex : そらを とびまわりながら あちこちに カミナリを おとす。 とおりすぎた とちは あちこちが やけこげている。

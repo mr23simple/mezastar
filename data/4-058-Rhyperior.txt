@@ -1,0 +1,22 @@
+name : Rhyperior
+jname : ドサイドン
+tmname : Dosidon
+type1 : Ground
+type2 : Rock
+setno : 4
+tagno : 058
+energy : 98
+grade : 4
+ : 
+type1 : Ground
+type2 : Rock
+move : Rock Slide
+movetype : Rock
+hp : 138
+atk : 114
+def : 106
+spatk : 47
+spdef : 47
+spd : 34
+dex : It puts rocks in the holes in its palms and uses its muscles to shoot them. Geodude are shot on occasion.
+jdex : てのひらの あなに いわを つめて きんにくの ちからで はっしゃする。 たまに イシツブテを とばす。

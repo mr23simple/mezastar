@@ -1,0 +1,19 @@
+name : Abra
+jname : ケーシィ
+tmname : Casey
+type1 : Psychic
+setno : 2
+tagno : 051
+energy : 42
+grade : 2
+type1 : Psychic
+move : Hidden Power
+movetype : Psychic
+hp : 47
+atk : 13
+def : 9
+spatk : 57
+spdef : 32
+spd : 50
+dex : It sleeps for 18 hours a day. If it senses danger, it will teleport itself to safety even while asleep.
+jdex : まいにち 18じかんは ねむる。 きけんな けはいを かんじたら ねむったままでも テレポートで にげだす。
