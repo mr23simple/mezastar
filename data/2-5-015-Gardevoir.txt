@@ -1,0 +1,24 @@
+name : Gardevoir
+jname : サーナイト
+tmname : Sirnight
+star : Star
+type1 : Psychic
+type2 : Fairy
+setno : 2-5
+tagno : 015
+energy : 132
+grade : 5
+type1 : Psychic
+type2 : Fairy
+move : Dazzling Gleam
+movetype : Fairy
+hp : 139
+atk : 76
+def : 76
+spatk : 142
+spdef : 131
+spd : 93
+tag : Alolan Ninetales
+tagms : 038A
+tagmove : Blizzard
+tagmovetype : Ice

@@ -1,0 +1,19 @@
+name : Quilladin
+jname : ハリボーグ
+tmname : Hariborg
+type1 : Grass
+setno : 2-5
+tagno : 027
+energy : 78
+grade : 3
+type1 : Grass
+move : Needle Arm
+movetype : Grass
+hp : 96
+atk : 65
+def : 79
+spatk : 48
+spdef : 50
+spd : 49
+dex : It does not start fights on its own. Its sturdy body is covered in quills to repel opponent's attacks.
+jdex : みずから あらそうことは しない。 がんじょうな カラに おおわれた からだは あいての こうげきを はじきかえす。

@@ -1,0 +1,19 @@
+name : Pikachu
+jname : ピカチュウ
+tmname : Pikachu
+image : Pikachu P StartDashCampaign.png
+bimage : Pikachu P StartDashCampaign b.png
+type1 : Electric
+setno : P
+energy : 74
+type1 : Electric
+move : Thunderbolt
+movetype : Electric
+hp : 88
+atk : 55
+def : 41
+spatk : 51
+spdef : 51
+spd : 87
+dex : It is said that electricity accumulates in the electric sacs on Pikachu's cheeks while it sleeps.
+jdex : ほっぺたの でんきぶくろには ピカチュウが ねている あいだに でんきが たまると いわれている。

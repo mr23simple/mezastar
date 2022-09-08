@@ -1,0 +1,22 @@
+name : Lapras
+jname : ラプラス
+tmname : Laplace
+image : Lapras P NewPokémonSnap.png
+bimage : Lapras P NewPokémonSnap b.png
+size : 250px
+type1 : Water
+type2 : Ice
+setno : P
+energy : 96
+type1 : Water
+type2 : Ice
+move : Ice Beam
+movetype : Ice
+hp : 146
+atk : 69
+def : 65
+spatk : 69
+spdef : 77
+spd : 50
+dex : It fully understands human speech. It loves crossing the sea with people on its back.
+jdex : あたまか よく にんげんの ことばを わかる。 せなかに ひとを のせて うみを すすむのが すき。

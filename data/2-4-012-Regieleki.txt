@@ -1,0 +1,21 @@
+name : Regieleki
+jname : レジエレキ
+tmname : Regieleki
+star : Star
+symbol : Legendary
+type1 : Electric
+setno : 2-4
+tagno : 012
+energy : 144
+grade : 5
+type1 : Electric
+move : Thunder Cage
+movetype : Electric
+hp : 150
+atk : 113
+def : 59
+spatk : 113
+spdef : 59
+spd : 221
+dex : This Pokémon is a cluster of electrical energy. It's said that removing the rings on Regieleki's body will unleash the Pokémon's latent power.
+jdex : でんきエネルギーの かたまり。 からだの リングを はずすと ひめた ちからが ときはなたれるらしい。

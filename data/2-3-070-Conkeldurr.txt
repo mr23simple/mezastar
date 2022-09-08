@@ -1,0 +1,19 @@
+name : Conkeldurr
+jname : ローブシン
+tmname : Roubushin
+type1 : Fighting
+setno : 2-3
+tagno : 070
+energy : 102
+grade : 4
+type1 : Fighting
+move : Brick Break
+movetype : Fighting
+hp : 143
+atk : 125
+def : 86
+spatk : 52
+spdef : 60
+spd : 43
+dex : Concrete mixed by Conkeldurr is much more durable than normal concrete, even when the compositions of the two materials are the same.
+jdex : おなじ せいぶんでも ローブシンが まぜた コンクリートの ほうが ずっと かたく じょうぶだ。

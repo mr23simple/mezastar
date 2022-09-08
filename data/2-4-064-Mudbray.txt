@@ -1,0 +1,19 @@
+name : Mudbray
+jname : ドロバンコ
+tmname : Dorobanko
+type1 : Ground
+setno : 2-4
+tagno : 064
+energy : 72
+grade : 3
+type1 : Ground
+move : Bulldoze
+movetype : Ground
+hp : 101
+atk : 81
+def : 58
+spatk : 39
+spdef : 46
+spd : 39
+dex : It is stubborn and goes at its own pace. The mud stuck to its feet enhances its powerful running gait.
+jdex : がんこで マイペース。 どろを まとわりついた あしで じぬんを ふみしぬ ちからづよく はしる。

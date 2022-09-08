@@ -1,0 +1,19 @@
+name : Pincurchin
+jname : バチンウニ
+tmname : Bachinuni
+type1 : Electric
+setno : 2-1
+tagno : 056
+energy : 74
+grade : 3
+type1 : Electric
+move : Spark
+movetype : Electric
+hp : 78
+atk : 75
+def : 71
+spatk : 68
+spdef : 64
+spd : 15
+dex : It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.
+jdex : トゲの 1ぽん 1ぽんに でんきを たくわえる。 おれた トゲでも 3じかんは ほうでんを つづけるぞ。

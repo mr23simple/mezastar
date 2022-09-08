@@ -1,0 +1,19 @@
+name : Chespin
+jname : ハリマロン
+tmname : Harimaron
+type1 : Grass
+setno : 2-5
+tagno : 026
+energy : 44
+grade : 2
+type1 : Grass
+move : Vine Whip
+movetype : Grass
+hp : 65
+atk : 36
+def : 38
+spatk : 29
+spdef : 28
+spd : 24
+dex : It can harden the quills on its head so they become sharp enough to pierce rock.
+jdex : あたまの トゲに ちからを こめると いわをも つらぬいて しまうほど するどく かたく とがる。

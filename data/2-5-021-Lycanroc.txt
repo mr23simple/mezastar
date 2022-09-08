@@ -1,0 +1,20 @@
+name : Lycanroc
+jname : ルガルガン
+tmname : Lugarugan
+star : Star
+type1 : Rock
+setno : 2-5
+tagno : 021
+energy : 124
+grade : 5
+type1 : Rock
+move : Stone Edge
+movetype : Rock
+hp : 158
+atk : 131
+def : 87
+spatk : 65
+spdef : 87
+spd : 95
+dex : It will attack strong opponents with no regard for its own safety. Its rocky mane is a powerful weapon.
+jdex : わがみも かえりみず つよい あいてに おそいかかる。 タテガミの いわは きょうりょくな ぶきだ。

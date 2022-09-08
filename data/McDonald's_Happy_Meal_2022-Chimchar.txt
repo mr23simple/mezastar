@@ -1,0 +1,23 @@
+name : Chimchar
+jname : ヒコザル
+tmname : Hikozaru
+image : Chimchar P McDonaldsHappyMeal2022.png
+bimage : Chimchar P McDonaldsHappyMeal2022 b.png
+size : 250px
+type1 : Fire
+setno : P
+energy : 90
+miracle : yes
+type1 : Fire
+move : Flame Wheel
+movetype : Fire
+hp : 113
+atk : 68
+def : 53
+spatk : 68
+spdef : 53
+spd : 72
+tag : Dialga
+tagms : 483
+tagmove : Roar of Time
+tagmovetype : Dragon

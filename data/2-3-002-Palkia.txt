@@ -1,0 +1,23 @@
+name : Palkia
+jname : パルキア
+tmname : Palkia
+star : Superstar
+symbol : Legendary
+type1 : Water
+type2 : Dragon
+setno : 2-3
+tagno : 002
+energy : 180
+grade : 6
+type1 : Water
+type2 : Dragon
+move : Spacial Rend
+movetype : Dragon
+hp : 175
+atk : 146
+def : 123
+spatk : 182
+spdef : 146
+spd : 123
+dex : It can freely manipulate links in space. It is said that space becomes more stable with Palkia's every breath.
+jdex : くうかんの つながりを じざいに あやつる。 パルキアが いきを するたび くうかんは あんていすると いわれる。

@@ -1,0 +1,24 @@
+name : Incineroar
+jname : ガオガエン
+tmname : Gaogaen
+star : Superstar
+type1 : Fire
+type2 : Dark
+setno : 2-5
+tagno : 007
+energy : 148
+grade : 6
+type1 : Fire
+type2 : Dark
+move : Darkest Lariat
+movetype : Dark
+hp : 186
+atk : 145
+def : 114
+spatk : 102
+spdef : 114
+spd : 78
+tag : Runerigus
+tagms : 867
+tagmove : Shadow Claw
+tagmovetype : Ghost

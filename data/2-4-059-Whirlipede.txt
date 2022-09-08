@@ -1,0 +1,21 @@
+name : Whirlipede
+jname : ホイーガ
+tmname : Wheega
+type1 : Bug
+type2 : Poison
+setno : 2-4
+tagno : 059
+energy : 68
+grade : 3
+type1 : Bug
+type2 : Poison
+move : Bug Bite
+movetype : Bug
+hp : 78
+atk : 46
+def : 80
+spatk : 35
+spdef : 65
+spd : 40
+dex : This Pokémon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.
+jdex : こうそくで かいてんし あいてに とつげき。 さいこうじそくは およそ １００キロに たっする。

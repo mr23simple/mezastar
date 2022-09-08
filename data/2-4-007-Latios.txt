@@ -1,0 +1,23 @@
+name : Latios
+jname : ラティオス
+tmname : Latios
+star : Superstar
+symbol : Legendary
+type1 : Dragon
+type2 : Psychic
+setno : 2-4
+tagno : 007
+energy : 164
+grade : 6
+type1 : Dragon
+type2 : Psychic
+move : Luster Purge
+movetype : Psychic
+hp : 166
+atk : 113
+def : 101
+spatk : 161
+spdef : 137
+spd : 137
+dex : It is highly intelligent and understands human speech. By folding its arms, it can fly faster than a jet.
+jdex : にんげんの ことばが わかるほど たかい ちのうを もっている。 うでを おりたたむと ジェットきより はやく とべる。

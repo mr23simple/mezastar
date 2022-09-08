@@ -1,0 +1,19 @@
+name : Hippopotas
+jname : ヒポポタス
+tmname : Hippopotas
+type1 : Ground
+setno : 2-4
+tagno : 044
+energy : 46
+grade : 2
+type1 : Ground
+move : Sand Tomb
+movetype : Ground
+hp : 71
+atk : 42
+def : 45
+spatk : 24
+spdef : 26
+spd : 21
+dex : It moves through the sands with its mouth open, swallowing sand along with its prey. It gets rid of the sand by spouting it from its nose.
+jdex : くちを あけて いどうしながら すなごと えものを まるのみ。 すなは はなから ふきだし すてる。

@@ -1,0 +1,21 @@
+name : Ivysaur
+jname : フシギソウ
+tmname : Fushigisou
+type1 : Grass
+type2 : Poison
+setno : 2-1
+tagno : 027
+energy : 70
+grade : 3
+type1 : Grass
+type2 : Poison
+move : Razor Leaf
+movetype : Grass
+hp : 87
+atk : 48
+def : 49
+spatk : 61
+spdef : 61
+spd : 47
+dex : When the bud on its back starts swelling, a sweet smell indicates the large flower will soon bloom.
+jdex : せなかの つぼみが ふくらんで あまい においが してくると おおきな はなが さく まえぶれ。

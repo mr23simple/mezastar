@@ -1,0 +1,25 @@
+name : Chesnaught
+jname : ブリガロン
+tmname : Brigarron
+star : Star
+type1 : Grass
+type2 : Fighting
+setno : 2-5
+tagno : 012
+energy : 134
+grade : 5
+zcrystal : Fightinium
+type1 : Grass
+type2 : Fighting
+move : Hammer Arm
+movetype : Fighting
+zmove : All-Out Pummeling
+zmovetype : Fighting
+hp : 161
+atk : 122
+def : 139
+spatk : 86
+spdef : 87
+spd : 75
+dex : When in a defensive posture with its fists guarding its face, it can withstand even a bomb blast.
+jdex : めの まえで こぶしを あわせ ぼうぎょしせいを とると ばくだんが ちょくげきしても たえる。

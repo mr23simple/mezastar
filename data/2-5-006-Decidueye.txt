@@ -1,0 +1,24 @@
+name : Decidueye
+jname : ジュナイパー
+tmname : Junaiper
+star : Superstar
+type1 : Grass
+type2 : Ghost
+setno : 2-5
+tagno : 006
+energy : 148
+grade : 6
+type1 : Grass
+type2 : Ghost
+move : Spirit Shackle
+movetype : Ghost
+hp : 166
+atk : 135
+def : 96
+spatk : 127
+spdef : 127
+spd : 90
+tag : Scizor
+tagms : 212
+tagmove : X-Scissor
+tagmovetype : Bug

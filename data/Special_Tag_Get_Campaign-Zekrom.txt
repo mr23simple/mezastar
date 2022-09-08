@@ -1,0 +1,24 @@
+name : Zekrom
+jname : ゼクロム
+tmname : Zekrom
+star : Star
+symbol : Legendary
+image : Zekrom P SpecialTagGetCampaign.png
+bimage : Zekrom P SpecialTagGetCampaign b.png
+size : 250px
+type1 : Dragon
+type2 : Electric
+setno : P
+energy : 136
+type1 : Dragon
+type2 : Electric
+move : Fusion Bolt
+movetype : Electric
+hp : 142
+atk : 137
+def : 110
+spatk : 110
+spdef : 93
+spd : 84
+dex : This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.
+jdex : いなずまで せかいを やきつくせる でんせつの ポケモン。 りそうの せかいを つくる ひとを ほさする。

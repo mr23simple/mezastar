@@ -1,0 +1,24 @@
+name : Toxtricity
+jname : ストリンダー
+tmname : Strinder
+star : Star
+type1 : Electric
+type2 : Poison
+setno : 2-5
+tagno : 017
+energy : 128
+grade : 5
+type1 : Electric
+type2 : Poison
+move : Sludge Wave
+movetype : Poison
+hp : 147
+atk : 112
+def : 82
+spatk : 130
+spdef : 82
+spd : 87
+tag : Centiskorch
+tagms : 851
+tagmove : Inferno
+tagmovetype : Fire

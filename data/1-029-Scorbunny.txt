@@ -1,0 +1,19 @@
+name : Scorbunny
+jname : ヒバニー
+tmname : Hibanny
+type1 : Fire
+setno : 1
+tagno : 029
+energy : 42
+grade : 2
+type1 : Fire
+move : Ember
+movetype : Fire
+hp : 58
+atk : 40
+def : 24
+spatk : 24
+spdef : 24
+spd : 38
+dex : A warm-up of running around gets fire energy coursing through its body. Once that happens, it's ready to fight at full power.
+jdex : はしりまわって たいおんが あがると ほのおエネルギーが からだを めぐり ほんらいの ちからを だせるのだ。

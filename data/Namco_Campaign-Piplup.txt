@@ -1,0 +1,22 @@
+name : Piplup
+jname : ポッチャマ
+tmname : Pochama
+image : Piplup P NamcoCampaign.png
+bimage : Piplup P NamcoCampaign b.png
+size : 250px
+type1 : Water
+setno : P
+energy : 76
+type1 : Water
+move : Bubble
+movetype : Water
+hp : 108
+atk : 53
+def : 55
+spatk : 63
+spdef : 58
+spd : 43
+tag : Piplup
+tagms : 393
+tagmove : Hydro Pump
+tagmovetype : Water

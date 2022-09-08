@@ -1,0 +1,19 @@
+name : Milcery
+jname : マホミル
+tmname : Mahomil
+type1 : Fairy
+setno : 4
+tagno : 039
+energy : 38
+grade : 2
+type1 : Fairy
+move : Draining Kiss
+movetype : Fairy
+hp : 57
+atk : 25
+def : 25
+spatk : 30
+spdef : 35
+spd : 21
+dex : This Pokémon was born from sweet-smelling particles in the air. Its body is made of cream.
+jdex : クリームで できた からだを もつ。 くうきちゅうの あまい かおりの せいぶんが あつまって うまれた。

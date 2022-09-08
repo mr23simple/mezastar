@@ -1,0 +1,26 @@
+name : Empoleon
+jname : エンペルト
+tmname : Emperte
+star : Star
+image : Empoleon P StarPokémonSet.png
+bimage : Empoleon P StarPokémonSet b.png
+size : 250px
+type1 : Water
+type2 : Steel
+setno : P
+energy : 110
+zcrystal : Steelium
+type1 : Water
+type2 : Steel
+move : Flash Cannon
+movetype : Steel
+zmove : Corkscrew Crash
+zmovetype : Steel
+hp : 130
+atk : 82
+def : 84
+spatk : 104
+spdef : 95
+spd : 59
+dex : In a flock of Empoleon, the size of the horns that extend from each of their beaks represent their strength.
+jdex : エンペルトの むれでは クチバシから のびる ツノの おおきさが つよさを あらわす。

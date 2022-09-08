@@ -1,0 +1,23 @@
+name : Naganadel
+jname : アーゴヨン
+tmname : Agoyon
+star : Superstar
+symbol : UB
+type1 : Poison
+type2 : Dragon
+setno : 2-5
+tagno : 004
+energy : 150
+grade : 6
+type1 : Poison
+type2 : Dragon
+move : Venoshock
+movetype : Poison
+hp : 160
+atk : 94
+def : 94
+spatk : 159
+spdef : 94
+spd : 152
+dex : One kind of Ultra Beast. It stores hundreds of liters of a sticky, glowing, venomous liquid inside its body.
+jdex : ウルトラビーストの いっしゅ。 ねばねばして ひかる どくえきを からだのなかに すうひゃくリットルも ためている。

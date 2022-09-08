@@ -1,0 +1,21 @@
+name : Mewtwo
+jname : ミュウツー
+tmname : Mewtwo
+star : Superstar
+symbol : Legendary
+type1 : Psychic
+setno : 2
+tagno : 001
+energy : 158
+grade : 6
+type1 : Psychic
+move : Psystrike
+movetype : Psychic
+hp : 172
+atk : 119
+def : 98
+spatk : 165
+spdef : 98
+spd : 140
+dex : A Pokémon created by recombining Mew's genes. It was created solely for battling.
+jdex : ミュウの いでんしを くみかえて うみだされたポケモン。 たたかいの ためだけに つくられた。

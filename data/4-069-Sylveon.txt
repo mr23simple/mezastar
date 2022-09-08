@@ -1,0 +1,19 @@
+name : Sylveon
+jname : ニンフィア
+tmname : Nymphia
+type1 : Fairy
+setno : 4
+tagno : 069
+energy : 96
+grade : 4
+type1 : Fairy
+move : Dazzling Gleam
+movetype : Fairy
+hp : 123
+atk : 55
+def : 55
+spatk : 90
+spdef : 106
+spd : 51
+dex : By releasing enmity-erasing waves from its ribbonlike feelers, Sylveon stops any conflict.
+jdex : リボンのような しょっかくから てきいを けす はどうを はっして あらそいを やめさせる。

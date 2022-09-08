@@ -1,0 +1,19 @@
+name : Perrserker
+jname : ニャイキング
+tmname : Nyaiking
+type1 : Steel
+setno : 2-4
+tagno : 041
+energy : 82
+grade : 3
+type1 : Steel
+move : Iron Head
+movetype : Steel
+hp : 101
+atk : 88
+def : 81
+spatk : 43
+spdef : 50
+spd : 43
+dex : What appears to be an iron helmet is actually hardened hair. This Pokémon lives for the thrill of battle.
+jdex : あたまの たいもうが こうしつかして てつの ヘルメットのように なった。 とても こうせんてきな せいしつ。

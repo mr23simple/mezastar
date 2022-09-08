@@ -1,0 +1,22 @@
+name : Pikachu
+jname : ピカチュウ
+tmname : Pikachu
+star : Star
+type1 : Electric
+setno : 2-1
+tagno : 016
+energy : 108
+grade : 5
+type1 : Electric
+move : Thunderbolt
+movetype : Electric
+hp : 125
+atk : 79
+def : 59
+spatk : 73
+spdef : 73
+spd : 127
+tag : Zekrom
+tagms : 644
+tagmove : Fusion Bolt
+tagmovetype : Electric

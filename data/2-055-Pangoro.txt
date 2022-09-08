@@ -1,0 +1,21 @@
+name : Pangoro
+jname : ゴロンダ
+tmname : Goronda
+type1 : Fighting
+type2 : Dark
+setno : 2
+tagno : 055
+energy : 88
+grade : 4
+type1 : Fighting
+type2 : Dark
+move : Brick Break
+movetype : Fighting
+hp : 117
+atk : 97
+def : 62
+spatk : 56
+spdef : 57
+spd : 47
+dex : It has enough power to snap telephone poles. Although it has a violent personality, it will not put up with bullying.
+jdex : でんちゅうを へしおる パワーを もち けんかっぱやい せいかくだが よわいものいじめは みのがさない。

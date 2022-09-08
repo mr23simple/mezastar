@@ -1,0 +1,23 @@
+name : Typhlosion
+jname : バクフーン
+tmname : Bakphoon
+star : Star
+type1 : Fire
+setno : 2-1
+tagno : 014
+energy : 126
+grade : 5
+zcrystal : Firium
+type1 : Fire
+move : Flamethrower
+movetype : Fire
+zmove : Inferno Overdrive
+zmovetype : Fire
+hp : 140
+atk : 90
+def : 84
+spatk : 116
+spdef : 91
+spd : 107
+dex : It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.
+jdex : ほのおの ばくふうで こうげき。 しゃくねつの ほのおで かげろうを つくりだし すがたを かくす。

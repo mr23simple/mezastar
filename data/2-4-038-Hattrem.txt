@@ -1,0 +1,19 @@
+name : Hattrem
+jname : テブリム
+tmname : Tebrim
+type1 : Psychic
+setno : 2-4
+tagno : 038
+energy : 70
+grade : 3
+type1 : Psychic
+move : Confusion
+movetype : Psychic
+hp : 91
+atk : 35
+def : 54
+spatk : 70
+spdef : 60
+spd : 42
+dex : Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.
+jdex : あたまのフサで あいてを なぐり だまらせる。 プロボクサーさえ いっぱつ ＫＯの はかいりょく。

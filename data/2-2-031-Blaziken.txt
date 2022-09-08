@@ -1,0 +1,21 @@
+name : Blaziken
+jname : バシャーモ
+tmname : Bursyamo
+type1 : Fire
+type2 : Fighting
+setno : 2-2
+tagno : 031
+energy : 104
+grade : 4
+type1 : Fire
+type2 : Fighting
+move : Fire Punch
+movetype : Fire
+hp : 119
+atk : 105
+def : 63
+spatk : 97
+spdef : 63
+spd : 72
+dex : It envelopes its fists in flames and scorches opponents with its punches. It can clear a 30-story building in a leap.
+jdex : ほのおで こぶしを つつみ パンチで あいてを やきつくす。 ３０かいだての ビルも とびこす ちょうやくりょくを もつ。

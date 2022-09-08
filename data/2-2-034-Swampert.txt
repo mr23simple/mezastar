@@ -1,0 +1,21 @@
+name : Swampert
+jname : ラグラージ
+tmname : Laglarge
+type1 : Water
+type2 : Ground
+setno : 2-2
+tagno : 034
+energy : 104
+grade : 4
+type1 : Water
+type2 : Ground
+move : Bulldoze
+movetype : Ground
+hp : 136
+atk : 97
+def : 80
+spatk : 76
+spdef : 80
+spd : 55
+dex : It can smash large boulders into pieces with one swing of its arm. It has vision that lets it see even in murky water.
+jdex : かとい うでの ひとふりで きょだいな いわを コナゴナに くだく。 にごった みずのなかも みとおす しりょくを もつ。

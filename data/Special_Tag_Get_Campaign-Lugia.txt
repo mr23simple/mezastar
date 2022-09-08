@@ -1,0 +1,23 @@
+name : Lugia
+jname : ルギア
+tmname : Lugia
+symbol : Legendary
+image : Lugia P SpecialTagGetCampaign.png
+bimage : Lugia P SpecialTagGetCampaign b.png
+size : 250px
+type1 : Psychic
+type2 : Flying
+setno : P
+energy : 110
+type1 : Psychic
+type2 : Flying
+move : Aeroblast
+movetype : Flying
+hp : 119
+atk : 68
+def : 96
+spatk : 68
+spdef : 112
+spd : 82
+dex : It lives quietly at the bottom of the sea. It is said to appear when storms start.
+jdex : ふかい うみの そこで しずかに くらす。 あらしになると すがたを あらわすと つたえられている。

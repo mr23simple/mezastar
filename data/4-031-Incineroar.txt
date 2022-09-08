@@ -1,0 +1,21 @@
+name : Incineroar
+jname : ガオガエン
+tmname : Gaogaen
+type1 : Fire
+type2 : Dark
+setno : 4
+tagno : 031
+energy : 98
+grade : 4
+type1 : Fire
+type2 : Dark
+move : Fire Punch
+movetype : Fire
+hp : 123
+atk : 94
+def : 75
+spatk : 67
+spdef : 75
+spd : 51
+dex : It has a violent disposition. It finishes opponents off by spewing fire from around its navel.
+jdex : あらあらしい せいかく。 へその あたりから ふきだす ほのおで あいてに とどめを さす。

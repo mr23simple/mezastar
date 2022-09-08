@@ -1,0 +1,23 @@
+name : Lucario
+jname : ルカリオ
+tmname : Lucario
+star : Star
+type1 : Fighting
+type2 : Steel
+setno : 4
+tagno : 016
+energy : 118
+grade : 5
+mega : Lucario
+type1 : Fighting
+type2 : Steel
+move : Aura Sphere
+movetype : Fighting
+hp : 125
+atk : 110
+def : 72
+spatk : 115
+spdef : 72
+spd : 91
+dex : It can read the aura produced by all things. It can identify others over half a mile away.
+jdex : あらゆる ものが だす はどうを よみとることができる。 １キロ さきの あいてのことも わかる。

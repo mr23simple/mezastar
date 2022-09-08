@@ -1,0 +1,21 @@
+name : Turtonator
+jname : バクガメス
+tmname : Bakugames
+type1 : Fire
+type2 : Dragon
+setno : 1
+tagno : 070
+energy : 84
+grade : 4
+type1 : Fire
+type2 : Dragon
+move : Incinerate
+movetype : Fire
+hp : 89
+atk : 61
+def : 102
+spatk : 70
+spdef : 66
+spd : 30
+dex : The shell on its back explodes when attacked. It gushes fire and poisonous gases from its nostrils.
+jdex : せなかの こうらを こうげきすると ばくはつする。 はなの あなからは ほのおや どくガスを ふきだす。

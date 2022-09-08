@@ -1,0 +1,21 @@
+name : Torterra
+jname : ドダイトス
+tmname : Dodaitose
+type1 : Grass
+type2 : Ground
+setno : 2-3
+tagno : 028
+energy : 106
+grade : 4
+type1 : Grass
+type2 : Ground
+move : Giga Drain
+movetype : Grass
+hp : 134
+atk : 98
+def : 95
+spatk : 69
+spdef : 78
+spd : 53
+dex : Torterra's back is so large that small Pokémon sometimes make their nests there.
+jdex : ドダイトスの せなかは おおきいので ちいさな ポケモンたちが すを つくることも ある。

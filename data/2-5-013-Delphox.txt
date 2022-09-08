@@ -1,0 +1,25 @@
+name : Delphox
+jname : マフォクシー
+tmname : Mahoxy
+star : Star
+type1 : Fire
+type2 : Psychic
+setno : 2-5
+tagno : 013
+energy : 136
+grade : 5
+zcrystal : Firium
+type1 : Fire
+type2 : Psychic
+move : Fire Blast
+movetype : Fire
+zmove : Inferno Overdrive
+zmovetype : Fire
+hp : 147
+atk : 80
+def : 84
+spatk : 130
+spdef : 115
+spd : 119
+dex : It stares into the flame on its stick to focus its mind, allowing it see that which is to come.
+jdex : つえの ほのおを じっと みて きもちを しゅうちゅうすると このさき おこる ことが よちできる。

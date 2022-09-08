@@ -1,0 +1,19 @@
+name : Clefable
+jname : ピクシー
+tmname : Pixy
+type1 : Fairy
+setno : 2-5
+tagno : 045
+energy : 102
+grade : 4
+type1 : Fairy
+move : Dazzling Gleam
+movetype : Fairy
+hp : 140
+atk : 68
+def : 70
+spatk : 90
+spdef : 86
+spd : 59
+dex : Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places.
+jdex : １キロさきに おちた はりの おとも きこえるほど みみが いいので ふだんは しずかな ところに いる。

@@ -1,0 +1,25 @@
+name : Garchomp
+jname : ガブリアス
+tmname : Gaburias
+star : Superstar
+type1 : Dragon
+type2 : Ground
+setno : 2-5
+tagno : 010
+energy : 164
+grade : 6
+zcrystal : Groundium
+type1 : Dragon
+type2 : Ground
+move : Earthquake
+movetype : Ground
+zmove : Tectonic Rage
+zmovetype : Ground
+hp : 202
+atk : 163
+def : 120
+spatk : 102
+spdef : 108
+spd : 129
+dex : When Garchomp runs at high speed, it creates blades of air.
+jdex : ガブリアスが かけぬけると その あまりの はやさに くうきの やいばが つくりだされる。

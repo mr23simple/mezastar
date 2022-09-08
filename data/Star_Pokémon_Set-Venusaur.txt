@@ -1,0 +1,24 @@
+name : Venusaur
+jname : フシギバナ
+tmname : Fushigibana
+star : Star
+image : Venusaur P StarPokémonSet.png
+bimage : Venusaur P StarPokémonSet b.png
+size : 250px
+type1 : Grass
+type2 : Poison
+setno : P
+energy : 92
+mega : Venusaur
+type1 : Grass
+type2 : Poison
+move : Leaf Storm
+movetype : Grass
+hp : 106
+atk : 65
+def : 66
+spatk : 79
+spdef : 79
+spd : 64
+dex : The large plant on its back can convert sunlight into energy.
+jdex : せなかの おおきな はなで たいようの ひかりを エネルギーに かえることが できる。

@@ -1,0 +1,25 @@
+name : Calyrex
+jname : バドレックス
+tmname : Budrex
+star : Star
+symbol : Legendary
+image : Calyrex P SpecialTagGetCampaignIce.png
+bimage : Calyrex P SpecialTagGetCampaignIce b.png
+size : 250px
+type1 : Psychic
+type2 : Ice
+setno : P
+energy : 124
+item : Reins of Unity
+type1 : Psychic
+type2 : Ice
+move : Glacial Lance
+movetype : Ice
+hp : 130
+atk : 137
+def : 125
+spatk : 73
+spdef : 109
+spd : 45
+dex : According to lore, this Pokémon showed no mercy to those who got in its way, yet it would heal its opponents' wounds after battle.
+jdex : みちを はばむものには ようしゃ しないが たたかいの あとは てきの きずでも かまわず いやしたという。

@@ -1,0 +1,21 @@
+name : Onix
+jname : イワーク
+tmname : Iwark
+type1 : Rock
+type2 : Ground
+setno : 1
+tagno : 069
+energy : 60
+grade : 3
+type1 : Rock
+type2 : Ground
+move : Bulldoze
+movetype : Ground
+hp : 61
+atk : 32
+def : 103
+spatk : 21
+spdef : 32
+spd : 47
+dex : It burrows through the ground at a speed of 80 km/h. It has a magnet in its brain, which acts as a compass and prevents it from losing direction while tunneling.
+jdex : じそく80キロで ちちゅうを ほりすすみ。 のうみそに じしゃくが あるので つちの なかでも ほうこうを まちがえない。

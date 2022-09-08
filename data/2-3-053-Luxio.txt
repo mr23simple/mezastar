@@ -1,0 +1,19 @@
+name : Luxio
+jname : ルクシオ
+tmname : Luxio
+type1 : Electric
+setno : 2-3
+tagno : 053
+energy : 68
+grade : 3
+type1 : Electric
+move : Spark
+movetype : Electric
+hp : 91
+atk : 67
+def : 41
+spatk : 49
+spdef : 41
+spd : 49
+dex : The electricity that courses through the tips of its claws can be used to attack opponents or communicate its feelings to others.
+jdex : ツメの さきから ながれる でんきは てきを こうげきする いがいに なかまに きもちを つたえる やくめも ある。

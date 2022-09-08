@@ -1,0 +1,23 @@
+name : Alakazam
+jname : フーディン
+tmname : Foodin
+star : Star
+type1 : Psychic
+setno : 2-5
+tagno : 024
+energy : 128
+grade : 5
+max : Dynamax
+type1 : Psychic
+move : Psychic
+movetype : Psychic
+maxmove : Max Mindstorm
+maxmovetype : Psychic
+hp : 125
+atk : 60
+def : 54
+spatk : 153
+spdef : 109
+spd : 137
+dex : Its superb memory lets it recall everything it has experienced from birth. Its IQ exceeds 5,000.
+jdex : うまれてから たいけんした すべてを おぼえているほどの きおくりょく。 ちのうしすうは ５０００を こえる。

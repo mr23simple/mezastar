@@ -1,0 +1,19 @@
+name : Klinklang
+jname : ギギギアル
+tmname : Gigigiaru
+type1 : Steel
+setno : 2-5
+tagno : 064
+energy : 110
+grade : 4
+type1 : Steel
+move : Gear Grind
+movetype : Steel
+hp : 109
+atk : 95
+def : 108
+spatk : 68
+spdef : 81
+spd : 86
+dex : The three gears that compose this Pokémon spin at high speed. Its new spiked gear isn't a living creature.
+jdex : ３つの ギアを こうそくかいてん。 あらたに ふえた トゲの ついた ギアは いきものでは ないのだ。

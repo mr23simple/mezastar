@@ -1,0 +1,19 @@
+name : Poliwhirl
+jname : ニョロゾ
+tmname : Nyorozo
+type1 : Water
+setno : 2-5
+tagno : 050
+energy : 74
+grade : 3
+type1 : Water
+move : Bubble Beam
+movetype : Water
+hp : 99
+atk : 55
+def : 55
+spatk : 44
+spdef : 44
+spd : 75
+dex : This Pokémon's sweat is a slimy mucus. When captured, Poliwhirl can slither from its enemies' grasp and escape.
+jdex : ぬめぬめとした ねんえきじょうの あせを かく。 てきに つかまっても ぬるりと すりぬけ にげるのだ。

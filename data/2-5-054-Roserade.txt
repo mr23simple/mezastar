@@ -1,0 +1,21 @@
+name : Roserade
+jname : ロズレイド
+tmname : Roserade
+type1 : Grass
+type2 : Poison
+setno : 2-5
+tagno : 054
+energy : 108
+grade : 4
+type1 : Grass
+type2 : Poison
+move : Magical Leaf
+movetype : Grass
+hp : 109
+atk : 68
+def : 63
+spatk : 117
+spdef : 99
+spd : 86
+dex : After captivating opponents with its sweet scent, it lashes them with its thorny whips.
+jdex : かぐわしい はなの かおりで あいてを まどわせ いばらの ムチで はげしく うちつける。

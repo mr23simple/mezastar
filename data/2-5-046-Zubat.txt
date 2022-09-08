@@ -1,0 +1,21 @@
+name : Zubat
+jname : ズバット
+tmname : Zubat
+type1 : Poison
+type2 : Flying
+setno : 2-5
+tagno : 046
+energy : 38
+grade : 2
+type1 : Poison
+type2 : Flying
+move : Poison Fang
+movetype : Poison
+hp : 56
+atk : 28
+def : 23
+spatk : 20
+spdef : 25
+spd : 33
+dex : It emits ultrasonic waves from its mouth to check its surroundings. Even in tight caves, Zubat flies around with skill.
+jdex : くちから だす ちょうおんぱで まわりの ようすを さぐる。 せまい どうくつも きように とびまわる。

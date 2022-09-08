@@ -1,0 +1,21 @@
+name : Impidimp
+jname : ベロバー
+tmname : Beroba
+type1 : Dark
+type2 : Fairy
+setno : 2-2
+tagno : 040
+energy : 40
+grade : 2
+type1 : Dark
+type2 : Fairy
+move : Fake Out
+movetype : Normal
+hp : 59
+atk : 28
+def : 20
+spatk : 33
+spdef : 25
+spd : 31
+dex : It sneaks into people's homes, stealing things and feasting on the negative energy of the frustrated occupants.
+jdex : みんかに しのびこみ ぬすみを はたらき さらに くやしがる ひとの マイナスエネルギーも いただくのだ。

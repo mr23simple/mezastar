@@ -1,0 +1,25 @@
+name : Gyarados
+jname : ギャラドス
+tmname : Gyarados
+star : Star
+type1 : Water
+type2 : Flying
+setno : 2-1
+tagno : 017
+energy : 126
+grade : 5|
+max : Dynamax
+type1 : Water
+type2 : Flying
+move : Waterfall
+movetype : Water
+maxmove : Max Geyser
+maxmovetype : Water
+hp : 157
+atk : 132
+def : 85
+spatk : 66
+spdef : 107
+spd : 87
+dex : A ferocious and dangerous Pokémon. It cannot be stopped once it goes on a rampage.
+jdex : どうもうで きけんな ポケモン。 いちど あばれだしたが さいご もう とめられない。

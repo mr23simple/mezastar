@@ -1,0 +1,21 @@
+name : Emboar
+jname : エンブオー
+tmname : Enbuoh
+type1 : Fire
+type2 : Fighting
+setno : 2-4
+tagno : 031
+energy : 108
+grade : 4
+type1 : Fire
+type2 : Fighting
+move : Fire Punch
+movetype : Fire
+hp : 150
+atk : 113
+def : 62
+spatk : 93
+spdef : 62
+spd : 62
+dex : It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.
+jdex : アゴの ほのおで こぶしを もやして ほのおの パンチを くりだす。 とても なかまおもいの ポケモン。

@@ -1,0 +1,20 @@
+name : Glaceon
+jname : グレイシア
+tmname : Glacia
+star : Star
+image : Glaceon P TagHolderSetDX.png
+bimage : Glaceon P TagHolderSetDX b.png
+type1 : Ice
+setno : P
+energy : 110
+type1 : Ice
+move : Blizzard
+movetype : Ice
+hp : 113
+atk : 59
+def : 104
+spatk : 122
+spdef : 90
+spd : 63
+dex : It can drop its body temperature below –75 degrees Fahrenheit and create fine ice crystals by cooling the atmosphere.
+jdex : たいおんを マイナス６０どまで さげることが できる。 くうきを ひやして こまかい こおりの けっしょうを つくりだす。

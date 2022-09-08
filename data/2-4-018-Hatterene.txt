@@ -1,0 +1,22 @@
+name : Hatterene
+jname : ブリムオン
+tmname : Brimuon
+star : Star
+type1 : Psychic
+type2 : Fairy
+setno : 2-4
+tagno : 018
+energy : 128
+grade : 5
+type1 : Psychic
+type2 : Fairy
+move : Dazzling Gleam
+movetype : Fairy
+hp : 125
+atk : 102
+def : 107
+spatk : 151
+spdef : 116
+spd : 36
+dex : It emits psychic power strong enough to cause headaches as a deterrent to the approach of others.
+jdex : ずつうになるほどの サイコパワーを しゅういに はなって ほかの せいぶつを とおざけているのだ。

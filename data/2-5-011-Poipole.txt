@@ -1,0 +1,21 @@
+name : Poipole
+jname : ベベノム
+tmname : Bevenom
+star : Star
+symbol : UB
+type1 : Poison
+setno : 2-5
+tagno : 011
+energy : 110
+grade : 5
+type1 : Poison
+move : Dragon Pulse
+movetype : Dragon
+hp : 138
+atk : 85
+def : 78
+spatk : 85
+spdef : 78
+spd : 85
+dex : This Ultra Beast is very well liked in its own world. It sprays its opponents with poison from the needles on its head.
+jdex : いせかいに とても したしまれている ウルトラビースト。 あたまの どくばりから どくえきを あいてに かける。

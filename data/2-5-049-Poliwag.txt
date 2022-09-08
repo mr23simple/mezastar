@@ -1,0 +1,19 @@
+name : Poliwag
+jname : ニョロモ
+tmname : Nyoromo
+type1 : Water
+setno : 2-5
+tagno : 049
+energy : 42
+grade : 2
+type1 : Water
+move : Water Gun
+movetype : Water
+hp : 56
+atk : 31
+def : 25
+spatk : 25
+spdef : 25
+spd : 51
+dex : For Poliwag, swimming is easier than walking. The swirl pattern on its belly is actually part of the Pokémon's innards showing through the skin.
+jdex : あるくよりも およぐほうが とくい。 おなかの うずまきもようは すけて みえる ないぞうの いちぶだ。

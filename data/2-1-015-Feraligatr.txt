@@ -1,0 +1,23 @@
+name : Feraligatr
+jname : オーダイル
+tmname : Ordile
+star : Star
+type1 : Water
+setno : 2-1
+tagno : 015
+energy : 124
+grade : 5
+zcrystal : Waterium
+type1 : Water
+move : Hydro Pump
+movetype : Water
+zmove : Hydro Vortex
+zmovetype : Water
+hp : 147
+atk : 112
+def : 107
+spatk : 85
+spdef : 89
+spd : 84
+dex : It uses its powerful hind legs to charge opponents while biting. It goes at blinding speed.
+jdex : あいてに かみつく ときは たくましい うしろあしを つかって とっしん。 めにも とまらない スピードだ。

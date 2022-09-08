@@ -1,0 +1,22 @@
+name : Galarian Weezing
+jname : ガラルマタドガス
+tmname : Galarian Matadogas
+link : Weezing
+type1 : Poison
+type2 : Fairy
+setno : 2-3
+tagno : 045
+energy : 100
+grade : 4
+type1 : Poison
+type2 : Fairy
+move : Sludge
+movetype : Poison
+hp : 108
+atk : 82
+def : 108
+spatk : 78
+spdef : 65
+spd : 56
+dex : This Pokémon consumes particles that contaminate the air. Instead of leaving droppings, it expels clean air.
+jdex : たいきの きたない せいぶんを きゅうしゅうし きれいな くうきを フンの かわりに はきだしている。

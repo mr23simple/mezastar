@@ -1,0 +1,23 @@
+name : Pikachu
+jname : ピカチュウ
+tmname : Pikachu
+image : Pikachu P PokémonDynamaxBand.png
+bimage : Pikachu P PokémonDynamaxBand b.png
+size : 250px
+type1 : Electric
+setno : P
+energy : 90
+zcrystal : Pikashunium
+type1 : Electric
+move : Thunderbolt
+movetype : Electric
+zmove : 10,000,000 Volt Thunderbolt
+zmovetype : Electric
+hp : 106
+atk : 67
+def : 50
+spatk : 62
+spdef : 62
+spd : 107
+dex : It is said that electricity accumulates in the electric sacs on Pikachu's cheeks while it sleeps.
+jdex : ほっぺたの でんきぶくろには ピカチュウが ねている あいだに でんきが たまると いわれている。

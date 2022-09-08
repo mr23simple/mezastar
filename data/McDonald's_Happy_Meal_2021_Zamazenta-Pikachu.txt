@@ -1,0 +1,22 @@
+name : Pikachu
+jname : ピカチュウ
+tmname : Pikachu
+image : Pikachu P McDonaldsHappyMealZamazenta.png
+bimage : Pikachu P McDonaldsHappyMealZamazenta b.png
+size : 250px
+type1 : Electric
+setno : P
+energy : 80
+type1 : Electric
+move : Thunderbolt
+movetype : Electric
+hp : 93
+atk : 58
+def : 44
+spatk : 54
+spdef : 54
+spd : 93
+tag : Zamazenta
+tagms : 889C
+tagmove : Behemoth Bash
+tagmovetype : Steel

@@ -1,0 +1,20 @@
+name : Galarian Farfetch'd
+jname : ガラルカモネギ
+tmname : Galarian Kamonegi
+link : Farfetch'd
+type1 : Fighting
+setno : 2
+tagno : 039
+energy : 50
+grade : 2
+type1 : Fighting
+move : Rock Smash
+movetype : Fighting
+hp : 61
+atk : 52
+def : 32
+spatk : 34
+spdef : 36
+spd : 32
+dex : The Farfetch'd of the Galar region are brave warriors, and they wield thick, tough leeks in battle.
+jdex : ガラルに すむ カモネギの すがた。 ふとく たくましい ネギを ふるい ゆうかんに たたかう せんし。

@@ -1,0 +1,23 @@
+name : Pikachu
+jname : ピカチュウ
+tmname : Pikachu
+star : Star
+type1 : Electric
+setno : 3
+tagno : 011
+energy : 96
+grade : 5
+max : Dynamax
+type1 : Electric
+move : Thunderbolt
+movetype : Electric
+maxmove : Max Lightning
+maxmovetype : Electric
+hp : 113
+atk : 72
+def : 53
+spatk : 66
+spdef : 66
+spd : 114
+dex : It is said that electricity accumulates in the electric sacs on Pikachu's cheeks while it sleeps.
+jdex : ほっぺたの でんきぶくろには ピカチュウが ねている あいだに でんきが たまると いわれている。

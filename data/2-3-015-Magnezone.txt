@@ -1,0 +1,24 @@
+name : Magnezone
+jname : ジバコイル
+tmname : Jibacoil
+star : Star
+type1 : Electric
+type2 : Steel
+setno : 2-3
+tagno : 015
+energy : 130
+grade : 5
+type1 : Electric
+type2 : Steel
+move : Zap Cannon
+movetype : Electric
+hp : 137
+atk : 79
+def : 126
+spatk : 142
+spdef : 100
+spd : 68
+tag : Jolteon
+tagms : 135
+tagmove : Thunderbolt
+tagmovetype : Electric

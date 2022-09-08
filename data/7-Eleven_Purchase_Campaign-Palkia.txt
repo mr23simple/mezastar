@@ -1,0 +1,22 @@
+name : Palkia
+jname : パルキア
+tmname : Palkia
+star : Star
+symbol : Legendary
+image : Palkia P 7-ElevenPurchaseCampaign.png
+bimage : Palkia P 7-ElevenPurchaseCampaign b.png
+size : 250px
+type1 : Water
+type2 : Dragon
+setno : P
+energy : 124
+type1 : Water
+type2 : Dragon
+move : Spacial Rend
+movetype : Dragon
+hp : 122
+atk : 101
+def : 85
+spatk : 125
+spdef : 101
+spd : 85

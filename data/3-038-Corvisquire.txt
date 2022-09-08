@@ -1,0 +1,19 @@
+name : Corvisquire
+jname : アオガラス
+tmname : Aogarasu
+type1 : Flying
+setno : 3
+tagno : 038
+energy : 60
+grade : 3
+type1 : Flying
+move : Pluck
+movetype : Flying
+hp : 85
+atk : 47
+def : 40
+spatk : 32
+spdef : 40
+spd : 54
+dex : Smart enough to use tools in battle, these Pokémon have been seen picking up rocks and flinging them or using ropes to wrap up enemies.
+jdex : あしで こいしを つかんで なげたり ロープを てきに まきつけるなど どうぐを あつかう ちえを もつ。

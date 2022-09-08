@@ -1,0 +1,19 @@
+name : Clefairy
+jname : ピッピ
+tmname : Pippi
+type1 : Fairy
+setno : 2-5
+tagno : 044
+energy : 64
+grade : 3
+type1 : Fairy
+move : Draining Kiss
+movetype : Fairy
+hp : 103
+atk : 40
+def : 42
+spatk : 51
+spdef : 55
+spd : 32
+dex : It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.
+jdex : まんげつのよる ピッピが あつまって ダンスを おどるようすを みると しあわせに なれると いわれている。

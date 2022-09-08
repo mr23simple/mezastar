@@ -1,0 +1,23 @@
+name : Urshifu
+jname : ウーラオス
+tmname : Wulaosu
+star : Star
+symbol : Legendary
+image : Urshifu P SpecialTagSetSingle.png
+bimage : Urshifu P SpecialTagSetSingle b.png
+type1 : Fighting
+type2 : Dark
+setno : P
+energy : 110
+type1 : Fighting
+type2 : Dark
+move : Throat Chop
+movetype : Dark
+hp : 139
+atk : 117
+def : 91
+spatk : 58
+spdef : 56
+spd : 88
+dex : This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.
+jdex : いちげきひっさつが しんじょう。 あいての ふところに とびこみ きたえられた こぶしを たたきこむ。

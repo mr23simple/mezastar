@@ -1,0 +1,22 @@
+name : Togekiss
+jname : トゲキッス
+tmname : Togekiss
+star : Star
+type1 : Fairy
+type2 : Flying
+setno : 2-2
+tagno : 023
+energy : 130
+grade : 5
+type1 : Fairy
+type2 : Flying
+move : Sky Attack
+movetype : Flying
+hp : 150
+atk : 57
+def : 103
+spatk : 129
+spdef : 124
+spd : 88
+dex : It is said that it visits peaceful regions, bringing them gifts of kindness and sweet blessings.
+jdex : あらそいの ない へいわな とちを おとずれて さまざまな めぐみを わけあたえると いう。

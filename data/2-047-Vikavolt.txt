@@ -1,0 +1,21 @@
+name : Vikavolt
+jname : クワガノン
+tmname : Kuwagannon
+type1 : Bug
+type2 : Electric
+setno : 2
+tagno : 047
+energy : 88
+grade : 4
+type1 : Bug
+type2 : Electric
+move : Bug Buzz
+movetype : Bug
+hp : 103
+atk : 56
+def : 71
+spatk : 113
+spdef : 60
+spd : 35
+dex : It concentrates electrical energy within its large jaws and fires it at its enemies.
+jdex : でんきエネルギーを おおきな アゴに あつめて てきに はっしゃして たたかう。

@@ -1,0 +1,19 @@
+name : Vanilluxe
+jname : バイバニラ
+tmname : Baivanilla
+type1 : Ice
+setno : 2-5
+tagno : 061
+energy : 112
+grade : 4
+type1 : Ice
+move : Icicle Crash
+movetype : Ice
+hp : 118
+atk : 90
+def : 81
+spatk : 104
+spdef : 90
+spd : 76
+dex : When its anger reaches a breaking point, this Pokémon unleashes a fierce blizzard that freezes every creature around it, be they friend or foe.
+jdex : いかりが ちょうてんに たっすると ふぶきを ふきだして てきも みかたも こおりづけに する。

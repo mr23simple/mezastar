@@ -1,0 +1,19 @@
+name : Hatenna
+jname : ミブリム
+tmname : Mibrim
+type1 : Psychic
+setno : 2-4
+tagno : 037
+energy : 40
+grade : 2
+type1 : Psychic
+move : Disarming Voice
+movetype : Fairy
+hp : 57
+atk : 20
+def : 28
+spatk : 34
+spdef : 32
+spd : 25
+dex : Via the protrusion on its head, it senses other creatures' emotions. If you don't have a calm disposition, it will never warm up to you.
+jdex : あたまの とっきで せいぶつの きもちを かんじとる。 おだやかな ものにしか こころを ひらかない。

@@ -1,0 +1,19 @@
+name : Porygon2
+jname : ポリゴン２
+tmname : Porygon2
+type1 : Normal
+setno : 2-4
+tagno : 052
+energy : 92
+grade : 3
+type1 : Normal
+move : Swift
+movetype : Normal
+hp : 112
+atk : 65
+def : 73
+spatk : 84
+spdef : 77
+spd : 50
+dex : After artificial intelligence was implemented in Porygon2, the Pokémon began using a strange language that only other Porygon2 understand.
+jdex : ＡＩきのうを とうさいした けっか ポリゴン２ どうしにしか わからない なぞの げんごを はなし はじめた。

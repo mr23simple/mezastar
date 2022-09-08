@@ -1,0 +1,19 @@
+name : Klink
+jname : ギアル
+tmname : Giaru
+type1 : Steel
+setno : 2-5
+tagno : 062
+energy : 42
+grade : 2
+type1 : Steel
+move : Thunder Shock
+movetype : Electric
+hp : 56
+atk : 33
+def : 41
+spatk : 28
+spdef : 36
+spd : 20
+dex : The two minigears that compose this Pokémon are closer than twins. They mesh well only with each other.
+jdex : ２つの からだは ふたごよりも ちかい。 べつの からだどうしだと いまいち うまく かみあわない。

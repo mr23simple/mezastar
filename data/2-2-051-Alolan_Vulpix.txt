@@ -1,0 +1,20 @@
+name : Alolan Vulpix
+jname : アローラロコン
+tmname : Alolan Rokon
+link :  Vulpix
+type1 : Ice
+setno : 2-2
+tagno : 051
+energy : 56
+grade : 3
+type1 : Ice
+move : Icy Wind
+movetype : Ice
+hp : 73
+atk : 34
+def : 33
+spatk : 41
+spdef : 51
+spd : 51
+dex : It exhales air colder than -58 degrees Fahrenheit. As it grows, its tails split to form more tails.
+jdex : くちから マイナス５０どの れいきを はく。 せいちょうすると シッポが わかれて ふえていく。

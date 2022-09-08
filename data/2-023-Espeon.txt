@@ -1,0 +1,20 @@
+name : Espeon
+jname : エーフィ
+tmname : Eifie
+star : Star
+type1 : Psychic
+setno : 2
+tagno : 023
+energy : 112
+grade : 5
+type1 : Psychic
+move : Psychic
+movetype : Psychic
+hp : 115
+atk : 64
+def : 60
+spatk : 124
+spdef : 92
+spd : 106
+dex : Its fur is so sensitive, it can feel the flow of air to predict its enemy's movements.
+jdex : ぜんしんの たいもうで くうきの ながれを よみとり あいての うごきを よそくする。

@@ -1,0 +1,23 @@
+name : Serperior
+jname : ジャローダ
+tmname : Jalorda
+star : Star
+type1 : Grass
+setno : 3
+tagno : 013
+energy : 116
+grade : 5
+zcrystal : Grassium
+type1 : Grass
+move : Leaf Storm
+movetype : Grass
+zmove : Bloom Doom
+zmovetype : Grass
+hp : 127
+atk : 75
+def : 94
+spatk : 75
+spdef : 94
+spd : 111
+dex : It takes in solar energy and boosts it internally. It only gives its all against strong opponents.
+jdex : たいようエネルギーを からだの なかで ぞうふくさせる。 つよい あいてにだけ ほんきを だす。

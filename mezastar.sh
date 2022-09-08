@@ -15,4 +15,4 @@ echo "\"name\",\"jname\",\"tmname\",\"star\",\"symbol\",\"type1\",\"type2\",\"se
 ./master-extract.sh 'https://bulbapedia.bulbagarden.net/w/index.php?title=Super_Tag_set_3_(Mezastar)&action=edit'
 ./master-extract.sh 'https://bulbapedia.bulbagarden.net/w/index.php?title=Super_Tag_set_4_(Mezastar)&action=edit'
 ./master-extract.sh 'https://bulbapedia.bulbagarden.net/w/index.php?title=Super_Tag_set_5_(Mezastar)&action=edit'
-./master-extract.sh 'https://bulbapedia.bulbagarden.net/w/index.php?title=Pikachu_(Start_Dash_Campaign)&action=edit'
+./master-extract.sh 'https://bulbapedia.bulbagarden.net/w/index.php?title=Promotional_tags_(Mezastar)&action=edit'

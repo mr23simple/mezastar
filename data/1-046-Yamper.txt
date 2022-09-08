@@ -1,0 +1,19 @@
+name : Yamper
+jname : ワンパチ
+tmname : Wanpachi
+type1 : Electric
+setno : 1
+tagno : 046
+energy : 38
+grade : 2
+type1 : Electric
+move : Nuzzle
+movetype : Electric
+hp : 62
+atk : 26
+def : 29
+spatk : 24
+spdef : 29
+spd : 16
+dex : This gluttonous Pokémon only assists people with their work because it wants treats. As it runs around, it crackles with electricity.
+jdex : おやつに つられて ひとの しごとを てつだう くいしんぼう。 パチパチと でんきを まとって はしりまわる。

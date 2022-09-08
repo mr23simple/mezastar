@@ -1,0 +1,22 @@
+name : Mamoswine
+jname : マンムー
+tmname : Mammoo
+star : Star
+type1 : Ice
+type2 : Ground
+setno : 4
+tagno : 024
+energy : 118
+grade : 5
+type1 : Ice
+type2 : Ground
+move : Earthquake
+movetype : Ground
+hp : 163
+atk : 129
+def : 81
+spatk : 72
+spdef : 62
+spd : 81
+dex : Its impressive tusks are made of ice. It is said the population thinned when it turned warm after the ice age.
+jdex : りっぱな キバは こおりで できている。 ひょうがきが おわり あたたかく なったので かずが へって しまったと いわれている。

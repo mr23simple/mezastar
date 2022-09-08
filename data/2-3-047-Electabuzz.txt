@@ -1,0 +1,19 @@
+name : Electabuzz
+jname : エレブー
+tmname : Eleboo
+type1 : Electric
+setno : 2-3
+tagno : 047
+energy : 86
+grade : 3
+type1 : Electric
+move : Shock Wave
+movetype : Electric
+hp : 95
+atk : 66
+def : 47
+spatk : 75
+spdef : 67
+spd : 82
+dex : Many power plants keep Ground-type Pokémon around as a defense against Electabuzz that come seeking electricity.
+jdex : でんきを ねらう エレブーの たいさくに じめんポケモンを おく はつでんしょは おおい。

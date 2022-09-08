@@ -1,0 +1,21 @@
+name : Mamoswine
+jname : マンムー
+tmname : Mammoo
+type1 : Ice
+type2 : Ground
+setno : 2-4
+tagno : 050
+energy : 108
+grade : 4
+type1 : Ice
+type2 : Ground
+move : Ice Fang
+movetype : Ice
+hp : 150
+atk : 119
+def : 75
+spatk : 66
+spdef : 57
+spd : 75
+dex : It looks strong, and that's exactly what it is. As the weather grows colder, its ice tusks grow longer, thicker, and more impressive.
+jdex : みためどおりの ちからもち。 こおりのキバは さむくなるほど ふとく ながく りっぱに なる。

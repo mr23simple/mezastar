@@ -1,0 +1,21 @@
+name : Krokorok
+jname : ワルビル
+tmname : Waruvile
+type1 : Ground
+type2 : Dark
+setno : 2-3
+tagno : 066
+energy : 66
+grade : 3
+type1 : Ground
+type2 : Dark
+move : Bulldoze
+movetype : Ground
+hp : 91
+atk : 65
+def : 38
+spatk : 38
+spdef : 38
+spd : 59
+dex : Its eyes are protected by a thin membrane that can sense heat, so it can see its surroundings even in the dead of night. They live in groups of a few individuals.
+jdex : めを まもる うすい まくが ねつを かんじとり まよなかでも まわりが みえる。 すうひきの むれを つくって こうどうする。

@@ -1,0 +1,20 @@
+name : Rillaboom
+jname : ゴリランダー
+tmname : Gorirander
+star : Star
+type1 : Grass
+setno : 1
+tagno : 011
+energy : 108
+grade : 5
+type1 : Grass
+move : Drum Beating
+movetype : Grass
+hp : 142
+atk : 115
+def : 84
+spatk : 57
+spdef : 66
+spd : 79
+dex : By drumming, it taps into the power of its special tree stump. The Rillaboom with the best drumming techniques becomes the boss of the troop.
+jdex : とくべつな きりかぶの パワーを ドラミングで コントロール。 ドラムテクニックに すぐれた ゴリランダーが なかまたちの ボスになる。

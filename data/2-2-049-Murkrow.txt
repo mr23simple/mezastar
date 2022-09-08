@@ -1,0 +1,21 @@
+name : Murkrow
+jname : ヤミカラス
+tmname : Yamikarasu
+type1 : Dark
+type2 : Flying
+setno : 2-2
+tagno : 049
+energy : 72
+grade : 3
+type1 : Dark
+type2 : Flying
+move : Pursuit
+movetype : Dark
+hp : 89
+atk : 66
+def : 35
+spatk : 66
+spdef : 35
+spd : 70
+dex : It is feared as an alleged bearer of ill fortune. It lures unwary pursuers onto dark mountain trails and abandons them.
+jdex : ふこうを はこぶと いわれ おそれられていた。 うかつに あとを おうと くらい やまみちに さそいこみ おいてけぼりに されるぞ。

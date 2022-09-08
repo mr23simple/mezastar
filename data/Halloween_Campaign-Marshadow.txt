@@ -1,0 +1,25 @@
+name : Marshadow
+jname : マーシャドー
+tmname : Marshadow
+symbol : Mythical
+image : Marshadow P HalloweenCampaign.png
+bimage : Marshadow P HalloweenCampaign b.png
+size : 250px
+type1 : Fighting
+type2 : Ghost
+setno : P
+energy : 100
+type1 : Fighting
+type2 : Ghost
+move : Spectral Thief
+movetype : Ghost
+hp : 110
+atk : 95
+def : 62
+spatk : 69
+spdef : 69
+spd : 95
+tag : Mimikyu
+tagms : 778
+tagmove : Shadow Claw
+tagmovetype : Ghost

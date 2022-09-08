@@ -1,0 +1,21 @@
+name : Lampent
+jname : ランプラー
+tmname : Lampler
+type1 : Ghost
+type2 : Fire
+setno : 2-4
+tagno : 062
+energy : 70
+grade : 3
+type1 : Ghost
+type2 : Fire
+move : Fire Spin
+movetype : Fire
+hp : 93
+atk : 35
+def : 50
+spatk : 77
+spdef : 50
+spd : 46
+dex : This Pokémon appears just before someone passes away, so it's feared as an emissary of death.
+jdex : だれかが しぬ ちょくぜんに あらわれる ことから しにがみの つかい として おそれられている。

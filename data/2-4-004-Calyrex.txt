@@ -1,0 +1,27 @@
+name : Calyrex
+jname : バドレックス
+tmname : Budrex
+star : Superstar
+symbol : Legendary
+type1 : Psychic
+type2 : Ghost
+setno : 2-4
+tagno : 004
+energy : 182
+grade : 6
+item : Reins of Unity
+max : Dynamax
+type1 : Psychic
+type2 : Ghost
+move : Astral Barrage
+movetype : Ghost
+maxmove : Max Phantasm
+maxmovetype : Ghost
+hp : 190
+atk : 107
+def : 101
+spatk : 203
+spdef : 125
+spd : 185
+dex : Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike.
+jdex : かこ みらい すべての できごとを みとおす ちからで いんせきから もりの いきものを すくったらしい。

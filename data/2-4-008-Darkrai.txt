@@ -1,0 +1,24 @@
+name : Darkrai
+jname : ダークライ
+tmname : Darkrai
+star : Superstar
+symbol : Mythical
+type1 : Dark
+setno : 2-4
+tagno : 008
+energy : 164
+grade : 6
+zcrystal : Darkinium
+type1 : Dark
+move : Dark Pulse
+movetype : Dark
+zmove : Black Hole Eclipse
+zmovetype : Dark
+hp : 154
+atk : 113
+def : 113
+spatk : 167
+spdef : 113
+spd : 155
+dex : It drives off people and Pokémon from its territory by showing them nightmares.
+jdex : じぶんの なわばりに はいってきた ひとや ポケモンを おいだすため ねむらせて あくむを みせる。

@@ -1,0 +1,21 @@
+name : Metang
+jname : メタング
+tmname : Metang
+type1 : Steel
+type2 : Psychic
+setno : 2-3
+tagno : 050
+energy : 76
+grade : 3
+type1 : Steel
+type2 : Psychic
+move : Metal Claw
+movetype : Steel
+hp : 91
+atk : 60
+def : 79
+spatk : 45
+spdef : 64
+spd : 42
+dex : Using magnetic forces to stay aloft, this Pokémon flies at high speeds, weaving through harsh mountain terrain in pursuit of prey.
+jdex : じりょくで そらを とぶ。 けわしい さんがくを ぬうように こうそうで ひこうして えものを おいつめる。

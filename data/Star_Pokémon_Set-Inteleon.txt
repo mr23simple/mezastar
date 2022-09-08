@@ -1,0 +1,21 @@
+name : Inteleon
+jname : インテレオン
+tmname : Intereon
+star : Star
+image : Inteleon P StarPokémonSet.png
+bimage : Inteleon P StarPokémonSet b.png
+size : 250px
+type1 : Water
+setno : P
+energy : 100
+type1 : Water
+move : Snipe Shot
+movetype : Water
+hp : 106
+atk : 73
+def : 57
+spatk : 105
+spdef : 57
+spd : 101
+dex : It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air.
+jdex : たさいな きのうを かくしもつ。 ゆびから みずを ふんしゃして せなかの ひまくで かぜに のる。

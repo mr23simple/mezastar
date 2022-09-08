@@ -1,0 +1,21 @@
+name : Arceus
+jname : アルセウス
+tmname : Arceus
+star : Superstar
+symbol : Mythical
+type1 : Normal
+setno : 2-4
+tagno : 001
+energy : 192
+grade : 6
+type1 : Normal
+move : Judgment
+movetype : Normal
+hp : 214
+atk : 149
+def : 149
+spatk : 149
+spdef : 149
+spd : 149
+dex : It is told in mythology that this Pokémon emerged from an egg in a place where there was nothing, then created the universe.
+jdex : なにもない ばしょに あった タマゴから あらわれ うちゅうを つくりだしたと しんわに つたえられている。

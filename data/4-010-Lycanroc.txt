@@ -1,0 +1,23 @@
+name : Lycanroc
+jname : ルガルガン
+tmname : Lugarugan
+star : Superstar
+type1 : Rock
+setno : 4
+tagno : 010
+energy : 122
+grade : 6
+zcrystal : Lycanium
+type1 : Rock
+move : Stone Edge
+movetype : Rock
+zmove : Splintered Stormshards
+zmovetype : Rock
+hp : 145
+atk : 131
+def : 75
+spatk : 64
+spdef : 75
+spd : 123
+dex : It undergoes a special kind of evolution in the twilight of the setting sun. It's very rare in the Alola region.
+jdex : たそがれどきに ゆうひを あびて とくべつな しんかを した すがた。 アローラちほうでは とても めずらしい。

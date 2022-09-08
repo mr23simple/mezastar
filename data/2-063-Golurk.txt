@@ -1,0 +1,21 @@
+name : Golurk
+jname : ゴルーグ
+tmname : Goloog
+type1 : Ground
+type2 : Ghost
+setno : 2
+tagno : 063
+energy : 72
+grade : 3
+type1 : Ground
+type2 : Ghost
+move : Shadow Punch
+movetype : Ghost
+hp : 96
+atk : 81
+def : 54
+spatk : 39
+spdef : 54
+spd : 39
+dex : It faithfully follows its orders to protect Pokémon; however, if the seal on its chest is removed, it rampages indiscriminately.
+jdex : めいれいを ちゅうじつだ まもる ポケモンだが むねの ふういんが はがれると みさかいなく あばれまわってしまう。

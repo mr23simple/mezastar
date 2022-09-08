@@ -1,0 +1,21 @@
+name : Charjabug
+jname : デンヂムシ
+tmname : Dendimushi
+type1 : Bug
+type2 : Electric
+setno : 2
+tagno : 046
+energy : 62
+grade : 3
+type1 : Bug
+type2 : Electric
+move : X-Scissor
+movetype : Bug
+hp : 76
+atk : 55
+def : 63
+spatk : 39
+spdef : 51
+spd : 26
+dex : Its body is capable of generating electricity from fallen leaves. It's useful to have one on camping trips.
+jdex : おちばの なかに でんさを ためることが できる。 キャンプの ときなどに やくだつぞ。

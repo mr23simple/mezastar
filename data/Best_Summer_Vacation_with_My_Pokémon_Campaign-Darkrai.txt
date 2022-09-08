@@ -1,0 +1,21 @@
+name : Darkrai
+jname : ダークライ
+tmname : Darkrai
+symbol : Mythical
+image : Darkrai P BestSummerVacationPokémonCampaign.png
+bimage : Darkrai P BestSummerVacationPokémonCampaign b.png
+size : 250px
+type1 : Dark
+setno : P
+energy : 98
+type1 : Dark
+move : Dark Pulse
+movetype : Dark
+hp : 94
+atk : 68
+def : 68
+spatk : 99
+spdef : 68
+spd : 92
+dex : It drives off people and Pokémon from its territory by showing them nightmares.
+jdex : じぶんの なわばりに はいってきた ひとや ポケモンを おいだすため ねむらせて あくむを みせる。

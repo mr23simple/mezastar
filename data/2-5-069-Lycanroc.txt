@@ -1,0 +1,19 @@
+name : Lycanroc
+jname : ルガルガン
+tmname : Lugarugan
+type1 : Rock
+setno : 2-5
+tagno : 069
+energy : 104
+grade : 4
+type1 : Rock
+move : Rock Slide
+movetype : Rock
+hp : 122
+atk : 108
+def : 63
+spatk : 54
+spdef : 63
+spd : 105
+dex : It fights with quick movements. When properly raised from a young age, it will absolutely never betray its Trainer.
+jdex : すばやい うごきで たたかう。 ちいさい ころから しっかり そだてれば けっして トレーナーを うらぎらなくなる。

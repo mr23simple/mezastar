@@ -1,0 +1,24 @@
+name : Yveltal
+jname : イベルタル
+tmname : Yveltal
+star : Star
+symbol : Legendary
+image : Yveltal P SpecialTagGetCampaign.png
+bimage : Yveltal P SpecialTagGetCampaign b.png
+size : 250px
+type1 : Dark
+type2 : Flying
+setno : P
+energy : 144
+type1 : Dark
+type2 : Flying
+move : Dark Pulse
+movetype : Dark
+hp : 175
+atk : 128
+def : 94
+spatk : 128
+spdef : 97
+spd : 98
+dex : It is said that once it sucks the life of other creatures, Yveltal takes the shape of a cocoon.
+jdex : ほかの いきものの いのちを すいつくした イベルタルは マユのような かたちに なると いう。

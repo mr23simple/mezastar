@@ -1,0 +1,26 @@
+name : Lugia
+jname : ルギア
+tmname : Lugia
+star : Superstar
+symbol : Legendary
+type1 : Psychic
+type2 : Flying
+setno : 2-4
+tagno : 009
+energy : 182
+grade : 6
+zcrystal : Flyinium
+type1 : Psychic
+type2 : Flying
+move : Aeroblast
+movetype : Flying
+zmove : Supersonic Skystrike
+zmovetype : Flying
+hp : 197
+atk : 113
+def : 161
+spatk : 113
+spdef : 189
+spd : 137
+dex : It lives quietly at the bottom of the sea. It is said to appear when storms start.
+jdex : ふかい うみの そこで しずかに くらす。 あらしになると すがたを あらわすと つたえられている。

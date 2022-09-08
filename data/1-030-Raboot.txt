@@ -1,0 +1,19 @@
+name : Raboot
+jname : ラビフット
+tmname : Rabbifuto
+type1 : Fire
+setno : 1
+tagno : 030
+energy : 64
+grade : 3
+type1 : Fire
+move : Flame Charge
+movetype : Fire
+hp : 79
+atk : 56
+def : 41
+spatk : 38
+spdef : 41
+spd : 61
+dex : To practice its footwork, it kicks berries right off the branches of trees and then juggles them with its feet.
+jdex : あしわざを みがくため てを つかわずに きの えだから きのみを つみとって リフティングする。

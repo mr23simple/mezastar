@@ -1,0 +1,20 @@
+name : Leafeon
+jname : リーフィア
+tmname : Leafia
+star : Star
+image : Leafeon P TagHolderSetDX.png
+bimage : Leafeon P TagHolderSetDX b.png
+type1 : Grass
+setno : P
+energy : 110
+type1 : Grass
+move : Leaf Blade
+movetype : Grass
+hp : 113
+atk : 104
+def : 122
+spatk : 59
+spdef : 63
+spd : 90
+dex : Its cells are closer to those of plants than of animals. It uses photosynthesis to produce clean air.
+jdex : どうぶつより しょくぶつに ちかい さいぼうを もつ。 こうごうせいを あこなって きれいな くうきを つくりだす。

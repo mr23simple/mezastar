@@ -1,0 +1,19 @@
+name : Silicobra
+jname : スナヘビ
+tmname : Sunahebi
+type1 : Ground
+setno : 4
+tagno : 044
+energy : 44
+grade : 2
+type1 : Ground
+move : Bulldoze
+movetype : Ground
+hp : 61
+atk : 33
+def : 42
+spatk : 22
+spdef : 30
+spd : 28
+dex : It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.
+jdex : はなの あなから すなを ふんしゃ。 てきの めを くらました すきに ちちゅうに もぐって みを かくす。

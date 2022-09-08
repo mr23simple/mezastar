@@ -1,0 +1,21 @@
+name : Kommo-o
+jname : ジャラランガ
+tmname : Jararanga
+type1 : Dragon
+type2 : Fighting
+setno : 2-4
+tagno : 070
+energy : 122
+grade : 4
+type1 : Dragon
+type2 : Fighting
+move : Dragon Claw
+movetype : Dragon
+hp : 120
+atk : 101
+def : 115
+spatk : 93
+spdef : 97
+spd : 79
+dex : It clatters its tail scales to unnerve opponents. This Pokémon will battle only those who stand steadfast in the face of this display.
+jdex : てきに であうと しっぽの ウロコを うちならし いかく。 おじけづかない つわものだけを あいてに たたかう。

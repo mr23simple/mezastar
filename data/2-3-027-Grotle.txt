@@ -1,0 +1,19 @@
+name : Grotle
+jname : ハヤシガメ
+tmname : Hayashigame
+type1 : Grass
+setno : 2-3
+tagno : 027
+energy : 74
+grade : 3
+type1 : Grass
+move : Razor Leaf
+movetype : Grass
+hp : 102
+atk : 70
+def : 67
+spatk : 45
+spdef : 53
+spd : 31
+dex : It lives in the forest. It is said to have its own secret springwater.
+jdex : もりの なかで くらしている。 きれいな みずが わきでる ひみつの ばしょを しっていると いう。

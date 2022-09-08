@@ -1,0 +1,21 @@
+name : Pidgey
+jname : ポッポ
+tmname : Poppo
+type1 : Normal
+type2 : Flying
+setno : 1
+tagno : 051
+energy : 36
+grade : 2
+type1 : Normal
+type2 : Flying
+move : Gust
+movetype : Flying
+hp : 53
+atk : 26
+def : 24
+spatk : 21
+spdef : 21
+spd : 31
+dex : It is very docile and does not like to fight. It can unerringly return home to its nest, however far it may be removed from its familiar surroundings.
+jdex : おとなしい せいかくで たたかいは すきではない。 じぶんの すから どれだけ はなれても まよわずに かえることが できる。

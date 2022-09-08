@@ -1,0 +1,19 @@
+name : Croconaw
+jname : アリゲイツ
+tmname : Alligates
+type1 : Water
+setno : 2-1
+tagno : 042
+energy : 70
+grade : 3
+type1 : Water
+move : Water Pulse
+movetype : Water
+hp : 90
+atk : 61
+def : 61
+spatk : 46
+spdef : 49
+spd : 45
+dex : The tips of its fangs are slanted backward, so there is no escape once it bites. If it loses a fang, a new one quickly grows back in its place.
+jdex : いちど かみついたら はなれないように キバの さきが そりかえっている。 キバは ぬけても どんどん はえてくるぞ。

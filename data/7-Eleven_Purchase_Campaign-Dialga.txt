@@ -1,0 +1,22 @@
+name : Dialga
+jname : ディアルガ
+tmname : Dialga
+star : Star
+symbol : Legendary
+image : Dialga P 7-ElevenPurchaseCampaign.png
+bimage : Dialga P 7-ElevenPurchaseCampaign b.png
+size : 250px
+type1 : Steel
+type2 : Dragon
+setno : P
+energy : 124
+type1 : Steel
+type2 : Dragon
+move : Roar of Time
+movetype : Dragon
+hp : 130
+atk : 101
+def : 101
+spatk : 125
+spdef : 85
+spd : 77

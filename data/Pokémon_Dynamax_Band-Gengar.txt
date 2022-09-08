@@ -1,0 +1,25 @@
+name : Gengar
+jname : ゲンガー
+tmname : Gangar
+image : Gengar P PokémonDynamaxBand.png
+bimage : Gengar P PokémonDynamaxBand b.png
+size : 250px
+type1 : Ghost
+type2 : Poison
+setno : P
+energy : 106
+max : Gigantamax
+type1 : Ghost
+type2 : Poison
+move : Shadow Ball
+movetype : Ghost
+gmaxmove : G-Max Terror
+gmaxmovetype : Ghost
+hp : 109
+atk : 63
+def : 59
+spatk : 122
+spdef : 72
+spd : 104
+dex : It steals heat from its surroundings. If the temperature suddenly drops, it is surely the work of a Gengar.
+jdex : まわりの ねつを うばう。 とつぜん おんどが さがったら ゲンガーの しわざに ちがいない。

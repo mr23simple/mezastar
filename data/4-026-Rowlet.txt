@@ -1,0 +1,21 @@
+name : Rowlet
+jname : モクロー
+tmname : Mokuroh
+type1 : Grass
+type2 : Flying
+setno : 4
+tagno : 026
+energy : 44
+grade : 2
+type1 : Grass
+type2 : Flying
+move : Leafage
+movetype : Grass
+hp : 69
+atk : 32
+def : 32
+spatk : 30
+spdef : 30
+spd : 26
+dex : Wary and resilient. It uses photosynthesis to build up energy and remains still until it gets dark.
+jdex : けいかいしんが つよい。 くらく なるまでは こうごうせいで じっと ちからを ためている。

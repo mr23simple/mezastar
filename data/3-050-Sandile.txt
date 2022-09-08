@@ -1,0 +1,21 @@
+name : Sandile
+jname : メグロコ
+tmname : Meguroco
+type1 : Ground
+type2 : Dark
+setno : 3
+tagno : 050
+energy : 40
+grade : 2
+type1 : Ground
+type2 : Dark
+move : Sand Tomb
+movetype : Ground
+hp : 60
+atk : 41
+def : 22
+spatk : 22
+spdef : 22
+spd : 37
+dex : It dives into desert sands to prevent its body temperature from dropping. It moves around exposing only its nose and eyes to keep its enemies from finding it.
+jdex : さばくの すなに もぐり たいおんが さがるのを ふせぐ。 めと はなだけを そとに だして てきに みつからないよう うごきまわる。

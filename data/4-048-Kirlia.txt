@@ -1,0 +1,21 @@
+name : Kirlia
+jname : キルリア
+tmname : Kirlia
+type1 : Psychic
+type2 : Fairy
+setno : 4
+tagno : 048
+energy : 50
+grade : 3
+type1 : Psychic
+type2 : Fairy
+move : Draining Kiss
+movetype : Fairy
+hp : 68
+atk : 27
+def : 27
+spatk : 47
+spdef : 41
+spd : 38
+dex : It uses the horns on its head to amplify its psychokinetic power. It can distort space and see into the future.
+jdex : あたまの ツノで サイコパワーを ぞうふく。 くうかんが ねじまげて みらいの できごとを みとおす。

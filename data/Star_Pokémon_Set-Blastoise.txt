@@ -1,0 +1,24 @@
+name : Blastoise
+jname : カメックス
+tmname : Kamex
+star : Star
+image : Blastoise P StarPokémonSet.png
+bimage : Blastoise P StarPokémonSet b.png
+size : 250px
+type1 : Water
+setno : P
+energy : 92
+zcrystal : Waterium
+type1 : Water
+move : Hydro Pump
+movetype : Water
+zmove : Hydro Vortex
+zmovetype : Water
+hp : 105
+atk : 66
+def : 79
+spatk : 67
+spdef : 82
+spd : 62
+dex : The water fired from the rocket cannons on its shell can penetrate thick steel.
+jdex : こうらの ロケットほうから ぶあつい てっぱんも つらぬく すいりゅうを ふきだす。

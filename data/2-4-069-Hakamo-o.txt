@@ -1,0 +1,21 @@
+name : Hakamo-o
+jname : ジャランゴ
+tmname : Jarango
+type1 : Dragon
+type2 : Fighting
+setno : 2-4
+tagno : 069
+energy : 78
+grade : 3
+type1 : Dragon
+type2 : Fighting
+move : Dragon Tail
+movetype : Dragon
+hp : 89
+atk : 62
+def : 73
+spatk : 54
+spdef : 58
+spd : 54
+dex : Before attacking its enemies, it clashes its scales together and roars. Its sharp claws shred the opposition.
+jdex : ウロコを うちならし おたけびを あげてから あいてに いどみかかり するどい ツメで ずたずたに する。

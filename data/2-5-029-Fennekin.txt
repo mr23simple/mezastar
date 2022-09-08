@@ -1,0 +1,19 @@
+name : Fennekin
+jname : フォッコ
+tmname : Fokko
+type1 : Fire
+setno : 2-5
+tagno : 029
+energy : 44
+grade : 2
+type1 : Fire
+move : Ember
+movetype : Fire
+hp : 56
+atk : 28
+def : 25
+spatk : 37
+spdef : 36
+spd : 36
+dex : It carries a twig as its favourite food. Munching the twig fills it with energy, and it vents hot air from its ears.
+jdex : こうぶつの こえだを もちあるく。 ポリポリ たべると げんきに なって みみから ねっきを ふきだすよ。

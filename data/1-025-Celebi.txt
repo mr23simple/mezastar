@@ -1,0 +1,23 @@
+name : Celebi
+jname : セレビィ
+tmname : Celebi
+star : Star
+symbol : Mythical
+type1 : Psychic
+type2 : Grass
+setno : 1
+tagno : 025
+energy : 122
+grade : 5
+type1 : Psychic
+type2 : Grass
+move : Leaf Storm
+movetype : Grass
+hp : 142
+atk : 93
+def : 93
+spatk : 93
+spdef : 93
+spd : 93
+dex : It has the power to travel across time and has appeared in various eras. It is revered as a guardian of the forest.
+jdex : じかんを こえる ちからを つかって さまざまな じだいに すがたを あらわす。 もりの かみさまとして まつられている。

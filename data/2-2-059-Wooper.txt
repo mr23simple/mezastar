@@ -1,0 +1,21 @@
+name : Wooper
+jname : ウパー
+tmname : Upah
+type1 : Water
+type2 : Ground
+setno : 2-2
+tagno : 059
+energy : 34
+grade : 2
+type1 : Water
+type2 : Ground
+move : Water Gun
+movetype : Water
+hp : 64
+atk : 28
+def : 28
+spatk : 18
+spdef : 18
+spd : 12
+dex : It lives in cold water. When it emerges onto land, it covers its body with a poisonous film.
+jdex : つめたい みずの なかで くらす。 ちじょうに でてくる ときは どくの ねんまくで からだを おおう。

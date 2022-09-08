@@ -1,0 +1,19 @@
+name : Tepig
+jname : ポカブ
+tmname : Pokabu
+type1 : Fire
+setno : 3
+tagno : 029
+energy : 42
+grade : 2
+type1 : Fire
+move : Ember
+movetype : Fire
+hp : 67
+atk : 36
+def : 27
+spatk : 27
+spdef : 27
+spd : 27
+dex : It loves to eat berries roasted from the fire it blows through its nose. It shoots fireballs when in battle.
+jdex : はなの あなから だした ほのおで きのみを やいて たべるのが だいすき。 たたかう ときは ひのたまを うちだす。

@@ -1,0 +1,19 @@
+name : Totodile
+jname : ワニノコ
+tmname : Waninoko
+type1 : Water
+setno : 2-1
+tagno : 041
+energy : 44
+grade : 2
+type1 : Water
+move : Water Gun
+movetype : Water
+hp : 62
+atk : 38
+def : 38
+spatk : 27
+spdef : 29
+spd : 27
+dex : It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.
+jdex : はったつした あごを もち なんにでも かみつく しゅうせい。 トレーナーも ちゅういが ひつよう。

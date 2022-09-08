@@ -1,0 +1,23 @@
+name : Lunala
+jname : ルナアーラ
+tmname : Lunala
+symbol : Legendary
+image : Lunala P PokémonFan.png
+bimage : Lunala P PokémonFan b.png
+size : 250px
+type1 : Psychic
+type2 : Ghost
+setno : P
+energy : 114
+type1 : Psychic
+type2 : Ghost
+move : Moongeist Beam
+movetype : Ghost
+hp : 148
+atk : 88
+def : 70
+spatk : 106
+spdef : 84
+spd : 76
+dex : It is said that when its third eye appears on its forehead, it will fly to another world.
+jdex : だい３の めが ひたいに うかびあがると べつせかいへ とびさって いくと いわれる。

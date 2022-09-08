@@ -1,0 +1,24 @@
+name : Rayquaza
+jname : レックウザ
+tmname : Rayquaza
+star : Superstar
+symbol : Legendary
+type1 : Dragon
+type2 : Flying
+setno : 2-5
+tagno : 001
+energy : 184
+grade : 6
+mega : Rayquaza
+type1 : Dragon
+type2 : Flying
+move : Dragon Ascent
+movetype : Flying
+hp : 199
+atk : 188
+def : 114
+spatk : 188
+spdef : 114
+spd : 120
+dex : It lives in the stratosphere. No one could confirm its appearance from the ground.
+jdex : せいそうけんの なかに すんでいる。 ちじょうから その すがたを かくにんできる ものは いない。

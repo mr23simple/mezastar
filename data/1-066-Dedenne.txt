@@ -1,0 +1,21 @@
+name : Dedenne
+jname : デデンネ
+tmname : Dedenne
+type1 : Electric
+type2 : Fairy
+setno : 1
+tagno : 066
+energy : 52
+grade : 2
+type1 : Electric
+type2 : Fairy
+move : Thunder Shock
+movetype : Electric
+hp : 66
+atk : 32
+def : 32
+spatk : 44
+spdef : 38
+spd : 55
+dex : It uses its tail to absorb electricity from things such as house outlets, and releases it from its whiskers.
+jdex : しっぽで いえの コンセントなどから でんきを きゅうしゅうして ヒゲから ほうしゅつする。

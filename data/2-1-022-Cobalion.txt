@@ -1,0 +1,23 @@
+name : Cobalion
+jname : コバルオン
+tmname : Cobalon
+star : Star
+symbol : Legendary
+type1 : Steel
+type2 : Fighting
+setno : 2-1
+tagno : 022
+energy : 134
+grade : 5
+type1 : Steel
+type2 : Fighting
+move : Iron Head
+movetype : Steel
+hp : 153
+atk : 96
+def : 136
+spatk : 96
+spdef : 78
+spd : 115
+dex : It is told in legend that it battled against humans to protect Pokémon. It has a body and heart of steel.
+jdex : ポケモンを まもるため にんげんと たたかった でんせつに かたられている。 はがねの こころと からだを もつ。

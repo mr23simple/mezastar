@@ -1,0 +1,23 @@
+name : Rayquaza
+jname : レックウザ
+tmname : Rayquaza
+symbol : Legendary
+image : Rayquaza P PokémonFan.png
+bimage : Rayquaza P PokémonFan b.png
+size : 250px
+type1 : Dragon
+type2 : Flying
+setno : P
+energy : 110
+type1 : Dragon
+type2 : Flying
+move : Draco Meteor
+movetype : Dragon
+hp : 118
+atk : 110
+def : 68
+spatk : 110
+spdef : 68
+spd : 71
+dex : It lives in the stratosphere. No one could confirm its appearance from the ground.
+jdex : せいそうけんの なかに すんでいる。 ちじょうから その すがたを かくにんできる ものは いない。

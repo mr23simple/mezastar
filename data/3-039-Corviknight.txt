@@ -1,0 +1,21 @@
+name : Corviknight
+jname : アーマーガア
+tmname : Armorga
+type1 : Flying
+type2 : Steel
+setno : 3
+tagno : 039
+energy : 90
+grade : 4
+type1 : Flying
+type2 : Steel
+move : Drill Peck
+movetype : Flying
+hp : 122
+atk : 71
+def : 84
+spatk : 45
+spdef : 69
+spd : 55
+dex : With their great intellect and flying skills, these Pokémon very successfully act as the Galar region's airborne taxi service.
+jdex : ひこう のうりょくに すぐれていて とても かしこいため ガラルちほうで そらの タクシーとして かつやく。

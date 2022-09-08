@@ -1,0 +1,21 @@
+name : Lucario
+jname : ルカリオ
+tmname : Lucario
+type1 : Fighting
+type2 : Steel
+setno : 4
+tagno : 062
+energy : 82
+grade : 4
+type1 : Fighting
+type2 : Steel
+move : Flash Cannon
+movetype : Steel
+hp : 89
+atk : 77
+def : 51
+spatk : 80
+spdef : 51
+spd : 64
+dex : It can read the aura produced by all things. It can identify others over half a mile away.
+jdex : あらゆる ものが だす はどうを よみとることができる。 １キロ さきの あいてのことも わかる。

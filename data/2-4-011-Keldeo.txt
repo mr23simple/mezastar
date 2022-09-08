@@ -1,0 +1,26 @@
+name : Keldeo
+jname : ケルディオ
+tmname : Keldeo
+star : Star
+symbol : Mythical
+type1 : Water
+type2 : Fighting
+setno : 2-4
+tagno : 011
+energy : 142
+grade : 5
+zcrystal : Fightinium
+type1 : Water
+type2 : Fighting
+move : Sacred Sword
+movetype : Fighting
+zmove : All-Out Pummeling
+zmovetype : Fighting
+hp : 162
+atk : 82
+def : 102
+spatk : 144
+spdef : 102
+spd : 121
+dex : It can run on the surface of water by blowing water from its hooves. It excels at using leg moves while battling.
+jdex : ひづめから みずを ふきだして すいめんを はしることが できる。 あしわざで たたかうのが とくい。

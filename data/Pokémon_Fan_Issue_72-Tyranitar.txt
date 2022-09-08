@@ -1,0 +1,24 @@
+name : Tyranitar
+jname : バンギラス
+tmname : Bangiras
+image : Tyranitar P PokémonFan.png
+bimage : Tyranitar P PokémonFan b.png
+type1 : Rock
+type2 : Dark
+setno : P
+energy : 90
+max : Dynamax
+type1 : Rock
+type2 : Dark
+move : Stone Edge
+movetype : Rock
+maxmove : Max Rockfall
+maxmovetype : Rock
+hp : 106
+atk : 90
+def : 75
+spatk : 65
+spdef : 69
+spd : 44
+dex : Its tremendous power can knock down mountains and bury rivers, changing the surrounding terrain.
+jdex : やまを くずし かわを うずめ あたりの ちけいを かえてしまう ほどの ものすごい パワーを ひめている。

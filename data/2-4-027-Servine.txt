@@ -1,0 +1,19 @@
+name : Servine
+jname : ジャノビー
+tmname : Janovy
+type1 : Grass
+setno : 2-4
+tagno : 027
+energy : 78
+grade : 3
+type1 : Grass
+move : Mega Drain
+movetype : Grass
+hp : 93
+atk : 50
+def : 62
+spatk : 50
+spdef : 62
+spd : 68
+dex : When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean.
+jdex : からだが よごれると はっぱで こうごうせいが できなくなるので いつも せいけつに している。

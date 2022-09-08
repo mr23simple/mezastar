@@ -1,0 +1,21 @@
+name : Pelipper
+jname : ペリッパー
+tmname : Pelipper
+type1 : Water
+type2 : Flying
+setno : 3
+tagno : 057
+energy : 70
+grade : 3
+type1 : Water
+type2 : Flying
+move : Air Slash
+movetype : Flying
+hp : 80
+atk : 37
+def : 69
+spatk : 65
+spdef : 49
+spd : 46
+dex : It can carry small Pokémon and Eggs inside its large bill. If it gets tired, it rests on the sea.
+jdex : おおきな くちばしに ちいさな ポケモンや タマゴを いれて はこぶ 。 つかれたら うみに うかんで ひとやすみ。

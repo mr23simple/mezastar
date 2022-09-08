@@ -1,0 +1,25 @@
+name : Lucario
+jname : ルカリオ
+tmname : Lucario
+image : Lucario P Televi-Kun.png
+bimage : Lucario P Televi-Kun b.png
+size : 250px
+type1 : Fighting
+type2 : Steel
+setno : P
+energy : 94
+zcrystal : Fightinium
+type1 : Fighting
+type2 : Steel
+move : Focus Blast
+movetype : Fighting
+zmove : All-Out Pummeling
+zmovetype : Fighting
+hp : 101
+atk : 88
+def : 58
+spatk : 92
+spdef : 58
+spd : 73
+dex : It can read the aura produced by all things. It can identify others over half a mile away.
+jdex : あらゆる ものが だす はどうを よみとることができる。 １キロ さきの あいてのことも わかる。

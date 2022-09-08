@@ -1,0 +1,25 @@
+name : Chandelure
+jname : シャンデラ
+tmname : Chandela
+star : Star
+type1 : Ghost
+type2 : Fire
+setno : 2-4
+tagno : 020
+energy : 130
+grade : 5
+zcrystal : Ghostium
+type1 : Ghost
+type2 : Fire
+move : Shadow Ball
+movetype : Ghost
+zmove : Never-Ending Nightmare
+zmovetype : Ghost
+hp : 128
+atk : 64
+def : 102
+spatk : 161
+spdef : 102
+spd : 91
+dex : This Pokémon haunts dilapidated mansions. It sways its arms to hypnotize opponents with the ominous dancing of its flames.
+jdex : ふるびた ようかんに すみつく。 うでの ほのおを あやしく ゆらし あいてを さいみんに かけるぞ。

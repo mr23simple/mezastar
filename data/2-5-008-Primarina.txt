@@ -1,0 +1,24 @@
+name : Primarina
+jname : アシレーヌ
+tmname : Ashirene
+star : Superstar
+type1 : Water
+type2 : Fairy
+setno : 2-5
+tagno : 008
+energy : 148
+grade : 6
+type1 : Water
+type2 : Fairy
+move : Sparkling Aria
+movetype : Water
+hp : 168
+atk : 95
+def : 95
+spatk : 158
+spdef : 146
+spd : 78
+tag : Lycanroc
+tagms : 745D
+tagmove : Stone Edge
+tagmovetype : Rock

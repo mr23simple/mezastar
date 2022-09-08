@@ -1,0 +1,22 @@
+name : Alolan Diglett
+jname : アローラディグダ
+jtrans : Alolan Digda
+link : Diglett
+type1 : Ground
+type2 : Steel
+setno : 4
+tagno : 065
+energy : 38
+grade : 2
+type1 : Ground
+type2 : Steel
+move : Metal Claw
+movetype : Steel
+hp : 40
+atk : 32
+def : 19
+spatk : 22
+spdef : 27
+spd : 50
+dex : It uses its golden hairs to monitor its surroundings and relay communication amongst comrades.
+jdex : きんいろの ヒゲで まわりの ようすを キャッチしたり なかまどうしで こうしんすろぞ。

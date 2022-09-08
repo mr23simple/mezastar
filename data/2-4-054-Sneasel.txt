@@ -1,0 +1,21 @@
+name : Sneasel
+jname : ニューラ
+tmname : Nyula
+type1 : Dark
+type2 : Ice
+setno : 2-4
+tagno : 054
+energy : 80
+grade : 3
+type1 : Dark
+type2 : Ice
+move : Payback
+movetype : Dark
+hp : 89
+atk : 77
+def : 46
+spatk : 31
+spdef : 62
+spd : 92
+dex : It has a cunning yet savage disposition. It makes its opponents flinch by suddenly showing the sharp claws hidden in its paws.
+jdex : どうもうで ずるがしこい せいかく。 ゆびに かくした するどい ツメを いきなり のばして あいてを ひるませる。

@@ -1,0 +1,19 @@
+name : Klang
+jname : ギギアル
+tmname : Gigiaru
+type1 : Steel
+setno : 2-5
+tagno : 063
+energy : 84
+grade : 3
+type1 : Steel
+move : Vise Grip
+movetype : Normal
+hp : 95
+atk : 67
+def : 79
+spatk : 59
+spdef : 71
+spd : 44
+dex : When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokémon's rotation speed increases sharply.
+jdex : ほんきの ときは でかギアの そとの はぐるまと ちびギアが がっち。 かいてんそくどが ひやく するのだ。

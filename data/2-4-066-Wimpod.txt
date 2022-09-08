@@ -1,0 +1,21 @@
+name : Wimpod
+jname : コソクムシ
+tmname : Kosokumushi
+type1 : Bug
+type2 : Water
+setno : 2-4
+tagno : 066
+energy : 36
+grade : 2
+type1 : Bug
+type2 : Water
+move : Struggle Bug
+movetype : Bug
+hp : 49
+atk : 23
+def : 25
+spatk : 15
+spdef : 20
+spd : 46
+dex : A very cowardly Pokémon. It will whir its legs at high speeds to run away if anything comes near it.
+jdex : とても おくびょうな ポケモン。 なにかが ちかづくと たくさんの あしを すごい はやさで うごかして にげまわる。

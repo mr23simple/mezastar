@@ -1,0 +1,25 @@
+name : Corviknight
+jname : アーマーガア
+tmname : Armorga
+star : Star
+type1 : Flying
+type2 : Steel
+setno : 2-5
+tagno : 025
+energy : 126
+grade : 5
+max : Dynamax
+type1 : Flying
+type2 : Steel
+move : Brave Bird
+movetype : Flying
+maxmove : Max Airstream
+maxmovetype : Flying
+hp : 172
+atk : 100
+def : 120
+spatk : 63
+spdef : 98
+spd : 78
+dex : With their great intellect and flying skills, these Pokémon very successfully act as the Galar region's airborne taxi service.
+jdex : ひこう のうりょくに すぐれていて とても かしこいため ガラルちほうで そらの タクシーとして かつやく。

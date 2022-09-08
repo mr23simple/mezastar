@@ -1,0 +1,19 @@
+name : Alcremie
+jname : マホイップ
+tmname : Mawhip
+type1 : Fairy
+setno : 2-3
+tagno : 036
+energy : 100
+grade : 4
+type1 : Fairy
+move : Draining Kiss
+movetype : Fairy
+hp : 108
+atk : 56
+def : 69
+spatk : 99
+spdef : 109
+spd : 60
+dex : When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.
+jdex : てから うみだす クリームは マホイップが しあわせなとき あまみと コクが ふかまる。

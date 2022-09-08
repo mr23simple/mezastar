@@ -1,0 +1,23 @@
+name : Meganium
+jname : メガニウム
+tmname : Meganium
+star : Star
+type1 : Grass
+setno : 2-1
+tagno : 013
+energy : 124
+grade : 5
+zcrystal : Grassium
+type1 : Grass
+move : Solar Beam
+movetype : Grass
+zmove : Bloom Doom
+zmovetype : Grass
+hp : 142
+atk : 88
+def : 107
+spatk : 89
+spdef : 107
+spd : 86
+dex : In battle, its petals give off a soothting scent that blunt an opponent's fighting spirit.
+jdex : きもちを しずめる かおりを はなびらから はっさんして てきの たたかう きもちを にぶらせる。

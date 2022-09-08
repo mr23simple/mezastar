@@ -1,0 +1,25 @@
+name : Kommo-o
+jname : ジャラランガ
+tmname : Jararanga
+star : Superstar
+type1 : Dragon
+type2 : Fighting
+setno : 2-2
+tagno : 006
+energy : 158
+grade : 6
+max : Dynamax
+type1 : Dragon
+type2 : Fighting
+move : Focus Blast
+movetype : Fighting
+maxmove : Max Knuckle
+maxmovetype : Fighting
+hp : 155
+atk : 132
+def : 150
+spatk : 121
+spdef : 126
+spd : 103
+dex : Kommo-o jingles the scales on its tail to threaten enemies. These scales also function as offense and defense.
+jdex : しっぽの ウロコを ジャラジャラ ならして てきを おどかす。 こうげきや ぼうぎょにも やくだつぞ。

@@ -1,0 +1,21 @@
+name : Pinsir
+jname : カイロス
+tmname : Kailios
+star : Star
+type1 : Bug
+setno : 2-4
+tagno : 024
+energy : 126
+grade : 5
+mega : Pinsir
+type1 : Bug
+move : Superpower
+movetype : Fighting
+hp : 134
+atk : 140
+def : 113
+spatk : 64
+spdef : 80
+spd : 96
+dex : This Pokémon clamps its pincers down on its prey and then either splits the prey in half or flings it away.
+jdex : ツノで えものを はさみこみ そのまま まっぷたつに するか ごういんに なげとばしてしまう。

@@ -1,0 +1,20 @@
+name : Vaporeon
+jname : シャワーズ
+tmname : Showers
+star : Star
+type1 : Water
+setno : 1
+tagno : 022
+energy : 108
+grade : 5
+type1 : Water
+move : Hydro Pump
+movetype : Water
+hp : 168
+atk : 62
+def : 57
+spatk : 101
+spdef : 88
+spd : 62
+dex : With cells similar to water molecules, it can invisibly melt away into water.
+jdex : からだの さいぼうが みずの ぶんしに にているため みずに とけると まぎれてしまう。

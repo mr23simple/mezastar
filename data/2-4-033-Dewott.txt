@@ -1,0 +1,19 @@
+name : Dewott
+jname : フタチマル
+tmname : Futachimaru
+type1 : Water
+setno : 2-4
+tagno : 033
+energy : 78
+grade : 3
+type1 : Water
+move : Water Pulse
+movetype : Water
+hp : 105
+atk : 62
+def : 50
+spatk : 68
+spdef : 50
+spd : 50
+dex : As a result of strict training, it learns techniques using its two scalchops. These techniques differ from one Dewott to another.
+jdex : きびしい しゅぎょうの すえ ２まいの ホタチを つかった わざを みにつける。 わざの しゅるいは フタチマルごとに ことなる。

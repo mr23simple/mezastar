@@ -1,0 +1,21 @@
+name : Rhydon
+jname : サイドン
+tmname : Sidon
+type1 : Ground
+type2 : Rock
+setno : 4
+tagno : 057
+energy : 78
+grade : 3
+type1 : Ground
+type2 : Rock
+move : Rock Tomb
+movetype : Rock
+hp : 112
+atk : 90
+def : 84
+spatk : 32
+spdef : 32
+spd : 29
+dex : Its horn, which serves as a drill, can shatter uncut diamonds. Its thick hide protects it even in magma.
+jdex : ドリルになる ツノで ダイヤの げんせきも コナゴナに できる。 ぶあつい ひふは マグマの なかでも へいき。

@@ -1,0 +1,24 @@
+name : Giratina
+jname : ギラティナ
+tmname : Giratina
+star : Superstar
+symbol : Legendary
+type1 : Ghost
+type2 : Dragon
+setno : 2-4
+tagno : 002
+energy : 182
+grade : 6
+item : Griseous Orb
+type1 : Ghost
+type2 : Dragon
+move : Shadow Force
+movetype : Ghost
+hp : 250
+atk : 149
+def : 125
+spatk : 149
+spdef : 125
+spd : 113
+dex : It seems to silently gaze upon this world from another world where common knowledge does not apply.
+jdex : じょうしきの つうようしない べつの せかいから しずかに このよを みているらしい。

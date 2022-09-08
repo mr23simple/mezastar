@@ -1,0 +1,21 @@
+name : Cramorant
+jname : ウッウ
+tmname : Uu
+type1 : Flying
+type2 : Water
+setno : 1
+tagno : 050
+energy : 70
+grade : 3
+type1 : Flying
+type2 : Water
+move : Scald
+movetype : Water
+hp : 82
+atk : 56
+def : 38
+spatk : 56
+spdef : 62
+spd : 56
+dex : This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.
+jdex : くいしんぼうで エサの サシカマスを まるのみするが たまに まちがえて ほかの ポケモンに くらいつく。

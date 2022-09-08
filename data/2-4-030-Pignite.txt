@@ -1,0 +1,21 @@
+name : Pignite
+jname : チャオブー
+tmname : Chaoboo
+type1 : Fire
+type2 : Fighting
+setno : 2-4
+tagno : 030
+energy : 78
+grade : 3
+type1 : Fire
+type2 : Fighting
+move : Flame Charge
+movetype : Fire
+hp : 116
+atk : 75
+def : 46
+spatk : 58
+spdef : 46
+spd : 46
+dex : Whatever it eats becomes fuel for the flame in its stomach. When the flame becomes stronger, it overflows with power.
+jdex : たべたものを ねんりょうに して いぶくろで ほのおを もやす。 ほのおが つよまると パワーが あふれる。

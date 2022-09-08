@@ -1,0 +1,23 @@
+name : Lucario
+jname : ルカリオ
+tmname : Lucario
+image : Lucario P PokémonDynamaxBand.png
+bimage : Lucario P PokémonDynamaxBand b.png
+size : 250px
+type1 : Fighting
+type2 : Steel
+setno : P
+energy : 110
+mega : Lucario
+type1 : Fighting
+type2 : Steel
+move : Aura Sphere
+movetype : Fighting
+hp : 118
+atk : 104
+def : 68
+spatk : 108
+spdef : 68
+spd : 86
+dex : It can read the aura produced by all things. It can identify others over half a mile away.
+jdex : あらゆる ものが だす はどうを よみとることができる。 １キロ さきの あいてのことも わかる。

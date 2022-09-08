@@ -1,0 +1,21 @@
+name : Morgrem
+jname : ギモー
+tmname : Gimoh
+type1 : Dark
+type2 : Fairy
+setno : 2-2
+tagno : 041
+energy : 68
+grade : 3
+type1 : Dark
+type2 : Fairy
+move : Assurance
+movetype : Dark
+hp : 92
+atk : 48
+def : 37
+spatk : 59
+spdef : 44
+spd : 55
+dex : When it gets down on all fours as if to beg for forgiveness, it's trying to lure opponents in so that it can stab them with its spear-like hair.
+jdex : どげざして あやまる ふりをして やりのように とがった うしろがみで つきさしてくる せんぽうを つかう。

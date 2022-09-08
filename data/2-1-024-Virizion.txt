@@ -1,0 +1,23 @@
+name : Virizion
+jname : ビリジオン
+tmname : Virizion
+star : Star
+symbol : Legendary
+type1 : Grass
+type2 : Fighting
+setno : 2-1
+tagno : 024
+energy : 134
+grade : 5
+type1 : Grass
+type2 : Fighting
+move : Leaf Blade
+movetype : Grass
+hp : 153
+atk : 96
+def : 78
+spatk : 96
+spdef : 136
+spd : 115
+dex : It is told in legend that it battled against humans to protect Pokémon. It confounds opponents with its swift movements.
+jdex : ポケモンを まもるため にんげんと たたかった でんせつに かたられている。 てきを ほんろうする すばやさを もつ。

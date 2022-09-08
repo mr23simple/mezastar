@@ -1,0 +1,19 @@
+name : Cinderace
+jname : エースバーン
+tmname : Aceburn
+type1 : Fire
+setno : 1
+tagno : 031
+energy : 90
+grade : 4
+type1 : Fire
+move : Blaze Kick
+movetype : Fire
+hp : 103
+atk : 88
+def : 59
+spatk : 51
+spdef : 59
+spd : 90
+dex : It juggles a pebble with its feet, turning it into a burning soccer ball, and strikes opponents hard with its shots.
+jdex : こいしを リフティングして ほのおの サッカーボールを つくりだし するどい シュートで こうげきする。

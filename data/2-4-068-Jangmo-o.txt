@@ -1,0 +1,19 @@
+name : Jangmo-o
+jname : ジャラコ
+tmname : Jarako
+type1 : Dragon
+setno : 2-4
+tagno : 068
+energy : 42
+grade : 2
+type1 : Dragon
+move : Tackle
+movetype : Normal
+hp : 59
+atk : 33
+def : 38
+spatk : 28
+spdef : 28
+spd : 28
+dex : They learn to fight by smashing their head scales together. The dueling strengthens both their skills and their spirits.
+jdex : あたまの ウロコを なかまどうしで ぶつけあい たたかいかたを まなぶ。 わざと きもちが きたえられる。

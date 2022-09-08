@@ -1,0 +1,20 @@
+name : Arceus
+jname : アルセウス
+tmname : Arceus
+star : Star
+symbol : Mythical
+image : Arceus P CoroCoro.png
+bimage : Arceus P CoroCoro b.png
+size : 250px
+type1 : Normal
+setno : P
+energy : 128
+type1 : Normal
+move : Judgment
+movetype : Normal
+hp : 142
+atk : 98
+def : 98
+spatk : 98
+spdef : 98
+spd : 98

@@ -1,0 +1,19 @@
+name : Hippowdon
+jname : カバルドン
+tmname : Kabaldon
+type1 : Ground
+setno : 2-4
+tagno : 045
+energy : 108
+grade : 4
+type1 : Ground
+move : Dig
+movetype : Ground
+hp : 149
+atk : 103
+def : 108
+spatk : 64
+spdef : 68
+spd : 46
+dex : Stones can get stuck in the ports on their bodies. Dwebble help dislodge such stones, so Hippowdon look after these Pokémon.
+jdex : からだの あなには たまに いしが つまる。 いしを とってくれるので イシズマイを たいせつに まもる。

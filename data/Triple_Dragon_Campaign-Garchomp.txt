@@ -1,0 +1,22 @@
+name : Garchomp
+jname : ガブリアス
+tmname : Gaburias
+image : Garchomp P TripleDragonCampaign.png
+bimage : Garchomp P TripleDragonCampaign b.png
+size : 250px
+type1 : Dragon
+type2 : Ground
+setno : P
+energy : 94
+type1 : Dragon
+type2 : Ground
+move : Earthquake
+movetype : Ground
+hp : 117
+atk : 93
+def : 69
+spatk : 59
+spdef : 62
+spd : 74
+dex : When Garchomp runs at high speed, it creates blades of air.
+jdex : ガブリアスが かけぬけると その あまりの はやさに くうきの やいばが つくりだされる。

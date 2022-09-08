@@ -1,0 +1,23 @@
+name : Aggron
+jname : ボスゴドラ
+tmname : Bossgodora
+star : Star
+type1 : Steel
+type2 : Rock
+setno : 2-5
+tagno : 018
+energy : 134
+grade : 5
+mega : Aggron
+type1 : Steel
+type2 : Rock
+move : Iron Tail
+movetype : Steel
+hp : 142
+atk : 126
+def : 203
+spatk : 71
+spdef : 71
+spd : 60
+dex : Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.
+jdex : ぶあつい てっぱんを つらぬくほどの するどい ツノを たいあたりとともに くらわせて てきを しとめる。

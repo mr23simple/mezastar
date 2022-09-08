@@ -1,0 +1,22 @@
+name : Kyogre
+jname : カイオーガ
+tmname : Kyogre
+star : Star
+symbol : Legendary
+image : Kyogre P SpecialTagGetCampaign.png
+bimage : Kyogre P SpecialTagGetCampaign b.png
+size : 250px
+type1 : Water
+setno : P
+energy : 120
+type1 : Water
+move : Hydro Pump
+movetype : Water
+hp : 127
+atk : 83
+def : 75
+spatk : 122
+spdef : 114
+spd : 75
+dex : It is said to have expanded the sea by bringing heavy rains. It fought a fierce battle with Groudon.
+jdex : おおあめを ふらせて うみを ひろげたと かたりつがれている。 グラードンと はげしく たたかいを くりひろげた。

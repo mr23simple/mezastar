@@ -1,0 +1,21 @@
+name : Scolipede
+jname : ペンドラー
+tmname : Pendror
+type1 : Bug
+type2 : Poison
+setno : 2-4
+tagno : 060
+energy : 100
+grade : 4
+type1 : Bug
+type2 : Poison
+move : Cross Poison
+movetype : Poison
+hp : 106
+atk : 93
+def : 83
+spatk : 53
+spdef : 65
+spd : 103
+dex : Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claw's toxic spikes.
+jdex : くびのツメで えものを つかむと そのまま じめんに たたきつけ どくのトゲを つきたてるぞ。

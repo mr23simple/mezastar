@@ -1,0 +1,23 @@
+name : Pikachu
+jname : ピカチュウ
+tmname : Pikachu
+image : Pikachu P McDonaldsHappyMeal2022.png
+bimage : Pikachu P McDonaldsHappyMeal2022 b.png
+size : 250px
+type1 : Electric
+setno : P
+energy : 90
+miracle : yes
+type1 : Electric
+move : Thunderbolt
+movetype : Electric
+hp : 103
+atk : 65
+def : 49
+spatk : 60
+spdef : 60
+spd : 104
+tag : Acreus
+tagms : 493
+tagmove : Judgment
+tagmovetype : Normal

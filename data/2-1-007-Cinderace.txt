@@ -1,0 +1,23 @@
+name : Cinderace
+jname : エースバーン
+tmname : Aceburn
+star : Superstar
+type1 : Fire
+setno : 2-1
+tagno : 007
+energy : 138
+grade : 6
+max : Dynamax
+type1 : Fire
+move : Pyro Ball
+movetype : Fire
+maxmove : Max Flare
+maxmovetype : Fire
+hp : 158
+atk : 137
+def : 90
+spatk : 79
+spdef : 90
+spd : 140
+dex : It juggles a pebble with its feet, turning it into a burning soccer ball, and strikes opponents hard with its shots.
+jdex : こいしを リフティングして ほのおの サッカーボールを つくりだし するどい シュートで こうげきする。

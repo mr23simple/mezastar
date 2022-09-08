@@ -1,0 +1,25 @@
+name : Aerodactyl
+jname : プテラ
+tmname : Ptera
+star : Star
+type1 : Rock
+type2 : Flying
+setno : 2-4
+tagno : 019
+energy : 128
+grade : 5
+zcrystal : Flyinium
+type1 : Rock
+type2 : Flying
+move : Fly
+movetype : Flying
+zmove : Supersonic Skystrike
+zmovetype : Flying
+hp : 150
+atk : 118
+def : 75
+spatk : 69
+spdef : 86
+spd : 145
+dex : A Pokémon restored from genetic matter found in amber. It flew freely through the skies in prehistoric times.
+jdex : コハクの なかの いでんしかを ふくげんされた ポケモン。 おおむかしの そらを とびまわって いたらしい。

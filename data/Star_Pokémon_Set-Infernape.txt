@@ -1,0 +1,26 @@
+name : Infernape
+jname : ゴウカザル
+tmname : Goukazaru
+star : Star
+image : Infernape P StarPokémonSet.png
+bimage : Infernape P StarPokémonSet b.png
+size : 250px
+type1 : Fire
+type2 : Fighting
+setno : P
+energy : 110
+zcrystal : Fightinium
+type1 : Fire
+type2 : Fighting
+move : Close Combat
+movetype : Fighting
+zmove : All-Out Pummeling
+zmovetype : Fighting
+hp : 123
+atk : 98
+def : 68
+spatk : 98
+spdef : 68
+spd : 102
+dex : It will take on any opponent using unique fighting techniques with fire on its hands and feet.
+jdex : てと あしに ほのおを まとう ユニークな かくとうわざを つかって どんな あいてとも たたかう。

@@ -1,0 +1,21 @@
+name : Drifblim
+jname : フワライド
+tmname : Fuwaride
+type1 : Ghost
+type2 : Flying
+setno : 2-4
+tagno : 043
+energy : 104
+grade : 4
+type1 : Ghost
+type2 : Flying
+move : Hex
+movetype : Ghost
+hp : 186
+atk : 75
+def : 43
+spatk : 84
+spdef : 52
+spd : 75
+dex : At dusk, swarms of Drifblim are carried aloft on winds somewhere. When noticed, they suddenly vanish.
+jdex : ゆうぐれに なると フワライドの むれが かぜに ながされて どこかへ とんでいく。 ふと きづくと いつのまにか きえている。

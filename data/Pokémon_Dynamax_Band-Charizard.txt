@@ -1,0 +1,25 @@
+name : Charizard
+jname : リザードン
+tmname : Lizardon
+image : Charizard P PokémonDynamaxBand.png
+bimage : Charizard P PokémonDynamaxBand b.png
+size : 250px
+type1 : Fire
+type2 : Flying
+setno : P
+energy : 98
+max : Gigantamax
+type1 : Fire
+type2 : Flying
+move : Flamethrower
+movetype : Fire
+gmaxmove : G-Max Wildfire
+gmaxmovetype : Fire
+hp : 109
+atk : 70
+def : 65
+spatk : 90
+spdef : 71
+spd : 83
+dex : The temperature of Charizard's fire increases as it gains experience in battle.
+jdex : リザードンの ほのおは たたかいの けいけんを つむほど おんどが あがっていく。

@@ -1,0 +1,21 @@
+name : Crobat
+jname : クロバット
+tmname : Crobat
+type1 : Poison
+type2 : Flying
+setno : 2-5
+tagno : 048
+energy : 112
+grade : 4
+type1 : Poison
+type2 : Flying
+move : Cross Poison
+movetype : Poison
+hp : 131
+atk : 86
+def : 77
+spatk : 68
+spdef : 77
+spd : 122
+dex : This Pokémon flaps its four wings skillfully. Crobat can fly through cramped caves without needing to slow down.
+jdex : ４まいの ハネを じざいに あやつり はばたく。 せまい どうくつでも スピードを おとさず とびまわれる。

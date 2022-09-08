@@ -1,0 +1,22 @@
+name : Machamp
+jname : カイリキー
+tmname : Kairiky
+star : Star
+type1 : Fighting
+setno : 2-2
+tagno : 014
+energy : 122
+grade : 5
+type1 : Fighting
+move : Cross Chop
+movetype : Fighting
+hp : 155
+atk : 140
+def : 88
+spatk : 72
+spdef : 93
+spd : 62
+tag : Sirfetch'd
+tagms : 865
+tagmove : Meteor Assault
+tagmovetype : Fighting

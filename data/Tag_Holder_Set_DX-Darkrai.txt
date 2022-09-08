@@ -1,0 +1,23 @@
+name : Darkrai
+jname : ダークライ
+tmname : Darkrai
+star : Star
+symbol : Mythical
+image : Darkrai P TagHolderSetDX.png
+bimage : Darkrai P TagHolderSetDX b.png
+type1 : Dark
+setno : P
+energy : 112
+type1 : Dark
+move : Dark Pulse
+movetype : Dark
+hp : 108
+atk : 78
+def : 78
+spatk : 115
+spdef : 78
+spd : 107
+tag : Yveltal
+tagms : 717
+tagmove : Dark Pulse
+tagmovetype : Dark

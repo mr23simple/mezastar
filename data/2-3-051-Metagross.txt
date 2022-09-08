@@ -1,0 +1,21 @@
+name : Metagross
+jname : メタグロス
+tmname : Metagross
+type1 : Steel
+type2 : Psychic
+setno : 2-3
+tagno : 051
+energy : 118
+grade : 4
+type1 : Steel
+type2 : Psychic
+move : Zen Headbutt
+movetype : Psychic
+hp : 121
+atk : 121
+def : 116
+spatk : 86
+spdef : 82
+spd : 65
+dex : Formed from the fusion of two Metang, its four brains are said to be superior to a supercomputer.
+jdex : ２ひきの メタングが がったいして うまれた。 ４つの のうは スーパーコンピューターよりも すぐれているといわれる。

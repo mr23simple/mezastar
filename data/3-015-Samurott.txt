@@ -1,0 +1,23 @@
+name : Samurott
+jname : ダイケンキ
+tmname : Daikenki
+star : Star
+type1 : Water
+setno : 3
+tagno : 015
+energy : 116
+grade : 5
+zcrystal : Waterium
+type1 : Water
+move : Hydro Pump
+movetype : Water
+zmove : Hydro Vortex
+zmovetype : Water
+hp : 146
+atk : 99
+def : 84
+spatk : 106
+spdef : 70
+spd : 70
+dex : In the time it takes a foe to blink, it can draw and sheathe the seamitars incorporated in its armor.
+jdex : よろいに しこまれた アシガタナで てきを きりつけ もとに もどすまで まばたき するほどの じかんしか かからない。

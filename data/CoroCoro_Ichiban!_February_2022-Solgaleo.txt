@@ -1,0 +1,23 @@
+name : Solgaleo
+jname : ソルガレオ
+tmname : Solgaleo
+symbol : Legendary
+image : Solgaleo P CoroCoroIchiban.png
+bimage : Solgaleo P CoroCoroIchiban b.png
+size : 250px
+type1 : Psychic
+type2 : Steel
+setno : P
+energy : 114
+type1 : Psychic
+type2 : Steel
+move : Sunsteel Strike
+movetype : Steel
+hp : 148
+atk : 106
+def : 84
+spatk : 88
+spdef : 70
+spd : 76
+dex : The dazzling light unleashed from its body can make the darkest of nights light up like midday.
+jdex : からだから まぶしい ひかりを はなち やみよも まひるのように てらしだす。

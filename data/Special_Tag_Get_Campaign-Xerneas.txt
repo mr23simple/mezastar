@@ -1,0 +1,22 @@
+name : Xerneas
+jname : ゼルネアス
+tmname : Xerneas
+star : Star
+symbol : Legendary
+image : Xerneas P SpecialTagGetCampaign.png
+bimage : Xerneas P SpecialTagGetCampaign b.png
+size : 250px
+type1 : Fairy
+setno : P
+energy : 144
+type1 : Fairy
+move : Moonblast
+movetype : Fairy
+hp : 175
+atk : 128
+def : 94
+spatk : 128
+spdef : 97
+spd : 98
+dex : It is said that when its branched horns sparkle in seven colors, it is bestowing infinite life to other creatures.
+jdex : えだわかれした ツノを なないろに きらめかせるとき ほかの いきものに むげんの いのちを あたえると いう。

@@ -1,0 +1,20 @@
+name : Galarian Meowth
+jname : ガラルニャース
+tmname : Galarian Nyarth
+link : Meowth
+type1 : Steel
+setno : 2-4
+tagno : 040
+energy : 42
+grade : 2
+type1 : Steel
+move : Metal Claw
+movetype : Steel
+hp : 62
+atk : 38
+def : 33
+spatk : 25
+spdef : 25
+spd : 25
+dex : These daring Pokémon have coins on their foreheads. Darker coins are harder, and harder coins garner more respect among Meowth.
+jdex : ひたいの こばんは より くろいほど かたく なかまから そんけいされる。 ゆうもうで おそれを しらない。

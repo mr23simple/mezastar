@@ -1,0 +1,23 @@
+name : Kyurem
+jname : キュレム
+tmname : Kyurem
+star : Superstar
+symbol : Legendary
+type1 : Dragon
+type2 : Ice
+setno : 3
+tagno : 003
+energy : 156
+grade : 6
+type1 : Dragon
+type2 : Ice
+move : Blizzard
+movetype : Ice
+hp : 195
+atk : 142
+def : 100
+spatk : 142
+spdef : 100
+spd : 105
+dex : It creates dreadfully cold air. Its body is always frozen as a result.
+jdex : すごい れいきを つくりだせる。 そのため つねに じぶんの からだも こおって しまっている。

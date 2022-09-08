@@ -1,0 +1,22 @@
+name : Groudon
+jname : グラードン
+tmname : Groudon
+star : Star
+symbol : Legendary
+image : Groudon P SpecialTagGetCampaign.png
+bimage : Groudon P SpecialTagGetCampaign b.png
+size : 250px
+type1 : Ground
+setno : P
+energy : 120
+type1 : Ground
+move : Earthquake
+movetype : Ground
+hp : 127
+atk : 122
+def : 114
+spatk : 83
+spdef : 75
+spd : 75
+dex : It is said to have expanded the lands by evaporating water. It fought a fierce battle with Kyogre.
+jdex : みずを じょうはつさせて りくちを ひろげたと かたりつがれている。 カイオーガと はげしく たたかいを くりひろげた。

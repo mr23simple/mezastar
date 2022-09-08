@@ -1,0 +1,24 @@
+name : Galarian Moltres
+jname : ガラルファイヤー
+tmname : Galarian Fire
+link : Moltres
+star : Superstar
+symbol : Legendary
+type1 : Dark
+type2 : Flying
+setno : 2-2
+tagno : 005
+energy : 152
+grade : 6
+type1 : Dark
+type2 : Flying
+move : Fiery Wrath
+movetype : Dark
+hp : 172
+atk : 103
+def : 109
+spatk : 121
+spdef : 150
+spd : 109
+dex : Its sinister aura, which blazes like molten fire, will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves.
+jdex : ほのおのように もえあがる じゃあくな オーラに あてられると せいこんが つきはて まっしろに もえつきて しまう。

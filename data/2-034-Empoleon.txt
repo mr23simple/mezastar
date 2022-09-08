@@ -1,0 +1,21 @@
+name : Empoleon
+jname : エンペルト
+tmname : Emperte
+type1 : Water
+type2 : Steel
+setno : 2
+tagno : 034
+energy : 92
+grade : 4
+type1 : Water
+type2 : Steel
+move : Steel Wing
+movetype : Steel
+hp : 109
+atk : 68
+def : 70
+spatk : 87
+spdef : 79
+spd : 49
+dex : In a flock of Empoleon, the size of the horns that extend from each of their beaks represent their strength.
+jdex : エンペルトの むれでは クチバシから のびる ツノの おおきさが つよさを あらわす。

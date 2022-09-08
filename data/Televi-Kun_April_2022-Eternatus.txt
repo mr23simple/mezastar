@@ -1,0 +1,23 @@
+name : Eternatus
+jname : ムゲンダイナ
+tmname : Mugendina
+symbol : Legendary
+image : Eternatus P Televi-Kun.png
+bimage : Eternatus P Televi-Kun b.png
+size : 250px
+type1 : Poison
+type2 : Dragon
+setno : P
+energy : 128
+type1 : Poison
+type2 : Dragon
+move : Dynamax Cannon
+movetype : Dragon
+hp : 165
+atk : 74
+def : 82
+spatk : 123
+spdef : 82
+spd : 111
+dex : It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon.
+jdex : ２まんねんまえに おちた いんせきの なかに いた。 ダイマックスの なぞに かんけいしている らしい。

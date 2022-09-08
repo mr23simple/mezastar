@@ -1,0 +1,24 @@
+name : Golisopod
+jname : グソクムシャ
+tmname : Gusokumusha
+star : Star
+type1 : Bug
+type2 : Water
+setno : 2-4
+tagno : 017
+energy : 132
+grade : 5
+type1 : Bug
+type2 : Water
+move : First Impression
+movetype : Bug
+hp : 145
+atk : 140
+def : 156
+spatk : 69
+spdef : 102
+spd : 48
+tag : Sylveon
+tagms : 700
+tagmove : Moonblast
+tagmovetype : Fairy

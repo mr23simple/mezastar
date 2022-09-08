@@ -1,0 +1,25 @@
+name : Charizard
+jname : リザードン
+tmname : Lizardon
+star : Star
+image : Charizard P StarPokémonSet.png
+bimage : Charizard P StarPokémonSet b.png
+size : 250px
+type1 : Fire
+type2 : Flying
+setno : P
+energy : 92
+type1 : Fire
+type2 : Flying
+move : Flamethrower
+movetype : Fire
+hp : 104
+atk : 67
+def : 62
+spatk : 85
+spdef : 67
+spd : 79
+tag : Arcanine
+tagms : 059
+tagmove : Fire Blast
+tagmovetype : Fire

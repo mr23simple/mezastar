@@ -1,0 +1,26 @@
+name : Zarude
+jname : ザルード
+tmname : Zarude
+star : Superstar
+symbol : Mythical
+type1 : Dark
+type2 : Grass
+setno : 2-5
+tagno : 005
+energy : 166
+grade : 6
+max : Dynamax
+type1 : Dark
+type2 : Grass
+move : Power Whip
+movetype : Grass
+maxmove : Max Overgrowth
+maxmovetype : Grass
+hp : 199
+atk : 151
+def : 133
+spatk : 90
+spdef : 120
+spd : 133
+dex : Within dense forests, this Pokémon lives in a pack with others of its kind. It's incredibly aggressive, and the other Pokémon of the forest fear it.
+jdex : むれを つくり みつりんで くらす。 とても こうげきてきで もりにすむ ポケモンたちから おそれられている。

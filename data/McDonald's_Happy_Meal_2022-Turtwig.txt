@@ -1,0 +1,23 @@
+name : Turtwig
+jname : ナエトル
+tmname : Naetle
+image : Turtwig P McDonaldsHappyMeal2022.png
+bimage : Turtwig P McDonaldsHappyMeal2022 b.png
+size : 250px
+type1 : Grass
+setno : P
+energy : 90
+miracle : yes
+type1 : Grass
+move : Razor Leaf
+movetype : Grass
+hp : 125
+atk : 79
+def : 75
+spatk : 54
+spdef : 65
+spd : 39
+tag : Giratina
+tagms : 487
+tagmove : Shadow Claw
+tagmovetype : Ghost

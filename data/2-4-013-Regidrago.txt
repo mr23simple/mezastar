@@ -1,0 +1,21 @@
+name : Regidrago
+jname : レジドラゴ
+tmname : Regidorago
+star : Star
+symbol : Legendary
+type1 : Dragon
+setno : 2-4
+tagno : 013
+energy : 144
+grade : 5
+type1 : Dragon
+move : Dragon Energy
+movetype : Dragon
+hp : 280
+atk : 113
+def : 59
+spatk : 113
+spdef : 59
+spd : 91
+dex : Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.
+jdex : ぜんしんが ドラゴンエネルギーの けっしょう。 すべての ドラゴン ポケモンの ちからを もつらしい。

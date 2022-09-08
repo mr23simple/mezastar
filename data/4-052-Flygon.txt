@@ -1,0 +1,21 @@
+name : Flygon
+jname : フライゴン
+tmname : Flygon
+type1 : Ground
+type2 : Dragon
+setno : 4
+tagno : 052
+energy : 96
+grade : 4
+type1 : Ground
+type2 : Dragon
+move : Dragon Claw
+movetype : Dragon
+hp : 111
+atk : 83
+def : 67
+spatk : 67
+spdef : 67
+spd : 83
+dex : This Pokémon hides in the heart of sandstorms it creates and seldom appears where people can see it.
+jdex : みずからが まきおこす すなあらしの ちゅうしんに いるので めったに ひとまえに あらわれない ポケモン。

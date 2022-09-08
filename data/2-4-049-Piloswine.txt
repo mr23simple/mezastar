@@ -1,0 +1,21 @@
+name : Piloswine
+jname : イノムー
+tmname : Inomoo
+type1 : Ice
+type2 : Ground
+setno : 2-4
+tagno : 049
+energy : 82
+grade : 3
+type1 : Ice
+type2 : Ground
+move : Icy Wind
+movetype : Ice
+hp : 124
+atk : 81
+def : 65
+spatk : 50
+spdef : 50
+spd : 43
+dex : Although its legs are short, its rugged hooves prevent it from slipping, even on icy ground.
+jdex : ４ほんの あしは みじかいが ヒヅメは ひろく ギザギザ なので ゆきのうえでも すべらず あるける。

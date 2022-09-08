@@ -1,0 +1,19 @@
+name : Porygon
+jname : ポリゴン
+tmname : Porygon
+type1 : Normal
+setno : 2-4
+tagno : 051
+energy : 52
+grade : 2
+type1 : Normal
+move : Tackle
+movetype : Normal
+hp : 69
+atk : 36
+def : 41
+spatk : 49
+spdef : 44
+spd : 25
+dex : State-of-the-art technology was used to create Porygon. It was the first artificial Pokémon to be created via computer programming.
+jdex : さいこうの かがくりょくを つかい せかいで はじめて プログラムにより つくられた じんこうの ポケモン。

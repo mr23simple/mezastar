@@ -1,0 +1,23 @@
+name : Zygarde
+jname : ジガルデ
+tmname : Zygarde
+star : Superstar
+symbol : Legendary
+type1 : Dragon
+type2 : Ground
+setno : 2
+tagno : 003
+energy : 164
+grade : 6
+type1 : Dragon
+type2 : Ground
+move : Land's Wrath
+movetype : Ground
+hp : 286
+atk : 109
+def : 130
+spatk : 94
+spdef : 103
+spd : 103
+dex : This is Zygarde's form when all of its cells have been gathered. It uses its overwhelming power to combat threats to the ecosystem.
+jdex : すべての ジガルデ・セルが あつまった すがた。 あっとうてきな ちからで せいたいけいを おびやかす ものと たたかう。

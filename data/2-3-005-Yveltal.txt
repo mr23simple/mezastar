@@ -1,0 +1,26 @@
+name : Yveltal
+jname : ゼルネアス
+tmname : Yveltal
+star : Superstar
+symbol : Legendary
+type1 : Dark
+type2 : Flying
+setno : 2-3
+tagno : 005
+energy : 178
+grade : 6
+max : Dynamax
+type1 : Dark
+type2 : Flying
+move : Dark Pulse
+movetype : Dark
+maxmove : Max Darkness
+maxmovetype : Dark
+hp : 217
+atk : 159
+def : 117
+spatk : 159
+spdef : 120
+spd : 121
+dex : It is said that once it sucks the life of other creatures, Yveltal takes the shape of a cocoon.
+jdex : ほかの いきものの いのちを すいつくした イベルタルは マユのような かたちに なると いう。

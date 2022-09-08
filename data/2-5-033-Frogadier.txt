@@ -1,0 +1,19 @@
+name : Frogadier
+jname : ゲコガシラ
+tmname : Gekogahshier
+type1 : Water
+setno : 2-5
+tagno : 033
+energy : 78
+grade : 3
+type1 : Water
+move : Water Pulse
+movetype : Water
+hp : 91
+atk : 54
+def : 45
+spatk : 69
+spdef : 48
+spd : 80
+dex : It is nimble enough to scale buildings of more than 600 meters in a minute's time.
+jdex : ６００メートルを こえる たてものの うえまで １ぷんで のぼる みがるさの もちぬし。

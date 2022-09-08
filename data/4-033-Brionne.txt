@@ -1,0 +1,19 @@
+name : Brionne
+jname : オシャマリ
+tmname : Osyamari
+type1 : Water
+setno : 4
+tagno : 033
+energy : 68
+grade : 3
+type1 : Water
+move : Bubble Beam
+movetype : Water
+hp : 82
+atk : 50
+def : 50
+spatk : 65
+spdef : 58
+spd : 38
+dex : It creates a bunch of water balloons as it dances and strikes enemies with them in battle.
+jdex : みずの バルーンを つぎつぎと つくりだし おどりながら てきに ぶつけて たたかうぞ。

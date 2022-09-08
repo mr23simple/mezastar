@@ -1,0 +1,23 @@
+name : Goodra
+jname : ヌメルゴン
+tmname : Numelgon
+star : Star
+type1 : Dragon
+setno : 2-4
+tagno : 022
+energy : 148
+grade : 5
+max : Dynamax
+type1 : Dragon
+move : Dragon Pulse
+movetype : Dragon
+maxmove : Max Wyrmwind
+maxmovetype : Dragon
+hp : 161
+atk : 113
+def : 80
+spatk : 123
+spdef : 167
+spd : 91
+dex : It has a friendly nature and will leave anyone it hugs covered in a sticky slime.
+jdex : ひとなつっこい せいかくだが だきつかれると ねんえきで ヌルヌルに さねて しまうのだ。

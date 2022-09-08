@@ -1,0 +1,21 @@
+name : Slowpoke
+jname : ヤドン
+tmname : Yadon
+type1 : Water
+type2 : Psychic
+setno : 1
+tagno : 054
+energy : 42
+grade : 2
+type1 : Water
+type2 : Psychic
+move : Water Gun
+movetype : Water
+hp : 77
+atk : 37
+def : 37
+spatk : 24
+spdef : 24
+spd : 9
+dex : Very slow and stupid. If its tail is bitten, it won't even notice for a whole day.
+jdex : のろまで とても にぶい。 しっぽに かみつかれても いちにちじゅう きが つかない。

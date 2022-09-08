@@ -1,0 +1,19 @@
+name : Pancham
+jname : ヤンチャム
+tmname : Yancham
+type1 : Fighting
+setno : 2-5
+tagno : 065
+energy : 48
+grade : 2
+type1 : Fighting
+move : Arm Thrust
+movetype : Fighting
+hp : 70
+atk : 47
+def : 37
+spatk : 28
+spdef : 29
+spd : 27
+dex : It does its utmost to glare and pull a scary face so enemies won't make fun of it.
+jdex : てきに なめられないよう いっしょうけんめい こわい かおで にらみつける。

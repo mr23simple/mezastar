@@ -1,0 +1,21 @@
+name : Noibat
+jname : オンバット
+tmname : Onbat
+type1 : Flying
+type2 : Dragon
+setno : 2-1
+tagno : 064
+energy : 38
+grade : 2
+type1 : Flying
+type2 : Dragon
+move : Gust
+movetype : Flying
+hp : 56
+atk : 20
+def : 23
+spatk : 28
+spdef : 25
+spd : 33
+dex : Its large ears can emit 200,000 hertz ultrasonic waves that can make people dizzy.
+jdex : おおきな みみから はなたれる ２０まんヘルツもの ちょうおんぱは めを まわすほど きょうりょくだ。

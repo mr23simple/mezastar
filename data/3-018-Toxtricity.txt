@@ -1,0 +1,22 @@
+name : Toxtricity
+jname : ストリンダー
+tmname : Strinder
+star : Star
+type1 : Electric
+type2 : Poison
+setno : 3
+tagno : 018
+energy : 110
+grade : 5
+type1 : Electric
+type2 : Poison
+move : Overdrive
+movetype : Electric
+hp : 127
+atk : 97
+def : 70
+spatk : 112
+spdef : 70
+spd : 75
+dex : When this Pokémon sounds as if it's strumming a guitar, it's actually clawing at the protrusions on its chest to generate electricity.
+jdex : むねの とっきを かきむしり でんきを おこすとき あたりに ギターのような おとが ひびく。

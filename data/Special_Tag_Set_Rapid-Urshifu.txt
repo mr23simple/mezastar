@@ -1,0 +1,23 @@
+name : Urshifu
+jname : ウーラオス
+tmname : Wulaosu
+star : Star
+symbol : Legendary
+image : Urshifu P SpecialTagSetRapid.png
+bimage : Urshifu P SpecialTagSetRapid b.png
+type1 : Fighting
+type2 : Water
+setno : P
+energy : 110
+type1 : Fighting
+type2 : Water
+move : Close Combat
+movetype : Fighting
+hp : 139
+atk : 117
+def : 91
+spatk : 58
+spdef : 56
+spd : 88
+dex : It's believed that this Pokémon modeled its fighting style on the flow of a river — sometimes rapid, sometimes calm.
+jdex : ときに はげしく ときに おだやかな かわの ながれから かくとうわざの かたを あみだしたと いわれている。

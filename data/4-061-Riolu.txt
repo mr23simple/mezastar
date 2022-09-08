@@ -1,0 +1,19 @@
+name : Riolu
+jname : リオル
+tmname : Riolu
+type1 : Fighting
+setno : 4
+tagno : 061
+energy : 40
+grade : 3
+type1 : Fighting
+move : Metal Claw
+movetype : Steel
+hp : 55
+atk : 40
+def : 24
+spatk : 21
+spdef : 24
+spd : 35
+dex : They communicate with one another using their auras. Their aura becomes stronger when in a pinch.
+jdex : なかま どうしで はどうを だして コミュニケーションを とる。 ピンチのときは はどうが つよまる。

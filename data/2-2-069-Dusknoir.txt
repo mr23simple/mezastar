@@ -1,0 +1,19 @@
+name : Dusknoir
+jname : ヨノワール
+tmname : Yonoir
+type1 : Ghost
+setno : 2-2
+tagno : 069
+energy : 104
+grade : 4
+type1 : Ghost
+move : Hex
+movetype : Ghost
+hp : 89
+atk : 89
+def : 118
+spatk : 59
+spdef : 118
+spd : 42
+dex : It is said to take lost spirits into its body and guide them home.
+jdex : いきばのない たましいを からだの なかに とりこんで あのよに つれていくと いわれている。

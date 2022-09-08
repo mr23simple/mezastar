@@ -1,0 +1,19 @@
+name : Cleffa
+jname : ピィ
+tmname : Py
+type1 : Fairy
+setno : 2-5
+tagno : 043
+energy : 34
+grade : 2
+type1 : Fairy
+move : Disarming Voice
+movetype : Fairy
+hp : 62
+atk : 18
+def : 19
+spatk : 28
+spdef : 33
+spd : 12
+dex : According to local rumors, Cleffa are often seen in places where shooting stars have fallen.
+jdex : ピィを よく みかける ばしょは ながれぼしが おちた ばしょと じもとでは うわさ されている。

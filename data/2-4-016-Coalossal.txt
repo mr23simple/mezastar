@@ -1,0 +1,24 @@
+name : Coalossal
+jname : セキタンザン
+tmname : Sekitanzan
+star : Star
+type1 : Rock
+type2 : Fire
+setno : 2-4
+tagno : 016
+energy : 128
+grade : 5
+type1 : Rock
+type2 : Fire
+move : Rock Blast
+movetype : Rock
+hp : 182
+atk : 91
+def : 134
+spatk : 91
+spdef : 102
+spd : 37
+tag : Glaceon
+tagms : 471
+tagmove : Blizzard
+tagmovetype : Ice

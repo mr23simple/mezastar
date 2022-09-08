@@ -1,0 +1,19 @@
+name : Porygon-Z
+jname : ポリゴンＺ
+tmname : Porygon-Z
+type1 : Normal
+setno : 2-4
+tagno : 053
+energy : 110
+grade : 4
+type1 : Normal
+move : Psybeam
+movetype : Psychic
+hp : 128
+atk : 75
+def : 66
+spatk : 123
+spdef : 71
+spd : 84
+dex : Some say an additional program made this Pokémon evolve, but even academics can't agree on whether Porygon-Z is really an evolution.
+jdex : ついか プログラムで しんかしたと いわれるが ほんとうに しんかなのか がっかいでも いけんが わかれる。

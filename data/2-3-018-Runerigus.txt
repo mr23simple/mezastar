@@ -1,0 +1,24 @@
+name : Runerigus
+jname : デスバーン
+tmname : Deathbarn
+star : Star
+type1 : Ground
+type2 : Ghost
+setno : 2-3
+tagno : 018
+energy : 120
+grade : 5
+type1 : Ground
+type2 : Ghost
+move : Shadow Claw
+movetype : Ghost
+hp : 124
+atk : 105
+def : 158
+spatk : 58
+spdef : 116
+spd : 36
+tag : Umbreon
+tagms : 197
+tagmove : Dark Pulse
+tagmovetype : Dark

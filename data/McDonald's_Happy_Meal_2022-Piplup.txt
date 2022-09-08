@@ -1,0 +1,23 @@
+name : Piplup
+jname : ポッチャマ
+tmname : Pochama
+image : Piplup P McDonaldsHappyMeal2022.png
+bimage : Piplup P McDonaldsHappyMeal2022 b.png
+size : 250px
+type1 : Water
+setno : P
+energy : 90
+miracle : yes
+type1 : Water
+move : Bubble Beam
+movetype : Water
+hp : 123
+atk : 61
+def : 63
+spatk : 72
+spdef : 66
+spd : 49
+tag : Palkia
+tagms : 484
+tagmove : Spacial Rend
+tagmovetype : Dragon

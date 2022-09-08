@@ -1,0 +1,21 @@
+name : Drifloon
+jname : フワンテ
+tmname : Fuwante
+type1 : Ghost
+type2 : Flying
+setno : 2-4
+tagno : 042
+energy : 68
+grade : 3
+type1 : Ghost
+type2 : Flying
+move : Astonish
+movetype : Ghost
+hp : 116
+atk : 43
+def : 30
+spatk : 50
+spdef : 38
+spd : 58
+dex : Perhaps seeking company, it approaches children. However, it often quickly runs away again when the children play too roughly with it.
+jdex : なかまが ほしいのか こどもに ちかづくが いいように あそばれ にげていくことも すくなくない。

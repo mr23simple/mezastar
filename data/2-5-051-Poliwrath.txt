@@ -1,0 +1,21 @@
+name : Poliwrath
+jname : ニョロボン
+tmname : Nyorobon
+type1 : Water
+type2 : Fighting
+setno : 2-5
+tagno : 051
+energy : 108
+grade : 4
+type1 : Water
+type2 : Fighting
+move : Submission
+movetype : Fighting
+hp : 136
+atk : 90
+def : 90
+spatk : 68
+spdef : 86
+spd : 68
+dex : Poliwrath is skilled at both swimming and martial arts. It uses its well-trained arms to dish out powerful punches.
+jdex : およぎ だけでなく かくとうぎも とくい。 きたえあげた うでから ごうかいな パンチを くりだす。

@@ -1,0 +1,19 @@
+name : Froakie
+jname : ケロマツ
+tmname : Keromatsu
+type1 : Water
+setno : 2-5
+tagno : 032
+energy : 44
+grade : 2
+type1 : Water
+move : Bubble
+movetype : Water
+hp : 57
+atk : 34
+def : 25
+spatk : 37
+spdef : 27
+spd : 41
+dex : It protects its skin by covering its body in flexible bubbles secreted from its chest and back.
+jdex : だんりょくの ある アワを むねと せなかから だして からだを つつんで みを まもる。

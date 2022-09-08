@@ -1,0 +1,19 @@
+name : Clobbopus
+jname : タタッコ
+tmname : Tatakko
+type1 : Fighting
+setno : 2-2
+tagno : 038
+energy : 44
+grade : 2
+type1 : Fighting
+move : Rock Smash
+movetype : Fighting
+hp : 62
+atk : 40
+def : 36
+spatk : 31
+spdef : 31
+spd : 21
+dex : It has a very curious personality. It investigates things by trying to punch them with its tentacles.
+jdex : こうきしん おうせいな せいかく。 めについた ものは とりあえず しょくしゅで なぐる。

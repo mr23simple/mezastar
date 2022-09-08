@@ -1,0 +1,19 @@
+name : Milotic
+jname : ミロカロス
+tmname : Milokaross
+type1 : Water
+setno : 2-5
+tagno : 056
+energy : 112
+grade : 4
+type1 : Water
+move : Waterfall
+movetype : Water
+hp : 140
+atk : 59
+def : 76
+spatk : 95
+spdef : 117
+spd : 77
+dex : It's said that a glimpse of a Milotic and its beauty will calm any hostile emotions you're feeling.
+jdex : ミロカロスの うつくしい すがたを みた ものは すさんだ こころが いやされると いわれている。

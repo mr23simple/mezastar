@@ -1,0 +1,21 @@
+name : Cresselia
+jname : クレセリア
+tmname : Cresselia
+star : Star
+symbol : Legendary
+type1 : Psychic
+setno : 2-4
+tagno : 014
+energy : 146
+grade : 5
+type1 : Psychic
+move : Moonblast
+movetype : Fairy
+hp : 193
+atk : 80
+def : 134
+spatk : 86
+spdef : 145
+spd : 96
+dex : It is said to represent the crescent moon. When it flies, it releases shiny particles from its veil-like wings.
+jdex : みかづきの けしんと よばれる。 ベールの ような はねから ひかる りゅうしを だすて そらを とぶ。

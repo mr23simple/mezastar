@@ -1,0 +1,20 @@
+name : Galarian Ponyta
+jname : ガラルポニータ
+tmname : Galarian Ponyta
+link : Ponyta
+type1 : Psychic
+setno : 2
+tagno : 041
+energy : 64
+grade : 3
+type1 : Psychic
+move : Confusion
+movetype : Psychic
+hp : 72
+atk : 57
+def : 39
+spatk : 45
+spdef : 45
+spd : 60
+dex : This Pokémon will look into your eyes and read the contents of your heart. If it finds evil there, it promptly hides away.
+jdex : ひとみを のぞいて こころを よむ。 よこしまな きもちを みつけると たちまち すがたを けしてしまう。

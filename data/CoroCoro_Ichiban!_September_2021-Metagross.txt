@@ -1,0 +1,25 @@
+name : Metagross
+jname : メタグロス
+tmname : Metagross
+image : Metagross P CoroCoroIchiban.png
+bimage : Metagross P CoroCoroIchiban b.png
+size : 250px
+type1 : Steel
+type2 : Psychic
+setno : P
+energy : 98
+max : Dynamax
+type1 : Steel
+type2 : Psychic
+move : Meteor Mash
+movetype : Steel
+maxmove : Max Steelspike
+maxmovetype : Steel
+hp : 101
+atk : 99
+def : 96
+spatk : 71
+spdef : 68
+spd : 54
+dex : Formed from the fusion of two Metang, its four brains are said to be superior to a supercomputer.
+jdex : ２ひきの メタングが がったいして うまれた。 ４つの のうは スーパーコンピューターよりも すぐれているといわれる。

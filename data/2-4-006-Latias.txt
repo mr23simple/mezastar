@@ -1,0 +1,23 @@
+name : Latias
+jname : ラティアス
+tmname : Latias
+star : Superstar
+symbol : Legendary
+type1 : Dragon
+type2 : Psychic
+setno : 2-4
+tagno : 006
+energy : 164
+grade : 6
+type1 : Dragon
+type2 : Psychic
+move : Mist Ball
+movetype : Psychic
+hp : 166
+atk : 101
+def : 113
+spatk : 137
+spdef : 161
+spd : 137
+dex : It uses telepathy to sense the emotions of people. Its down can refract light to make it invisible.
+jdex : テレパシーで にんげんの こころを かんじとる。 うもうで ひかりを くっせつさせて すがたを けすことが できる。

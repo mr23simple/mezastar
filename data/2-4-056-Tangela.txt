@@ -1,0 +1,19 @@
+name : Tangela
+jname : モンジャラ
+tmname : Monjara
+type1 : Grass
+setno : 2-4
+tagno : 056
+energy : 80
+grade : 3
+type1 : Grass
+move : Vine Whip
+movetype : Grass
+hp : 97
+atk : 46
+def : 92
+spatk : 81
+spdef : 35
+spd : 50
+dex : Hidden beneath a tangle of vines that grows nonstop even if the vines are torn off, this Pokémon's true appearance remains a mystery.
+jdex : ちぎれても むげんに のびる ツルの おくの しょうたいは いまだ かいめいされていない。

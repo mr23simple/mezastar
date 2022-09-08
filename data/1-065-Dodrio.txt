@@ -1,0 +1,21 @@
+name : Dodrio
+jname : ドードリオ
+tmname : Dodorio
+type1 : Normal
+type2 : Flying
+setno : 1
+tagno : 065
+energy : 82
+grade : 4
+type1 : Normal
+type2 : Flying
+move : Pluck
+movetype : Flying
+hp : 89
+atk : 84
+def : 55
+spatk : 48
+spdef : 48
+spd : 84
+dex : It uses its three brains to collect data and plan three times as wisely, but it may think too much and become immobilized.
+jdex : 3つの あたまで 3ばいの じょうほうを あつめて こうどな さくせんを あやつるが たまに かんがえすぎて うごけなくなる。

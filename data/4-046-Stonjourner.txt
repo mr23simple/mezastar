@@ -1,0 +1,19 @@
+name : Stonjourner
+jname : イシヘンジン
+tmname : Ishihengin
+type1 : Rock
+setno : 4
+tagno : 046
+energy : 88
+grade : 4
+type1 : Rock
+move : Rock Slide
+movetype : Rock
+hp : 127
+atk : 102
+def : 110
+spatk : 17
+spdef : 17
+spd : 59
+dex : Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.
+jdex : 1ねんに いちど きまった にちじに どこから ともなく あつまり わに なって ならぶ しゅうせいが ある。

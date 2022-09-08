@@ -1,0 +1,21 @@
+name : Snom
+jname : ユキハミ
+tmname : Yukihami
+type1 : Ice
+type2 : Bug
+setno : 3
+tagno : 048
+energy : 30
+grade : 2
+type1 : Ice
+type2 : Bug
+move : Powder Snow
+movetype : Ice
+hp : 50
+atk : 17
+def : 22
+spatk : 29
+spdef : 20
+spd : 14
+dex : It spits out thread imbued with a frigid sort of energy and uses it to tie its body to branches, disguising itself as an icicle while it sleeps.
+jdex : れいきの まざった いとを はく。 いとで からだを えだに まきつけ つららの ふりをして ねむるのだ。

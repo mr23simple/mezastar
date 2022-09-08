@@ -1,0 +1,23 @@
+name : Scizor
+jname : ハッサム
+tmname : Hassam
+star : Superstar
+type1 : Bug
+type2 : Steel
+setno : 2
+tagno : 010
+energy : 122
+grade : 6
+mega : Scizor
+type1 : Bug
+type2 : Steel
+move : X-Scissor
+movetype : Bug
+hp : 134
+atk : 140
+def : 109
+spatk : 62
+spdef : 88
+spd : 72
+dex : It smashes opponents with pincers hard as steel. It flaps its wings to regulate its body temperature.
+jdex : はがねの ように かたく おもい ハサミで あいてに たたきつぶす。 ハネを はばたかせて たいおんを ちょうせつする。

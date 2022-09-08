@@ -1,0 +1,21 @@
+name : Krookodile
+jname : ワルビアル
+tmname : Waruvial
+type1 : Ground
+type2 : Dark
+setno : 2-3
+tagno : 067
+energy : 104
+grade : 4
+type1 : Ground
+type2 : Dark
+move : Stomping Tantrum
+movetype : Ground
+hp : 134
+atk : 105
+def : 73
+spatk : 60
+spdef : 65
+spd : 84
+dex : It is known as the Bully of the Sands. Its mighty jaws can bite through heavy plates of iron with almost no effort at all.
+jdex : すなの ギャングとも よばれる。 きょうりょくな アゴで ぶあつい てっぱんも たやすく くいちぎる。

@@ -1,0 +1,21 @@
+name : Roselia
+jname : ロゼリア
+tmname : Roselia
+type1 : Grass
+type2 : Poison
+setno : 2-5
+tagno : 053
+energy : 76
+grade : 3
+type1 : Grass
+type2 : Poison
+move : Mega Drain
+movetype : Grass
+hp : 88
+atk : 51
+def : 40
+spatk : 83
+spdef : 67
+spd : 55
+dex : It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is.
+jdex : みぎてと ひだりてで ２しゅるいの どくを つかいわけて こうげきする。 かおりが つよいほど げんきだ。

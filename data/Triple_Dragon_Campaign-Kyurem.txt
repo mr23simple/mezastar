@@ -1,0 +1,23 @@
+name : Kyurem
+jname : キュレム
+tmname : Kyurem
+symbol : Legendary
+image : Kyurem P TripleDragonCampaign.png
+bimage : Kyurem P TripleDragonCampaign b.png
+size : 250px
+type1 : Dragon
+type2 : Ice
+setno : P
+energy : 104
+type1 : Dragon
+type2 : Ice
+move : Blizzard
+movetype : Ice
+hp : 129
+atk : 93
+def : 66
+spatk : 93
+spdef : 66
+spd : 69
+dex : It creates dreadfully cold air. Its body is always frozen as a result.
+jdex : すごい れいきを つくりだせる。 そのため つねに じぶんの からだも こおって しまっている。

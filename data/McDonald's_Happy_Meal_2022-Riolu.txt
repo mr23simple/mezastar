@@ -1,0 +1,23 @@
+name : Riolu
+jname : リオル
+tmname : Riolu
+image : Riolu P McDonaldsHappyMeal2022.png
+bimage : Riolu P McDonaldsHappyMeal2022 b.png
+size : 250px
+type1 : Fighting
+setno : P
+energy : 90
+miracle : yes
+type1 : Fighting
+move : Force Palm
+movetype : Fighting
+hp : 119
+atk : 90
+def : 53
+spatk : 47
+spdef : 53
+spd : 78
+tag : Darkrai
+tagms : 491
+tagmove : Dark Pulse
+tagmovetype : Dark

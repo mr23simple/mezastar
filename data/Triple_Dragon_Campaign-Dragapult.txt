@@ -1,0 +1,22 @@
+name : Dragapult
+jname : ドラパルト
+tmname : Dorapult
+image : Dragapult P TripleDragonCampaign.png
+bimage : Dragapult P TripleDragonCampaign b.png
+size : 250px
+type1 : Dragon
+type2 : Ghost
+setno : P
+energy : 96
+type1 : Dragon
+type2 : Ghost
+move : Dragon Darts
+movetype : Dragon
+hp : 103
+atk : 86
+def : 56
+spatk : 73
+spdef : 56
+spd : 101
+dex : When it isn't battling, it keeps Dreepy in the holes on its horns. Once a fight starts, it launches the Dreepy like supersonic missiles.
+jdex : ツノの あなに ドラメシヤを いれて くらす。 たたかいになると マッハの スピードで ドラメシヤを とばす。

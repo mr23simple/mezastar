@@ -1,0 +1,21 @@
+name : Mew
+jname : ミュウ
+tmname : Mew
+star : Superstar
+symbol : Mythical
+type1 : Psychic
+setno : 2
+tagno : 002
+energy : 142
+grade : 6
+type1 : Psychic
+move : Psychic
+movetype : Psychic
+hp : 166
+atk : 109
+def : 109
+spatk : 109
+spdef : 109
+spd : 109
+dex : Because it can use any move in this world, it is said to have the genes of all Pokémon.
+jdex : どんな わざでも つかえるので このせかい すべての ポケモンの いでんしを もっていると いわれる。

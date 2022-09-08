@@ -1,0 +1,23 @@
+name : Zarude
+jname : ザルード
+tmname : Zarude
+symbol : Mythical
+image : Zarude P Movie2020.png
+bimage : Zarude P Movie2020 b.png
+size : 250px
+type1 : Dark
+type2 : Grass
+setno : P
+energy : 100
+type1 : Dark
+type2 : Grass
+move : Power Whip
+movetype : Grass
+hp : 121
+atk : 91
+def : 80
+spatk : 55
+spdef : 73
+spd : 80
+dex : This Zarude left its pack to raise a human child. The cloth Zarude would wrap the child with has a comforting scent that calmed the child's crying.
+jdex : むれを はなれ にんげんの こどもを そだてる。 こどもが なきやむ においの ついた ぬのを まく。

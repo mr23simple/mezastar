@@ -1,0 +1,21 @@
+name : Litwick
+jname : ヒトモシ
+tmname : Hitomoshi
+type1 : Ghost
+type2 : Fire
+setno : 2-4
+tagno : 061
+energy : 40
+grade : 2
+type1 : Ghost
+type2 : Fire
+move : Astonish
+movetype : Ghost
+hp : 62
+atk : 20
+def : 33
+spatk : 38
+spdef : 33
+spd : 15
+dex : The younger the life this Pokémon absorbs, the brighter and eerier the flame on its head burns.
+jdex : すいとる いのちが わかければ わかいほど あたまの ほのおは おおきく あやしく もえあがる。

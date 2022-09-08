@@ -1,0 +1,19 @@
+name : Axew
+jname : キバゴ
+tmname : Kibago
+type1 : Dragon
+setno : 2-1
+tagno : 058
+energy : 44
+grade : 2
+type1 : Dragon
+move : Scratch
+movetype : Normal
+hp : 59
+atk : 50
+def : 36
+spatk : 20
+spdef : 25
+spd : 34
+dex : Its large tusks are fragile, but each time they grow back, they grow in harder and sturdier.
+jdex : おおきな キバは まだ もろいが おれても すぐに はえかわり そのたびに かたく じょうぶに なっていく。

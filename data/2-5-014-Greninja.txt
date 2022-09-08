@@ -1,0 +1,25 @@
+name : Greninja
+jname : ゲッコウガ
+tmname : Gekkouga
+star : Star
+type1 : Water
+type2 : Dark
+setno : 2-5
+tagno : 014
+energy : 134
+grade : 5
+zcrystal : Waterium
+type1 : Water
+type2 : Dark
+move : Water Shuriken
+movetype : Water
+zmove : Hydro Vortex
+zmovetype : Water
+hp : 144
+atk : 109
+def : 78
+spatk : 118
+spdef : 83
+spd : 139
+dex : This ninja-like Pokémon moves around quickly and hurls water throwing stars.
+jdex : すばやく うごきまわり みずの しゅりけんを とばす にんじゃのような ポケモンだ。

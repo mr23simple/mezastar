@@ -1,0 +1,21 @@
+name : Budew
+jname : スボミー
+tmname : Subomie
+type1 : Grass
+type2 : Poison
+setno : 2-5
+tagno : 052
+energy : 40
+grade : 2
+type1 : Grass
+type2 : Poison
+move : Absorb
+movetype : Grass
+hp : 56
+atk : 20
+def : 23
+spatk : 31
+spdef : 41
+spd : 33
+dex : The pollen it releases contains poison. If this Pokémon is raised on clean water, the poison's toxicity is increased.
+jdex : どくを ふくんだ かふんを まく。 きれいな みずで そだてるほど どくの せいぶんは たかまる。

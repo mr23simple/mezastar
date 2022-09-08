@@ -1,0 +1,19 @@
+name : Eelektrik
+jname : シビビール
+tmname : Shibibeel
+type1 : Electric
+setno : 3
+tagno : 054
+energy : 64
+grade : 3
+type1 : Electric
+move : Shock Wave
+movetype : Electric
+hp : 83
+atk : 60
+def : 49
+spatk : 53
+spdef : 49
+spd : 30
+dex : The circular patterns on its body emit electricity. It wraps itself around its prey, paralyzes it with electricity, and then chomps.
+jdex : からだの まるい もようから でんきを はなつ。 えものに まきつき でんきで しびれさせてから まるかじりする。

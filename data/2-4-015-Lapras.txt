@@ -1,0 +1,24 @@
+name : Lapras
+jname : ラプラス
+tmname : Laplace
+star : Star
+type1 : Water
+type2 : Ice
+setno : 2-4
+tagno : 015
+energy : 132
+grade : 5
+type1 : Water
+type2 : Ice
+move : Ice Beam
+movetype : Ice
+hp : 204
+atk : 96
+def : 91
+spatk : 96
+spdef : 107
+spd : 69
+tag : Leafeon
+tagms : 470
+tagmove : Leaf Blade
+tagmovetype : Grass

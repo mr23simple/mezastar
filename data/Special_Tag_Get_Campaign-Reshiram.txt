@@ -1,0 +1,24 @@
+name : Reshiram
+jname : レシラム
+tmname : Reshiram
+star : Star
+symbol : Legendary
+image : Reshiram P SpecialTagGetCampaign.png
+bimage : Reshiram P SpecialTagGetCampaign b.png
+size : 250px
+type1 : Dragon
+type2 : Fire
+setno : P
+energy : 136
+type1 : Dragon
+type2 : Fire
+move : Fusion Flare
+movetype : Fire
+hp : 142
+atk : 110
+def : 93
+spatk : 137
+spdef : 110
+spd : 84
+dex : The fire blown from its tail has the power to burn everything around it. It helps those who want to build a world of truth.
+jdex : しっぽから ほのおを ふきだし あらゆるものを やきつくす ちからを もつ。 しんじつの せかいを つずる ひとを たすける。

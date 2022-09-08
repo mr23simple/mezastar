@@ -1,0 +1,19 @@
+name : Dubwool
+jname : バイウールー
+tmname : Baiwooluu
+type1 : Normal
+setno : 2-1
+tagno : 045
+energy : 96
+grade : 4
+type1 : Normal
+move : Headbutt
+movetype : Normal
+hp : 110
+atk : 70
+def : 87
+spatk : 54
+spdef : 78
+spd : 77
+dex : Weave a carpet from its springy wool, and you end up with something closer to a trampoline. You'll start to bounce the moment you set foot on it.
+jdex : だんりょくの ある けで おった カーペットは トランポリンみたいで のれば ピョンピョン はねるのだ。

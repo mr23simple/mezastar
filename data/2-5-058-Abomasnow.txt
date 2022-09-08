@@ -1,0 +1,21 @@
+name : Abomasnow
+jname : ユキノオー
+tmname : Yukinooh
+type1 : Grass
+type2 : Ice
+setno : 2-5
+tagno : 058
+energy : 104
+grade : 4
+type1 : Grass
+type2 : Ice
+move : Ice Punch
+movetype : Ice
+hp : 136
+atk : 87
+def : 72
+spatk : 87
+spdef : 81
+spd : 59
+dex : This Pokémon is known to bring blizzards. A shake of its massive body is enough to cause whiteout conditions.
+jdex : ブリザードを まきおこす ポケモン。 おおきな からだを ゆすれば あたりいちめん すぐに まっしろだ。

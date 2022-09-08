@@ -1,0 +1,24 @@
+name : Zacian
+jname : ザシアン
+tmname : Zacian
+symbol : Legendary
+image : Zacian P SpecialTagGetCampaign.png
+bimage : Zacian P SpecialTagGetCampaign b.png
+size : 250px
+type1 : Fairy
+type2 : Steel
+setno : P
+energy : 108
+item : Rusted Sword
+type1 : Fairy
+type2 : Steel
+move : Behemoth Blade
+movetype : Steel
+hp : 103
+atk : 117
+def : 80
+spatk : 57
+spdef : 80
+spd : 102
+dex : Able to cut down anything with a single strike, it became known as the Fairy King's Sword, and it inspired awe in friend and foe alike.
+jdex : あらゆるものを きりすてるさまから ようせいおうのつるぎ と よばれ てきみかたに おそれあがめられた。

@@ -1,0 +1,19 @@
+name : Charmander
+jname : ヒトカゲ
+tmname : Hitokage
+type1 : Fire
+setno : 2-1
+tagno : 029
+energy : 44
+grade : 2
+type1 : Fire
+move : Ember
+movetype : Fire
+hp : 56
+atk : 32
+def : 27
+spatk : 36
+spdef : 31
+spd : 38
+dex : A flame burns on its tail from birth. It will die if the flame disappears.
+jdex : しっぽの ほのおは うまれた ときから ともっている。 ほのおが きえると しんでしまう。

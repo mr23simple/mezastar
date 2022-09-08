@@ -1,0 +1,25 @@
+name : Mimikyu
+jname : ミミッキュ
+tmname : Mimikkyu
+star : Superstar
+type1 : Ghost
+type2 : Fairy
+setno : 2
+tagno : 006
+energy : 126
+grade : 6
+zcrystal : Ghostium
+type1 : Ghost
+type2 : Fairy
+move : Shadow Claw
+movetype : Ghost
+zmove : Never-Ending Nightmare
+zmovetype : Ghost
+hp : 119
+atk : 98
+def : 88
+spatk : 55
+spdef : 114
+spd : 104
+dex : A lonely Pokémon. It conceals its terrifying appearance beneath an old rag so it can get closer to people and other Pokémon.
+jdex : さびしがりやの ポケモン。 おそろしい すがたを ボロぬので かくして にんげんや ほかの ポケモンに ちかづく。

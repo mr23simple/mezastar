@@ -1,0 +1,19 @@
+name : Magmar
+jname : ブーバー
+tmname : Boober
+type1 : Fire
+setno : 2-1
+tagno : 062
+energy : 82
+grade : 3
+type1 : Fire
+move : Flame Wheel
+movetype : Fire
+hp : 90
+atk : 71
+def : 44
+spatk : 75
+spdef : 64
+spd : 70
+dex : Its body temperature is nearly 2,200 degrees Fahrenheit. If it is struck or hurt in battle, it soaks its body in lava to heal.
+jdex : たいおんが １２００ども ある。 つかれたり たたかいで キズついた ときは ようがんに つかって からだを いやす。

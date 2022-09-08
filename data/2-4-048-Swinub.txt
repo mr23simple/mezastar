@@ -1,0 +1,21 @@
+name : Swinub
+jname : ウリムー
+tmname : Urimoo
+type1 : Ice
+type2 : Ground
+setno : 2-4
+tagno : 048
+energy : 38
+grade : 2
+type1 : Ice
+type2 : Ground
+move : Powder Snow
+movetype : Ice
+hp : 62
+atk : 31
+def : 25
+spatk : 20
+spdef : 20
+spd : 31
+dex : It rubs its snout on the ground to find and dig up food. It sometimes discovers hot springs.
+jdex : エサを さがすため はなを こすりあわせ じめんを ほっている。 たまに おんせんを ほりあてる。

@@ -1,0 +1,21 @@
+name : Noivern
+jname : オンバーン
+tmname : Onvern
+type1 : Flying
+type2 : Dragon
+setno : 2-1
+tagno : 065
+energy : 102
+grade : 4
+type1 : Flying
+type2 : Dragon
+move : Dragon Claw
+movetype : Dragon
+hp : 120
+atk : 62
+def : 70
+spatk : 84
+spdef : 70
+spd : 105
+dex : Hidden in darkness, it attacks prey. The ultrasonic waves it emits from its ears can break large boulders into pieces.
+jdex : やみに かくれて えものを おそう。 みみから はなたれる ちょうおんぱは おおきな いわも こなごなに くだく。

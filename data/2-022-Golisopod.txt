@@ -1,0 +1,22 @@
+name : Golisopod
+jname : グソクムシャ
+tmname : Gusokumusha
+star : Star
+type1 : Bug
+type2 : Water
+setno : 2
+tagno : 022
+energy : 114
+grade : 5
+type1 : Bug
+type2 : Water
+move : First Impression
+movetype : Bug
+hp : 125
+atk : 120
+def : 133
+spatk : 60
+spdef : 87
+spd : 41
+dex : It slashes opponents with its sharp flexible claws. The shell covering its body is as hard as diamond.
+jdex : のびちぢみする するどい ツメで あいてを きりさく。 からだを おおう カラは ダイヤモンドと おなじくらい かたい。

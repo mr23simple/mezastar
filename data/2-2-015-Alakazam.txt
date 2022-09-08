@@ -1,0 +1,22 @@
+name : Alakazam
+jname : フーディン
+tmname : Foodin
+star : Star
+type1 : Psychic
+setno : 2-2
+tagno : 015
+energy : 120
+grade : 5
+type1 : Psychic
+move : Psychic
+movetype : Psychic
+hp : 119
+atk : 57
+def : 51
+spatk : 145
+spdef : 103
+spd : 129
+tag : Galarian Rapidash
+tagms : 078G
+tagmove : Psycho Cut
+tagmovetype : Psychic

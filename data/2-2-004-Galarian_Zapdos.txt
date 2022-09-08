@@ -1,0 +1,24 @@
+name : Galarian Zapdos
+jname : ガラルサンダー
+tmname : Galarian Thunder
+link : Zapdos
+star : Superstar
+symbol : Legendary
+type1 : Fighting
+type2 : Flying
+setno : 2-2
+tagno : 004
+energy : 152
+grade : 6
+type1 : Fighting
+type2 : Flying
+move : Thunderous Kick
+movetype : Fighting
+hp : 172
+atk : 150
+def : 109
+spatk : 103
+spdef : 109
+spd : 121
+dex : When its feathers rub together, they produce a crackling sound like the zapping of electricity. It supposedly runs through the mountains at over 180 mph.
+jdex : うもうが こすれると バチバチと でんきの ような おとがする。 じそく ３００キロで やまを かけると いわれる。

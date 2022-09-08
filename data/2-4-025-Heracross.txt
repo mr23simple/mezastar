@@ -1,0 +1,23 @@
+name : Heracross
+jname : ヘラクロス
+tmname : Heracros
+star : Star
+type1 : Bug
+type2 : Fighting
+setno : 2-4
+tagno : 025
+energy : 126
+grade : 5
+mega : Heracross
+type1 : Bug
+type2 : Fighting
+move : Megahorn
+movetype : Bug
+hp : 150
+atk : 140
+def : 86
+spatk : 48
+spdef : 107
+spd : 96
+dex : Heracross loves sweet sap and will go looking through forests for it. The Pokémon uses its two antennae to pick up scents as it searches.
+jdex : あまい じゅえきが だいこうぶつ。 ２ほんの しょっかくで においを たよりに もりを さがしまわる。

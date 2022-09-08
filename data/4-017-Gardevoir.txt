@@ -1,0 +1,23 @@
+name : Gardevoir
+jname : サーナイト
+tmname : Sirnight
+star : Star
+type1 : Psychic
+type2 : Fairy
+setno : 4
+tagno : 017
+energy : 116
+grade : 5
+mega : Gardevoir
+type1 : Psychic
+type2 : Fairy
+move : Dazzling Gleam
+movetype : Fairy
+hp : 123
+atk : 67
+def : 67
+spatk : 125
+spdef : 115
+spd : 81
+dex : It protects people that it believes in by using the full force of its psychokinetic power to create a small black hole.
+jdex : しんじあっている ひとを まもるとき ぜんりょくで サイコパワーを つかい ちいさな ブラックホールを つくる。
