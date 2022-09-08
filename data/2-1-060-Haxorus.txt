@@ -1,0 +1,19 @@
+name : Haxorus
+jname : オノノクス
+tmname : Ononokus
+type1 : Dragon
+setno : 2-1
+tagno : 060
+energy : 104
+grade : 4
+type1 : Dragon
+move : Dual Chop
+movetype : Dragon
+hp : 113
+atk : 125
+def : 78
+spatk : 54
+spdef : 62
+spd : 84
+dex : While usually kindhearted, it can be terrifying if angered. Tusks that can slice through steel beams are how Haxorus deals with its adversaries.
+jdex : おんこうな せいしつだが おこると こわい。 てっこつをも きりさく じまんの キバを おみまい するぞ。

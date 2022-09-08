@@ -1,0 +1,19 @@
+name : Copperajah
+jname : ダイオウドウ
+tmname : Daioudou
+type1 : Steel
+setno : 2-1
+tagno : 055
+energy : 96
+grade : 4
+type1 : Steel
+move : Strength
+movetype : Normal
+hp : 151
+atk : 111
+def : 61
+spatk : 70
+spdef : 61
+spd : 29
+dex : They came over from another region long ago and worked together with humans. Their green skin is resistant to water.
+jdex : みどりのひふは みずにも つよい。 むかし ほかのとちから やってきて ひとと いっしょに はたらいた。

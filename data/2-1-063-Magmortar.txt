@@ -1,0 +1,19 @@
+name : Magmortar
+jname : ブーバーン
+tmname : Booburn
+type1 : Fire
+setno : 2-1
+tagno : 063
+energy : 104
+grade : 4
+type1 : Fire
+move : Fire Punch
+movetype : Fire
+hp : 112
+atk : 82
+def : 59
+spatk : 107
+spdef : 82
+spd : 73
+dex : It lives in volcanic craters. It blasts fireballs of over 3,600 degrees Fahrenheit from the ends of its arms.
+jdex : かざんの かこうに すんでいる。 うでの さきから せっし２０００どの ひのたまを うちだす。

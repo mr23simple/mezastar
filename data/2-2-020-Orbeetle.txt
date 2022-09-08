@@ -1,0 +1,22 @@
+name : Orbeetle
+jname : イオルブ
+tmname : Eolb
+star : Star
+type1 : Bug
+type2 : Psychic
+setno : 2-2
+tagno : 020
+energy : 122
+grade : 5
+type1 : Bug
+type2 : Psychic
+move : Psychic
+movetype : Psychic
+hp : 124
+atk : 51
+def : 119
+spatk : 88
+spdef : 129
+spd : 98
+dex : It can use its immense psychic power to observe and study what's around it—and what's around it can include things over six miles away.
+jdex : きょうりょくな サイコパワーで まわりの ようすを しらべている。 その はんいは しゅうい １０キロにも たっする。

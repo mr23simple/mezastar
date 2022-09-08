@@ -1,0 +1,22 @@
+name : Galarian Stunfisk
+jname : ガラルマッギョ
+tmname : Galarian Maggyo
+link : Stunfisk
+type1 : Ground
+type2 : Steel
+setno : 2-1
+tagno : 057
+energy : 80
+grade : 3
+type1 : Ground
+type2 : Steel
+move : Metal Claw
+movetype : Steel
+hp : 121
+atk : 61
+def : 74
+spatk : 51
+spdef : 63
+spd : 27
+dex : Its conspicuous lips lure prey in as it lies in wait in the mud. When prey gets close, Stunfisk clamps its jagged steel fins down on them.
+jdex : どろに かくれて めだつ くちびるで えものを おびきよせる。 ギザギザの はがねの ヒレで がっちり はさむ。

@@ -1,0 +1,19 @@
+name : Squirtle
+jname : ゼニガメ
+tmname : Zenigame
+type1 : Water
+setno : 2-1
+tagno : 032
+energy : 44
+grade : 2
+type1 : Water
+move : Water Gun
+movetype : Water
+hp : 58
+atk : 29
+def : 38
+spatk : 31
+spdef : 38
+spd : 27
+dex : The shell on its back is still soft not long after birth. It becomes harder after a short while.
+jdex : うまれて まもない ころ せなかの こうらは まだ やわらかい。 しばらく たつと かたくなってくる。

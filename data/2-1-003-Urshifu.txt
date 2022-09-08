@@ -1,0 +1,24 @@
+name : Urshifu
+jname : ウーラオス
+tmname : Wulaosu
+star : Superstar
+symbol : Legendary
+type1 : Fighting
+type2 : Dark
+setno : 2-1
+tagno : 003
+energy : 144
+grade : 6
+ : 
+type1 : Fighting
+type2 : Dark
+move : Wicked Blow
+movetype : Dark
+hp : 181
+atk : 153
+def : 119
+spatk : 76
+spdef : 73
+spd : 115
+dex : This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.
+jdex : いちげきひっさつが しんじょう。 あいての ふところに とびこみ きたえられた こぶしを たたきこむ。

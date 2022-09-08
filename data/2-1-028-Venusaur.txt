@@ -1,0 +1,22 @@
+name : Venusaur
+jname : フシギバナ
+tmname : Fushigibana
+type1 : Grass
+type2 : Poison
+setno : 2-1
+tagno : 028
+energy : 102
+grade : 4
+ : 
+type1 : Grass
+type2 : Poison
+move : Giga Drain
+movetype : Grass
+hp : 116
+atk : 72
+def : 73
+spatk : 87
+spdef : 87
+spd : 70
+dex : The large plant on its back can convert sunlight into energy.
+jdex : せなかの おおきな はなで たいようの ひかりを エネルギーに かえることが できる。

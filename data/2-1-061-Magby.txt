@@ -1,0 +1,19 @@
+name : Magby
+jname : ブビィ
+tmname : Buby
+type1 : Fire
+setno : 2-1
+tagno : 061
+energy : 50
+grade : 2
+type1 : Fire
+move : Ember
+movetype : Fire
+hp : 59
+atk : 44
+def : 24
+spatk : 41
+spdef : 33
+spd : 48
+dex : Its body temperature is over 1,100 degrees Fahrenheit. If it spouts yellow flames from its mouth, it is in good health. If it is fatigued, black smoke will be mixed in with the flames.
+jdex : たいおんが ６００ども ある。 くちから ふく ほのおが きいろい ときは げんきだが つかれると くろい けむりが まざる。

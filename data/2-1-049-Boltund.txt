@@ -1,0 +1,19 @@
+name : Boltund
+jname : パルスワン
+tmname : Pulsewan
+type1 : Electric
+setno : 2-1
+tagno : 049
+energy : 96
+grade : 4
+type1 : Electric
+move : Volt Switch
+movetype : Electric
+hp : 107
+atk : 78
+def : 54
+spatk : 78
+spdef : 54
+spd : 104
+dex : This Pokémon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.
+jdex : でんきを つくって あしに おくり はしりを アシスト。 みっかみばん やすまず はしれるのだ。

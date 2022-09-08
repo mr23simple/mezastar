@@ -1,0 +1,24 @@
+name : Salamence
+jname : ボーマンダ
+tmname : Bohmander
+star : Superstar
+type1 : Dragon
+type2 : Flying
+setno : 2-1
+tagno : 010
+energy : 154
+grade : 6
+mega : Salamence
+ : 
+type1 : Dragon
+type2 : Flying
+move : Dragon Rush
+movetype : Dragon
+hp : 175
+atk : 158
+def : 96
+spatk : 130
+spdef : 96
+spd : 119
+dex : Its cellular structure changed, and its long-sought wings grew out. It flies around the sky while spouting flames.
+jdex : からだの さいぼうが へんかして ねんがんの つばさが はえてきた。 ほのおを はきながら そらを とびまわるぞ。

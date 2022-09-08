@@ -1,0 +1,22 @@
+name : Galarian Slowbro
+jname : ガラルヤドラン
+tmname : Galarian Yadoran
+link : Slowbro
+type1 : Poison
+type2 : Psychic
+setno : 2-2
+tagno : 044
+energy : 98
+grade : 4
+type1 : Poison
+type2 : Psychic
+move : Confusion
+movetype : Psychic
+hp : 131
+atk : 89
+def : 84
+spatk : 89
+spdef : 63
+spd : 30
+dex : A Shellder bite set off a reaction with the spices inside its body, causing it to become a Poison-type.
+jdex : シェルダーに かみつかれた しげきと たいないの スパイスが はんのうしたため どくタイプに なった。

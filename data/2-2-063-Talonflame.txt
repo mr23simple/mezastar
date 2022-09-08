@@ -1,0 +1,22 @@
+name : Talonflame
+jname : ファイアロー
+tmname : Fiarrow
+type1 : Fire
+type2 : Flying
+setno : 2-2
+tagno : 063
+energy : 98
+grade : 4
+ : 
+type1 : Fire
+type2 : Flying
+move : Aerial Ace
+movetype : Flying
+hp : 117
+atk : 73
+def : 64
+spatk : 67
+spdef : 62
+spd : 110
+dex : Embers fly out from its body as the tension of a heated battle increases.
+jdex : たたかいが はくねつして テンションが あがってくると からだから ひのこを だして とぶ。

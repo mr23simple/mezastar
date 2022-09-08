@@ -1,0 +1,21 @@
+name : Sceptile
+jname : ジュカイン
+tmname : Jukain
+star : Star
+type1 : Grass
+setno : 2-2
+tagno : 011
+energy : 128
+grade : 5
+mega : Sceptile
+type1 : Grass
+move : Leaf Storm
+movetype : Grass
+hp : 134
+atk : 93
+def : 72
+spatk : 114
+spdef : 93
+spd : 129
+dex : The leaves on its arms are very sharp-edged. It is said that the seeds growing on its back are packed with nutrients that revitalize trees.
+jdex : うでに はえた はっぱは するどい きれあじ。 せなかの たねには じゅもくを げんきにする えいようが つまっていると いわれる。

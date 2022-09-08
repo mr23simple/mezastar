@@ -1,0 +1,24 @@
+name : Lucario
+jname : ルカリオ
+tmname : Lucario
+star : Star
+type1 : Fighting
+type2 : Steel
+setno : 2-1
+tagno : 011
+energy : 124
+grade : 5
+type1 : Fighting
+type2 : Steel
+move : Aura Sphere
+movetype : Fighting
+hp : 132
+atk : 117
+def : 76
+spatk : 122
+spdef : 76
+spd : 96
+tag : Gengar
+tagms : 094
+tagmove : Shadow Ball
+tagmovetype : Ghost

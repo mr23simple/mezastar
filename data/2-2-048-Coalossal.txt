@@ -1,0 +1,22 @@
+name : Coalossal
+jname : セキタンザン
+tmname : Sekitanzan
+type1 : Rock
+type2 : Fire
+setno : 2-2
+tagno : 048
+energy : 100
+grade : 4
+ : 
+type1 : Rock
+type2 : Fire
+move : Ancient Power
+movetype : Rock
+hp : 144
+atk : 72
+def : 105
+spatk : 72
+spdef : 80
+spd : 30
+dex : It's usually peaceful, but the vandalism of mines enrages it. Offenders will be incinerated with flames that reach 2,700 degrees Fahrenheit.
+jdex : ふだんは おだやかだが にんげんが こうざんを あらすと いかりくるい １５００どの ほのおで やきつくす。

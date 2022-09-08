@@ -1,0 +1,21 @@
+name : Dusknoir
+jname : ヨノワール
+tmname : Yonoir
+star : Star
+type1 : Ghost
+setno : 2-2
+tagno : 024
+energy : 126
+grade : 5
+ : 
+type1 : Ghost
+move : Shadow Ball
+movetype : Ghost
+hp : 108
+atk : 109
+def : 145
+spatk : 72
+spdef : 145
+spd : 51
+dex : It is said to take lost spirits into its body and guide them home.
+jdex : いきばのない たましいを からだの なかに とりこんで あのよに つれていくと いわれている。

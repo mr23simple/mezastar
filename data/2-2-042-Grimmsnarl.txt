@@ -1,0 +1,22 @@
+name : Grimmsnarl
+jname : オーロンゲ
+tmname : Ohlonge
+type1 : Dark
+type2 : Fairy
+setno : 2-2
+tagno : 042
+energy : 100
+grade : 4
+ : 
+type1 : Dark
+type2 : Fairy
+move : Sucker Punch
+movetype : Dark
+hp : 131
+atk : 105
+def : 59
+spatk : 84
+spdef : 68
+spd : 55
+dex : With the hair wrapped around its body helping to enhance its muscles, this Pokémon can overwhelm even Machamp.
+jdex : かみのけを ぜんしんに まきつけると きんりょくが アップ。 カイリキーを ねじふせる パワーを はっきする。

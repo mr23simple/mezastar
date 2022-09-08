@@ -1,0 +1,26 @@
+name : Dragonite
+jname : カイリュー
+tmname : Kairyu
+star : Superstar
+type1 : Dragon
+type2 : Flying
+setno : 2-1
+tagno : 009
+energy : 154
+grade : 6
+zcrystal : Dragonium
+ : 
+type1 : Dragon
+type2 : Flying
+move : Dragon Rush
+movetype : Dragon
+zmove : Devastating Drake
+zmovetype : Dragon
+hp : 170
+atk : 157
+def : 113
+spatk : 119
+spdef : 119
+spd : 96
+dex : It is called the "guardian of the sea". It flies over the vast seas and rescues drowning people.
+jdex : うみのけしんと よばれる。 ひろい うみを とびまわって おぼれているひとを たすける。

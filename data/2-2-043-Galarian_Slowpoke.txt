@@ -1,0 +1,21 @@
+name : Galarian Slowpoke
+jname : ガラルヤドン
+tmname : Galarian Yadon
+link :  Slowpoke
+type1 : Psychic
+setno : 2-2
+tagno : 043
+energy : 44
+grade : 2
+ : 
+type1 : Psychic
+move : Acid
+movetype : Poison
+hp : 82
+atk : 38
+def : 38
+spatk : 25
+spdef : 25
+spd : 12
+dex : On occasion, its expression will abruptly sharpen, and then it will zone out again. Its tail has a spicy flavor.
+jdex : たまに かおつきが ピリッと ひきしまるが すぐに ボーッとした かおに もどってしまう。 しっぽの あじわいは スパイシー。

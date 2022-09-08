@@ -1,0 +1,22 @@
+name : Woobat
+jname : コロモリ
+tmname : Koromori
+type1 : Psychic
+type2 : Flying
+setno : 2-2
+tagno : 056
+energy : 46
+grade : 2
+ : 
+type1 : Psychic
+type2 : Flying
+move : Confusion
+movetype : Psychic
+hp : 69
+atk : 28
+def : 27
+spatk : 33
+spdef : 27
+spd : 42
+dex : Suction from its nostrils enables it to stick to cave walls during sleep. It leaves a heart-shaped mark behind.
+jdex : はなの あなで どうくつの かべに すいついて ねむる。 すいついた ところには ハートがたの あとが のこる。

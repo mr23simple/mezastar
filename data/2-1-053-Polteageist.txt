@@ -1,0 +1,19 @@
+name : Polteageist
+jname : ポットデス
+tmname : Potdeath
+type1 : Ghost
+setno : 2-1
+tagno : 053
+energy : 98
+grade : 4
+type1 : Ghost
+move : Hex
+movetype : Ghost
+hp : 100
+atk : 58
+def : 58
+spatk : 114
+spdef : 98
+spd : 62
+dex : This species lives in antique teapots. Most pots are forgeries, but on rare occasions, an authentic work is found.
+jdex : アンティークの ポットに すみつく。 ほとんどが がんさくだが ごくまれに しんさくが みつかる ことも。

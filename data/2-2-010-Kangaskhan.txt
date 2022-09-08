@@ -1,0 +1,21 @@
+name : Kangaskhan
+jname : ガルーラ
+tmname : Garura
+star : Superstar
+type1 : Normal
+setno : 2-2
+tagno : 010
+energy : 132
+grade : 6
+mega : Kangaskhan
+type1 : Normal
+move : Mega Punch
+movetype : Normal
+hp : 189
+atk : 115
+def : 97
+spatk : 51
+spdef : 97
+spd : 109
+dex : Kangaskhan's young are raised in the pouch on its stomach, and become independent at 3 years old.
+jdex : ガルーラの こどもは おなかの ふくろで そだてられ ３ねんほどで おやばなれする。

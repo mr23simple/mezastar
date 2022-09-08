@@ -1,0 +1,19 @@
+name : Barraskewda
+jname : カマスジョー
+tmname : Kamasujaw
+type1 : Water
+setno : 2-1
+tagno : 051
+energy : 96
+grade : 4
+type1 : Water
+move : Dive
+movetype : Water
+hp : 101
+atk : 105
+def : 54
+spatk : 54
+spdef : 46
+spd : 116
+dex : It has a jaw that's as sharp as a spear and as strong as steel. Apparently its flesh is surprisingly tasty, too.
+jdex : やりの ように とがった あごは はがねの かたさ。 その みは おどろくほど おいしい らしい。

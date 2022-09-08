@@ -1,0 +1,19 @@
+name : Duskull
+jname : ヨマワル
+tmname : Yomawaru
+type1 : Ghost
+setno : 2-2
+tagno : 067
+energy : 42
+grade : 2
+type1 : Ghost
+move : Astonish
+movetype : Ghost
+hp : 46
+atk : 25
+def : 51
+spatk : 20
+spdef : 51
+spd : 18
+dex : It has the ability to slip through thick walls. It doggedly pursues prey, but will abandon the chase at sunrise.
+jdex : ぶあつい カベも とおりぬける ことが できる。 どこまでも えものを おいつづけるが あさひが のぼると あきらめる。

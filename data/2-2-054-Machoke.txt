@@ -1,0 +1,19 @@
+name : Machoke
+jname : ゴーリキー
+tmname : Goriky
+type1 : Fighting
+setno : 2-2
+tagno : 054
+energy : 72
+grade : 3
+type1 : Fighting
+move : Vital Throw
+movetype : Fighting
+hp : 103
+atk : 77
+def : 55
+spatk : 41
+spdef : 48
+spd : 37
+dex : It happily carries heavy cargo to toughen up. It willingly does hard work for people.
+jdex : からだを きたえる ため よろこんで おもいにもつを はこぶので ひとの かわりに ちからしごとを する。

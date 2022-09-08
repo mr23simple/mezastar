@@ -1,0 +1,19 @@
+name : Grapploct
+jname : オトスパス
+tmname : Otosupus
+type1 : Fighting
+setno : 2-2
+tagno : 039
+energy : 96
+grade : 4
+type1 : Fighting
+move : Brick Break
+movetype : Fighting
+hp : 119
+atk : 104
+def : 80
+spatk : 63
+spdef : 72
+spd : 40
+dex : Its body is made up of nothing but muscle. It emerges onto land to seek out opponents and returns to the sea once the battle is over.
+jdex : ぜんしんが きんにくの かたまり。 たいせんあいてを もとめて りくに あがり たたかいおえると うみに かえってゆく。

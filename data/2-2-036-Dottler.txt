@@ -1,0 +1,22 @@
+name : Dottler
+jname : レドームシ
+tmname : Redomushi
+type1 : Bug
+type2 : Psychic
+setno : 2-2
+tagno : 036
+energy : 62
+grade : 3
+ : 
+type1 : Bug
+type2 : Psychic
+move : Confusion
+movetype : Psychic
+hp : 82
+atk : 30
+def : 62
+spatk : 41
+spdef : 69
+spd : 26
+dex : It barely moves as it grows inside its shell. It uses its psychic powers to monitor the outside world.
+jdex : ほとんど うごかないが からの なかで せいちょうちゅう。 サイコパワーで そとの ようすを うかがっている。

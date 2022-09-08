@@ -1,0 +1,22 @@
+name : Togetic
+jname : トゲチック
+tmname : Togechick
+type1 : Fairy
+type2 : Flying
+setno : 2-2
+tagno : 065
+energy : 72
+grade : 3
+ : 
+type1 : Fairy
+type2 : Flying
+move : Draining Kiss
+movetype : Fairy
+hp : 85
+atk : 33
+def : 66
+spatk : 62
+spdef : 80
+spd : 33
+dex : It can float in midair without moving its wings. It is said to appear before kindhearted people and share its happiness with them.
+jdex : はねを うごかさずに そらに うくことが できる。 こころの やさしい ひとの もとに あらわれ しあわせを わけあたえると いう。

@@ -1,70 +1,70 @@
-{{MezastarExpansionList/entry|4-001|{{OBP|Eternatus|4-001}}|Poison|Dragon|6}}
-{{MezastarExpansionList/entry|4-002|{{OBP|Eternatus|4-002}}|Poison|Dragon|6}}
-{{MezastarExpansionList/entry|4-003|{{OBP|Xerneas|4-003}}|Fairy||6}}
-{{MezastarExpansionList/entry|4-004|{{OBP|Yveltal|4-004}}|Dark|Flying|6}}
-{{MezastarExpansionList/entry|4-005|{{OBP|Giratina|4-005}}|Ghost|Dragon|6}}
-{{MezastarExpansionList/entry|4-006|{{OBP|Calyrex|4-006}}|Psychic|Ice|6}}
-{{MezastarExpansionList/entry|4-007|{{OBP|Calyrex|4-007}}|Psychic|Ghost|6}}
-{{MezastarExpansionList/entry|4-008|{{OBP|Grimmsnarl|4-008}}|Dark|Fairy|6}}
-{{MezastarExpansionList/entry|4-009|{{OBP|Dragapult|4-009}}|Dragon|Ghost|6}}
-{{MezastarExpansionList/entry|4-010|{{OBP|Lycanroc|4-010}}|Rock||6}}
-{{MezastarExpansionList/entry|4-011|{{OBP|Tyranitar|4-011}}|Rock|Dark|5}}
-{{MezastarExpansionList/entry|4-012|{{OBP|Metagross|4-012}}|Psychic|Steel|5}}
-{{MezastarExpansionList/entry|4-013|{{OBP|Venusaur|4-013}}|Grass|Poison|5}}
-{{MezastarExpansionList/entry|4-014|{{OBP|Charizard|4-014}}|Fire|Flying|5}}
-{{MezastarExpansionList/entry|4-015|{{OBP|Blastoise|4-015}}|Water||5}}
-{{MezastarExpansionList/entry|4-016|{{OBP|Lucario|4-016}}|Fighting|Steel|5}}
-{{MezastarExpansionList/entry|4-017|{{OBP|Gardevoir|4-017}}|Psychic|Fairy|5}}
-{{MezastarExpansionList/entry|4-018|{{OBP|Alcremie|4-018}}|Fairy||5}}
-{{MezastarExpansionList/entry|4-019|{{OBP|Flapple|4-019}}|Grass|Dragon|5}}
-{{MezastarExpansionList/entry|4-020|{{OBP|Appletun|4-020}}|Grass|Dragon|5}}
-{{MezastarExpansionList/entry|4-021|{{OBP|Gengar|4-021}}|Ghost|Poison|5}}
-{{MezastarExpansionList/entry|4-022|{{OBP|Krookodile|4-022}}|Ground|Dark|5}}
-{{MezastarExpansionList/entry|4-023|{{OBP|Sylveon|4-023}}|Fairy||5}}
-{{MezastarExpansionList/entry|4-024|{{OBP|Mamoswine|4-024}}|Ice|Ground|5}}
-{{MezastarExpansionList/entry|4-025|{{OBP|Marshadow|4-025}}|Fighting|Ghost|5}}
-{{MezastarExpansionList/entry|4-026|{{OBP|Rowlet|4-026}}|Grass|Flying|2}}
-{{MezastarExpansionList/entry|4-027|{{OBP|Dartrix|4-027}}|Grass|Flying|3}}
-{{MezastarExpansionList/entry|4-028|{{OBP|Decidueye|4-028}}|Grass|Ghost|4}}
-{{MezastarExpansionList/entry|4-029|{{OBP|Litten|4-029}}|Fire||2}}
-{{MezastarExpansionList/entry|4-030|{{OBP|Torracat|4-030}}|Fire||3}}
-{{MezastarExpansionList/entry|4-031|{{OBP|Incineroar|4-031}}|Fire|Dark|4}}
-{{MezastarExpansionList/entry|4-032|{{OBP|Popplio|4-032}}|Water||2}}
-{{MezastarExpansionList/entry|4-033|{{OBP|Brionne|4-033}}|Water||3}}
-{{MezastarExpansionList/entry|4-034|{{OBP|Primarina|4-034}}|Water|Fairy|4}}
-{{MezastarExpansionList/entry|4-035|{{OBP|Koffing|4-035}}|Poison||2}}
-{{MezastarExpansionList/entry|4-036|{{OBP|Galarian Weezing|4-036}}|Poison|Fairy|3}}
-{{MezastarExpansionList/entry|4-037|{{OBP|Galarian Meowth|4-037}}|Steel||2}}
-{{MezastarExpansionList/entry|4-038|{{OBP|Perrserker|4-038}}|Steel||3}}
-{{MezastarExpansionList/entry|4-039|{{OBP|Milcery|4-039}}|Fairy||2}}
-{{MezastarExpansionList/entry|4-040|{{OBP|Alcremie|4-040}}|Fairy||4}}
-{{MezastarExpansionList/entry|4-041|{{OBP|Applin|4-041}}|Grass|Dragon|2}}
-{{MezastarExpansionList/entry|4-042|{{OBP|Flapple|4-042}}|Grass|Dragon|4}}
-{{MezastarExpansionList/entry|4-043|{{OBP|Appletun|4-043}}|Grass|Dragon|4}}
-{{MezastarExpansionList/entry|4-044|{{OBP|Silicobra|4-044}}|Ground||2}}
-{{MezastarExpansionList/entry|4-045|{{OBP|Sandaconda|4-045}}|Ground||4}}
-{{MezastarExpansionList/entry|4-046|{{OBP|Stonjourner|4-046}}|Rock||4}}
-{{MezastarExpansionList/entry|4-047|{{OBP|Ralts|4-047}}|Psychic|Fairy|2}}
-{{MezastarExpansionList/entry|4-048|{{OBP|Kirlia|4-048}}|Psychic|Fairy|3}}
-{{MezastarExpansionList/entry|4-049|{{OBP|Gardevoir|4-049}}|Psychic|Fairy|4}}
-{{MezastarExpansionList/entry|4-050|{{OBP|Trapinch|4-050}}|Ground||2}}
-{{MezastarExpansionList/entry|4-051|{{OBP|Vibrava|4-051}}|Ground|Dragon|3}}
-{{MezastarExpansionList/entry|4-052|{{OBP|Flygon|4-052}}|Ground|Dragon|4}}
-{{MezastarExpansionList/entry|4-053|{{OBP|Gastly|4-053}}|Ghost|Poison|2}}
-{{MezastarExpansionList/entry|4-054|{{OBP|Haunter|4-054}}|Ghost|Poison|3}}
-{{MezastarExpansionList/entry|4-055|{{OBP|Gengar|4-055}}|Ghost|Poison|4}}
-{{MezastarExpansionList/entry|4-056|{{OBP|Rhyhorn|4-056}}|Ground|Rock|2}}
-{{MezastarExpansionList/entry|4-057|{{OBP|Rhydon|4-057}}|Ground|Rock|3}}
-{{MezastarExpansionList/entry|4-058|{{OBP|Rhyperior|4-058}}|Ground|Rock|4}}
-{{MezastarExpansionList/entry|4-059|{{OBP|Alolan Grimer|4-059}}|Poison|Dark|2}}
-{{MezastarExpansionList/entry|4-060|{{OBP|Alolan Muk|4-060}}|Poison|Dark|4}}
-{{MezastarExpansionList/entry|4-061|{{OBP|Riolu|4-061}}|Fighting||3}}
-{{MezastarExpansionList/entry|4-062|{{OBP|Lucario|4-062}}|Fighting|Steel|4}}
-{{MezastarExpansionList/entry|4-063|{{OBP|Stufful|4-063}}|Normal|Fighting|3}}
-{{MezastarExpansionList/entry|4-064|{{OBP|Bewear|4-064}}|Normal|Fighting|4}}
-{{MezastarExpansionList/entry|4-065|{{OBP|Alolan Diglett|4-065}}|Ground|Steel|2}}
-{{MezastarExpansionList/entry|4-066|{{OBP|Alolan Dugtrio|4-066}}|Ground|Steel|3}}
-{{MezastarExpansionList/entry|4-067|{{OBP|Mareanie|4-067}}|Poison|Water|3}}
-{{MezastarExpansionList/entry|4-068|{{OBP|Toxapex|4-068}}|Poison|Water|4}}
-{{MezastarExpansionList/entry|4-069|{{OBP|Sylveon|4-069}}|Fairy||4}}
-{{MezastarExpansionList/entry|4-070|{{OBP|Onix|4-070}}|Rock|Ground|3}}
+{{MezastarExpansionList/entry|2-2-001|{{OBP|Kyurem|2-2-001}}|Dragon|Ice|6}}
+{{MezastarExpansionList/entry|2-2-002|{{OBP|Kyurem|2-2-002}}|Dragon|Ice|6}}
+{{MezastarExpansionList/entry|2-2-003|{{OBP|Galarian Articuno|2-2-003}}|Psychic|Flying|6}}
+{{MezastarExpansionList/entry|2-2-004|{{OBP|Galarian Zapdos|2-2-004}}|Fighting|Flying|6}}
+{{MezastarExpansionList/entry|2-2-005|{{OBP|Galarian Moltres|2-2-005}}|Dark|Flying|6}}
+{{MezastarExpansionList/entry|2-2-006|{{OBP|Kommo-o|2-2-006}}|Dragon|Fighting|6}}
+{{MezastarExpansionList/entry|2-2-007|{{OBP|Snorlax|2-2-007}}|Normal||6}}
+{{MezastarExpansionList/entry|2-2-008|{{OBP|Greninja|2-2-008}}|Water|Dark|6}}
+{{MezastarExpansionList/entry|2-2-009|{{OBP|Zeraora|2-2-009}}|Electric||6}}
+{{MezastarExpansionList/entry|2-2-010|{{OBP|Kangaskhan|2-2-010}}|Normal||6}}
+{{MezastarExpansionList/entry|2-2-011|{{OBP|Sceptile|2-2-011}}|Grass||5}}
+{{MezastarExpansionList/entry|2-2-012|{{OBP|Blaziken|2-2-012}}|Fire|Fighting|5}}
+{{MezastarExpansionList/entry|2-2-013|{{OBP|Swampert|2-2-013}}|Water|Ground|5}}
+{{MezastarExpansionList/entry|2-2-014|{{OBP|Machamp|2-2-014}}|Fighting||5}}
+{{MezastarExpansionList/entry|2-2-015|{{OBP|Alakazam|2-2-015}}|Psychic||5}}
+{{MezastarExpansionList/entry|2-2-016|{{OBP|Obstagoon|2-2-016}}|Dark|Normal|5}}
+{{MezastarExpansionList/entry|2-2-017|{{OBP|Grimmsnarl|2-2-017}}|Dark|Fairy|5}}
+{{MezastarExpansionList/entry|2-2-018|{{OBP|Nidoqueen|2-2-018}}|Poison|Ground|5}}
+{{MezastarExpansionList/entry|2-2-019|{{OBP|Alolan Ninetales|2-2-019}}|Ice|Fairy|5}}
+{{MezastarExpansionList/entry|2-2-020|{{OBP|Orbeetle|2-2-020}}|Bug|Psychic|5}}
+{{MezastarExpansionList/entry|2-2-021|{{OBP|Galarian Slowbro|2-2-021}}|Poison|Psychic|5}}
+{{MezastarExpansionList/entry|2-2-022|{{OBP|Galarian Slowking|2-2-022}}|Poison|Psychic|5}}
+{{MezastarExpansionList/entry|2-2-023|{{OBP|Togekiss|2-2-023}}|Fairy|Flying|5}}
+{{MezastarExpansionList/entry|2-2-024|{{OBP|Dusknoir|2-2-024}}|Ghost||5}}
+{{MezastarExpansionList/entry|2-2-025|{{OBP|Talonflame|2-2-025}}|Fire|Flying|5}}
+{{MezastarExpansionList/entry|2-2-026|{{OBP|Treecko|2-2-026}}|Grass||2}}
+{{MezastarExpansionList/entry|2-2-027|{{OBP|Grovyle|2-2-027}}|Grass||3}}
+{{MezastarExpansionList/entry|2-2-028|{{OBP|Sceptile|2-2-028}}|Grass||4}}
+{{MezastarExpansionList/entry|2-2-029|{{OBP|Torchic|2-2-029}}|Fire||2}}
+{{MezastarExpansionList/entry|2-2-030|{{OBP|Combusken|2-2-030}}|Fire|Fighting|3}}
+{{MezastarExpansionList/entry|2-2-031|{{OBP|Blaziken|2-2-031}}|Fire|Fighting|4}}
+{{MezastarExpansionList/entry|2-2-032|{{OBP|Mudkip|2-2-032}}|Water||2}}
+{{MezastarExpansionList/entry|2-2-033|{{OBP|Marshtomp|2-2-033}}|Water|Ground|3}}
+{{MezastarExpansionList/entry|2-2-034|{{OBP|Swampert|2-2-034}}|Water|Ground|4}}
+{{MezastarExpansionList/entry|2-2-035|{{OBP|Blipbug|2-2-035}}|Bug||2}}
+{{MezastarExpansionList/entry|2-2-036|{{OBP|Dottler|2-2-036}}|Bug|Psychic|3}}
+{{MezastarExpansionList/entry|2-2-037|{{OBP|Orbeetle|2-2-037}}|Bug|Psychic|4}}
+{{MezastarExpansionList/entry|2-2-038|{{OBP|Clobbopus|2-2-038}}|Fighting||2}}
+{{MezastarExpansionList/entry|2-2-039|{{OBP|Grapploct|2-2-039}}|Fighting||4}}
+{{MezastarExpansionList/entry|2-2-040|{{OBP|Impidimp|2-2-040}}|Dark|Fairy|2}}
+{{MezastarExpansionList/entry|2-2-041|{{OBP|Morgrem|2-2-041}}|Dark|Fairy|3}}
+{{MezastarExpansionList/entry|2-2-042|{{OBP|Grimmsnarl|2-2-042}}|Dark|Fairy|4}}
+{{MezastarExpansionList/entry|2-2-043|{{OBP|Galarian Slowpoke|2-2-043}}|Psychic||2}}
+{{MezastarExpansionList/entry|2-2-044|{{OBP|Galarian Slowbro|2-2-044}}|Poison|Psychic|4}}
+{{MezastarExpansionList/entry|2-2-045|{{OBP|Galarian Slowking|2-2-045}}|Poison|Psychic|4}}
+{{MezastarExpansionList/entry|2-2-046|{{OBP|Rolycoly|2-2-046}}|Rock||2}}
+{{MezastarExpansionList/entry|2-2-047|{{OBP|Carkol|2-2-047}}|Rock|Fire|3}}
+{{MezastarExpansionList/entry|2-2-048|{{OBP|Coalossal|2-2-048}}|Rock|Fire|4}}
+{{MezastarExpansionList/entry|2-2-049|{{OBP|Murkrow|2-2-049}}|Dark|Flying|3}}
+{{MezastarExpansionList/entry|2-2-050|{{OBP|Honchkrow|2-2-050}}|Dark|Flying|4}}
+{{MezastarExpansionList/entry|2-2-051|{{OBP|Alolan Vulpix|2-2-051}}|Ice||3}}
+{{MezastarExpansionList/entry|2-2-052|{{OBP|Alolan Ninetales|2-2-052}}|Ice|Fairy|4}}
+{{MezastarExpansionList/entry|2-2-053|{{OBP|Machop|2-2-053}}|Fighting||2}}
+{{MezastarExpansionList/entry|2-2-054|{{OBP|Machoke|2-2-054}}|Fighting||3}}
+{{MezastarExpansionList/entry|2-2-055|{{OBP|Machamp|2-2-055}}|Fighting||4}}
+{{MezastarExpansionList/entry|2-2-056|{{OBP|Woobat|2-2-056}}|Psychic|Flying|2}}
+{{MezastarExpansionList/entry|2-2-057|{{OBP|Swoobat|2-2-057}}|Psychic|Flying|3}}
+{{MezastarExpansionList/entry|2-2-058|{{OBP|Eevee|2-2-058}}|Normal||4}}
+{{MezastarExpansionList/entry|2-2-059|{{OBP|Wooper|2-2-059}}|Water|Ground|2}}
+{{MezastarExpansionList/entry|2-2-060|{{OBP|Quagsire|2-2-060}}|Water|Ground|3}}
+{{MezastarExpansionList/entry|2-2-061|{{OBP|Fletchling|2-2-061}}|Normal|Flying|2}}
+{{MezastarExpansionList/entry|2-2-062|{{OBP|Fletchinder|2-2-062}}|Fire|Flying|3}}
+{{MezastarExpansionList/entry|2-2-063|{{OBP|Talonflame|2-2-063}}|Fire|Flying|4}}
+{{MezastarExpansionList/entry|2-2-064|{{OBP|Togepi|2-2-064}}|Fairy||2}}
+{{MezastarExpansionList/entry|2-2-065|{{OBP|Togetic|2-2-065}}|Fairy|Flying|3}}
+{{MezastarExpansionList/entry|2-2-066|{{OBP|Togekiss|2-2-066}}|Fairy|Flying|4}}
+{{MezastarExpansionList/entry|2-2-067|{{OBP|Duskull|2-2-067}}|Ghost||2}}
+{{MezastarExpansionList/entry|2-2-068|{{OBP|Dusclops|2-2-068}}|Ghost||3}}
+{{MezastarExpansionList/entry|2-2-069|{{OBP|Dusknoir|2-2-069}}|Ghost||4}}
+{{MezastarExpansionList/entry|2-2-070|{{OBP|Skarmory|2-2-070}}|Steel|Flying|4}}

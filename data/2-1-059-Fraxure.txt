@@ -1,0 +1,19 @@
+name : Fraxure
+jname : オノンド
+tmname : Onondo
+type1 : Dragon
+setno : 2-1
+tagno : 059
+energy : 72
+grade : 3
+type1 : Dragon
+move : Breaking Swipe
+movetype : Dragon
+hp : 91
+atk : 86
+def : 54
+spatk : 33
+spdef : 40
+spd : 51
+dex : A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.
+jdex : キバは にどと はえかわらないので たたかいが おわると かわらの いわで たんねんに みがきあげる。
